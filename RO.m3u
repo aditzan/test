@@ -1,0 +1,383 @@
+﻿#EXTM3U
+
+#EXTINF:-1, tvg-id="TVR 1" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/TVR1.png" tvg-name="TVR 1"  group-title="ROMANIA",TVR 1
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68786
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/TVR1.png" tvg-name="TVR1"  group-title="ROMANIA",TVR1
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68787
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/TVR2.png" tvg-name="TVR 2"  group-title="ROMANIA",TVR 2
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68788
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/TVR3.png" tvg-name="TVR 3"  group-title="ROMANIA",TVR 3
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68789
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/TVR1.png" tvg-name="TVR HD"  group-title="ROMANIA",TVR HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68790
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/ROMANIAATV.png" tvg-name="ROMANIA TV"  group-title="ROMANIA",ROMANIA TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68791
+
+#EXTINF:-1, tvg-id="Antena 1" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/ANTENA1.png" tvg-name="ANTENA 1 HD"  group-title="ROMANIA",ANTENA 1 HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68792
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/ANTENAA3.png" tvg-name="ANTENA 3"  group-title="ROMANIA",ANTENA 3
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68793
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/ANTENASTARS.png" tvg-name="ANTENA STARS"  group-title="ROMANIA",ANTENA STARS
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68794
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/PROOTV.png" tvg-name="PROTV HD"  group-title="ROMANIA",PROTV HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68795
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/PROOTV.png" tvg-name="PRO TV"  group-title="ROMANIA",PRO TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68796
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/PROOTV.png" tvg-name="PRO 2"  group-title="ROMANIA",PRO 2
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68797
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/PROOTV.png" tvg-name="PRO X"  group-title="ROMANIA",PRO X
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68798
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DIGIANIMALWORLD.png" tvg-name="DIGI WORLD"  group-title="ROMANIA",DIGI WORLD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68799
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DIGILIFE.png" tvg-name="DIGI LIFE"  group-title="ROMANIA",DIGI LIFE
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68800
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/AXNWHITE.png" tvg-name="AXN WHITE"  group-title="ROMANIA",AXN WHITE
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68801
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/AXNROMANIA.png" tvg-name="AXN ROMANIA"  group-title="ROMANIA",AXN ROMANIA
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68802
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/AXN.png" tvg-name="AXN BLACK"  group-title="ROMANIA",AXN BLACK
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68803
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/B1.png" tvg-name="B1 TV"  group-title="ROMANIA",B1 TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68804
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DTX.png" tvg-name="DTX"  group-title="ROMANIA",DTX
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68805
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FAVORITTV.png" tvg-name="FAVORIT TV"  group-title="ROMANIA",FAVORIT TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68806
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/HAPPYCHANNEL.png" tvg-name="HAPPY CHANNEL"  group-title="ROMANIA",HAPPY CHANNEL
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68807
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/HBO.png" tvg-name="HBO Romania"  group-title="ROMANIA",HBO Romania
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68808
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/HBO.png" tvg-name="HBO HD RO"  group-title="ROMANIA",HBO HD RO
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68809
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/HBO.png" tvg-name="HBO2"  group-title="ROMANIA",HBO2
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68810
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/HBO.png" tvg-name="HBO 3 RO"  group-title="ROMANIA",HBO 3 RO
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68811
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/HBO.png" tvg-name="HBO 3"  group-title="ROMANIA",HBO 3
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68812
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/E.png" tvg-name="E! ENTERTAINMENT"  group-title="ROMANIA",E! ENTERTAINMENT
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68813
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/HORA.png" tvg-name="HORA TV"  group-title="ROMANIA",HORA TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68814
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/JIMJAM.png" tvg-name="JIMJAM"  group-title="ROMANIA",JIMJAM
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68815
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/KANALD.png" tvg-name="KANAL D"  group-title="ROMANIA",KANAL D
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68816
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/KIISS.png" tvg-name="KISS TV"  group-title="ROMANIA",KISS TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68817
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/LOOKPLUS.png" tvg-name="LOOK PLUS HD"  group-title="ROMANIA",LOOK PLUS HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68818
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="LOOKPLUS"  group-title="ROMANIA",LOOKPLUS
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68819
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/NATIONALTV.png" tvg-name="NATIONAL TV"  group-title="ROMANIA",NATIONAL TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68820
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/PRIMATV.png" tvg-name="PRIMA TV RO"  group-title="ROMANIA",PRIMA TV RO
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68821
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/REALITATEA.png" tvg-name="REALITATEA TV"  group-title="ROMANIA",REALITATEA TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68822
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/TARAAF.png" tvg-name="TARAF"  group-title="ROMANIA",TARAF
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68823
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/TNTHD.png" tvg-name="TNT RO"  group-title="ROMANIA",TNT RO
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68824
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/NATIONALGEOGRAPHIC.png" tvg-name="NGRO"  group-title="ROMANIA",NGRO
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68825
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/NATIONALTV.png" tvg-name="N24"  group-title="ROMANIA",N24
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68826
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FIENLIVING.png" tvg-name="FINE LIVING"  group-title="ROMANIA",FINE LIVING
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68827
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/ETNO.png" tvg-name="ETNO"  group-title="ROMANIA",ETNO
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68828
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DUNA HD"  group-title="ROMANIA",DUNA HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68829
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DOCUBOX"  group-title="ROMANIA",DOCUBOX
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68830
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DIVA.png" tvg-name="DIVA"  group-title="ROMANIA",DIVA
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68831
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DAVINCI LEARNING"  group-title="ROMANIA",DAVINCI LEARNING
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68832
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/TRAVELCHANNEL.png" tvg-name="TRAVEL CHANNEL HD"  group-title="ROMANIA",TRAVEL CHANNEL HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68833
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/TRAVELCHANNEL.png" tvg-name="TRAVEL CHANNEL"  group-title="ROMANIA",TRAVEL CHANNEL
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68834
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/TVPAPRIKA.png" tvg-name="TV PAPRIKA"  group-title="ROMANIA",TV PAPRIKA
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68835
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/ZUTV.png" tvg-name="ZU TV"  group-title="ROMANIA",ZU TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68836
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/UTV.png" tvg-name="U TV"  group-title="ROMANIA",U TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68837
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV NEPTUN"  group-title="ROMANIA",TV NEPTUN
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68838
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/TV1000.png" tvg-name="TV 1000"  group-title="ROMANIA",TV 1000
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68839
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/SPERANTA.png" tvg-name="SPERANTA TV"  group-title="ROMANIA",SPERANTA TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68841
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/RTLLOUNGE.png" tvg-name="RTL LOUNGE"  group-title="ROMANIA",RTL LOUNGE
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68842
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="##### KIDS #####"  group-title="ROMANIA",##### KIDS #####
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68843
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/BOOMERANG.png" tvg-name="BOOMERANG"  group-title="ROMANIA",BOOMERANG
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68844
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/CARTOONNETWORK.png" tvg-name="CARTOON"  group-title="ROMANIA",CARTOON
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68845
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/CARTOONNETWORK.png" tvg-name="CARTOON NETWORK"  group-title="ROMANIA",CARTOON NETWORK
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68846
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DISNEYROM.png" tvg-name="DISNEY ROM"  group-title="ROMANIA",DISNEY ROM
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68847
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DISNEYJR.png" tvg-name="DISNEY JR"  group-title="ROMANIA",DISNEY JR
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68848
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DISNEYROM.png" tvg-name="DISNEY CHANNEL"  group-title="ROMANIA",DISNEY CHANNEL
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68849
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/MINIMAX.png" tvg-name="MINIMAX"  group-title="ROMANIA",MINIMAX
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68850
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="##### CINEMA #####"  group-title="ROMANIA",##### CINEMA #####
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68851
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/CINEMAX.png" tvg-name="CINEMAX 2"  group-title="ROMANIA",CINEMAX 2
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68852
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/CINEMAX.png" tvg-name="CINEMAX"  group-title="ROMANIA",CINEMAX
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68853
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FILMCAFE.png" tvg-name="FILMCAFE"  group-title="ROMANIA",FILMCAFE
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68854
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FILMBOXPREMIUM.png" tvg-name="FILMBOX PREMIUM"  group-title="ROMANIA",FILMBOX PREMIUM
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68855
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FILMBOXEXTRA.png" tvg-name="FILMBOX EXTRA HD"  group-title="ROMANIA",FILMBOX EXTRA HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68856
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FILMBOXEXTRA.png" tvg-name="FILMBOX"  group-title="ROMANIA",FILMBOX
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68857
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FILMNOW.png" tvg-name="FILM NOW"  group-title="ROMANIA",FILM NOW
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68858
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FILMCAFE.png" tvg-name="FILM CAFE"  group-title="ROMANIA",FILM CAFE
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68859
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/PROOTV.png" tvg-name="PRO GOLD"  group-title="ROMANIA",PRO GOLD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68860
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/PROOTV.png" tvg-name="PRO CINEMA"  group-title="ROMANIA",PRO CINEMA
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68861
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/MEGAMAX.png" tvg-name="MEGAMAX"  group-title="ROMANIA",MEGAMAX
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68862
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CINEMARATON"  group-title="ROMANIA",CINEMARATON
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68863
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS REALITY"  group-title="ROMANIA",CBS REALITY
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68864
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/BOLLYWOOD.png" tvg-name="BOLLYWOOD TV"  group-title="ROMANIA",BOLLYWOOD TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68865
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/ANTENA1.png" tvg-name="ANTENA 1"  group-title="ROMANIA",ANTENA 1
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68866
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/AMCHD.png" tvg-name="AMC RO"  group-title="ROMANIA",AMC RO
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68867
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/AGRO.png" tvg-name="AGRO TV"  group-title="ROMANIA",AGRO TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68868
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="##### DISCOVERY #####"  group-title="ROMANIA",##### DISCOVERY #####
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68869
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/NATIONALGEOGRAPHIC.png" tvg-name="NATIONAL GEOGRAPHIC RO"  group-title="ROMANIA",NATIONAL GEOGRAPHIC RO
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68870
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/NATGEOWILDHD.png" tvg-name="NAT GEO WILD HD"  group-title="ROMANIA",NAT GEO WILD HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68871
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/NATIONALGEOGRAPHIC.png" tvg-name="NGC HD"  group-title="ROMANIA",NGC HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68872
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/INVESTIGATIONDISCOVERY.png" tvg-name="INVESTIGATION DISCOVERY"  group-title="ROMANIA",INVESTIGATION DISCOVERY
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68873
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DISCOVERYCHANNEL.png" tvg-name="DISCOVERY SCIENCE"  group-title="ROMANIA",DISCOVERY SCIENCE
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68874
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DISCOVERYCHANNEL.png" tvg-name="DISCOVERY RO"  group-title="ROMANIA",DISCOVERY RO
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68875
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DISCOVERYCHANNEL.png" tvg-name="DISCOVERY HD SHOWCASE"  group-title="ROMANIA",DISCOVERY HD SHOWCASE
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68876
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DISCOVERYCHANNEL.png" tvg-name="DISCOVERY CHANNEL"  group-title="ROMANIA",DISCOVERY CHANNEL
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68877
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/ANIMALPLANET.png" tvg-name="ANIMAL PLANET HD"  group-title="ROMANIA",ANIMAL PLANET HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68878
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/ANIMALPLANET.png" tvg-name="ANIMAL PLANET"  group-title="ROMANIA",ANIMAL PLANET
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68879
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DIGIANIMALWORLD.png" tvg-name="DIGI ANIMAL WORLD"  group-title="ROMANIA",DIGI ANIMAL WORLD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68880
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/VIASATNATURE.png" tvg-name="VIASAT NATURE"  group-title="ROMANIA",VIASAT NATURE
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68881
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/VIASATHISTORY.png" tvg-name="VIASAT HISTORY"  group-title="ROMANIA",VIASAT HISTORY
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68882
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/VIASATEXPLORE.png" tvg-name="VIASAT EXPLORER"  group-title="ROMANIA",VIASAT EXPLORER
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68883
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/VIASATEXPLORE.png" tvg-name="VIASAT EXPLORE"  group-title="ROMANIA",VIASAT EXPLORE
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68884
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/HISTORY.png" tvg-name="HISTORY"  group-title="ROMANIA",HISTORY
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68885
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/HISTORY.png" tvg-name="HISTORY HD"  group-title="ROMANIA",HISTORY HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68886
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="##### MUSIC #####"  group-title="ROMANIA",##### MUSIC #####
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68887
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/MUSICCHANNEL.HU.png" tvg-name="MUSIC CHANNEL"  group-title="ROMANIA",MUSIC CHANNEL
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68888
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/MTV.png" tvg-name="MTV ROCKS"  group-title="ROMANIA",MTV ROCKS
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68889
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/MTV.png" tvg-name="MTV HITS"  group-title="ROMANIA",MTV HITS
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68890
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/MTV.png" tvg-name="MTV EUROPE"  group-title="ROMANIA",MTV EUROPE
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68891
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/MTV.png" tvg-name="MTV DANCE"  group-title="ROMANIA",MTV DANCE
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68892
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/MOOZDANCE.png" tvg-name="MOOZ DANCE HD"  group-title="ROMANIA",MOOZ DANCE HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68893
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/1CLASSICS.png" tvg-name="VH1 CLASSIC"  group-title="ROMANIA",VH1 CLASSIC
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68894
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SUNDANCE TV HD"  group-title="ROMANIA",SUNDANCE TV HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68895
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="##### SPORTS #####"  group-title="ROMANIA",##### SPORTS #####
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68896
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DIGISPORT1.png" tvg-name="DIGI SPORT 1 HD RO"  group-title="ROMANIA",DIGI SPORT 1 HD RO
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68897
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DIGISPORT1.png" tvg-name="DIGI SPORT 1"  group-title="ROMANIA",DIGI SPORT 1
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68898
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DIGISPORT2.png" tvg-name="DIGI SPORT 2 HD RO"  group-title="ROMANIA",DIGI SPORT 2 HD RO
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68899
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DIGISPORT2.png" tvg-name="DIGI SPORT 2"  group-title="ROMANIA",DIGI SPORT 2
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68900
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DIGISPORT3.png" tvg-name="DIGI SPORT 3"  group-title="ROMANIA",DIGI SPORT 3
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68901
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DIGISPORT4.png" tvg-name="DIGI SPORT 4"  group-title="ROMANIA",DIGI SPORT 4
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68902
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/EXTREMESPORT.png" tvg-name="EXTREME SPORTS CHANNEL"  group-title="ROMANIA",EXTREME SPORTS CHANNEL
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68903
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/EUROSPORT.png" tvg-name="EUROSPORT 1 HD"  group-title="ROMANIA",EUROSPORT 1 HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68904
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/EUROSPORT.png" tvg-name="EUROSPORT 2 HD"  group-title="ROMANIA",EUROSPORT 2 HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68905
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/EUROSPORT.png" tvg-name="EUROSPORT 2"  group-title="ROMANIA",EUROSPORT 2
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68906
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/ELEVENSPORTS.png" tvg-name="ELEVENSPORTS1"  group-title="ROMANIA",ELEVENSPORTS1
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68907
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/ELEVENSPORTS.png" tvg-name="ELEVENSPORTS2"  group-title="ROMANIA",ELEVENSPORTS2
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68908
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/PROOTV.png" tvg-name="PRO TV INTERNATIONAL"  group-title="ROMANIA",PRO TV INTERNATIONAL
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68909
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/AUTOMOTOR.png" tvg-name="AUTO MOTOR SPORT"  group-title="ROMANIA",AUTO MOTOR SPORT
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68910
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FIGHTBOXHD.png" tvg-name="FIGHTBOX"  group-title="ROMANIA",FIGHTBOX
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68911
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/LOOKSPORT.png" tvg-name="LOOKSPORT"  group-title="ROMANIA",LOOKSPORT
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68912
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/LOOKSPORT.png" tvg-name="LOOK SPORT HD"  group-title="ROMANIA",LOOK SPORT HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68913
+
