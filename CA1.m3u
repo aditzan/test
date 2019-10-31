@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/AMERICA/CANADA/Canada_flag.png" tvg-name="##### CANADA #####"  group-title="CANADA",##### CANADA #####
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30546
+#EXTINF:0, tvg-id="AandE.ca" tvg-logo="http://212.8.253.112/logo/CANADA/A%26E.png" tvg-name="CA-A&E"  group-title="CANADA",CA-A&E
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30545
+#EXTINF:0, tvg-id="ABCSpark.ca" tvg-logo="http://212.8.253.112/logo/CANADA/ABCEAST.png" tvg-name="CA-ABC EAST"  group-title="CANADA",CA-ABC EAST
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30544
+#EXTINF:0, tvg-id="ABCSpark.ca" tvg-logo="http://212.8.253.112/logo/CANADA/ABCSPARKCANADA.png" tvg-name="CA-ABC SPARK CANADA"  group-title="CANADA",CA-ABC SPARK CANADA
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30543
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/CANADA/ABCWEST.png" tvg-name="CA-ABC WEST"  group-title="CANADA",CA-ABC WEST
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30542
+#EXTINF:0, tvg-id="Action.ca" tvg-logo="http://212.8.253.112/logo/CANADA/ACTION.png" tvg-name="CA-ACTION"  group-title="CANADA",CA-ACTION
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30541
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/CANADA/AMC.png" tvg-name="CA-AHC"  group-title="CANADA",CA-AHC
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30539
+#EXTINF:0, tvg-id="AMC.ca" tvg-logo="http://212.8.253.112/logo/CANADA/AMC.png" tvg-name="CA-AMC"  group-title="CANADA",CA-AMC
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30538
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/CANADA/ANIMALPLANET.png" tvg-name="CA-ANIMAL PLANET"  group-title="CANADA",CA-ANIMAL PLANET
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30537
+#EXTINF:0, tvg-id="APTN.ca" tvg-logo="http://212.8.253.112/logo/LATINO/CAPITALTV.png" tvg-name="CA-APTN"  group-title="CANADA",CA-APTN
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30536
+#EXTINF:0, tvg-id="AssembleeNationale.ca" tvg-logo="http://212.8.253.112/logo/CANADA/ASSEMBLEENATIONALEQUEBEC.png" tvg-name="CA-ASSEMBLÉE NATIONALE QUÉBEC"  group-title="CANADA",CA-ASSEMBLÉE NATIONALE QUÉBEC
+
