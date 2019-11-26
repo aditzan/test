@@ -1,0 +1,677 @@
+﻿#EXTM3U
+
+#EXTINF:-1, tvg-id="4311.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/A%26E.png" tvg-name="A&amp;E Canada"  group-title="CANADA",A&amp;E Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30545
+
+#EXTINF:-1, tvg-id="http://212.8.253.112/logo/CANADA/ABCEAST.png" tvg-logo="http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30544" tvg-name=""ABC (WCVB) Boston"  group-title="MA"","ABC (WCVB) Boston
+CANADA
+
+#EXTINF:-1, tvg-id="ABCSpark.ca" tvg-logo="http://212.8.253.112/logo/CANADA/ABCSPARKCANADA.png" tvg-name="ABC Spark"  group-title="CANADA",ABC Spark
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30543
+
+#EXTINF:-1, tvg-id="http://212.8.253.112/logo/CANADA/ABCWEST.png" tvg-logo="http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30542" tvg-name=""ABC (KOMO) Seattle"  group-title="WA"","ABC (KOMO) Seattle
+CANADA
+
+#EXTINF:-1, tvg-id="Action.ca" tvg-logo="http://212.8.253.112/logo/CANADA/ACTION.png" tvg-name="ACTION"  group-title="CANADA",ACTION
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30541
+
+#EXTINF:-1, tvg-id="2035.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/AMC.png" tvg-name="AHC"  group-title="CANADA",AHC
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30539
+
+#EXTINF:-1, tvg-id="AMC.ca" tvg-logo="http://212.8.253.112/logo/CANADA/AMC.png" tvg-name="AMC - Canada"  group-title="CANADA",AMC - Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30538
+
+#EXTINF:-1, tvg-id="472.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/ANIMALPLANET.png" tvg-name="Animal Planet Canada"  group-title="CANADA",Animal Planet Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30537
+
+#EXTINF:-1, tvg-id="APTN.ca" tvg-logo="http://212.8.253.112/logo/LATINO/CAPITALTV.png" tvg-name="APTN"  group-title="CANADA",APTN
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30536
+
+#EXTINF:-1, tvg-id="AssembleeNationale.ca" tvg-logo="http://212.8.253.112/logo/CANADA/ASSEMBLEENATIONALEQUEBEC.png" tvg-name="ASSEMBLÉE NATIONALE QUÉBEC"  group-title="CANADA",ASSEMBLÉE NATIONALE QUÉBEC
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30534
+
+#EXTINF:-1, tvg-id="BBCCanada.ca" tvg-logo="http://212.8.253.112/logo/CANADA/BBCCANADA.png" tvg-name="BBC Canada East"  group-title="CANADA",BBC Canada East
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30533
+
+#EXTINF:-1, tvg-id="BBCWorld.ca" tvg-logo="http://212.8.253.112/logo/CANADA/BBCWORLDNEWS.png" tvg-name="BBC World - North America"  group-title="CANADA",BBC World - North America
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30531
+
+#EXTINF:-1, tvg-id="BET.ca" tvg-logo="http://212.8.253.112/logo/CANADA/BET.png" tvg-name="BET - Canada"  group-title="CANADA",BET - Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30530
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/CANADA/BNN.png" tvg-name="BNN Bloomberg"  group-title="CANADA",BNN Bloomberg
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30529
+
+#EXTINF:-1, tvg-id="BookTelevision.ca" tvg-logo="http://212.8.253.112/logo/CANADA/BOOKTV.png" tvg-name="Book Television"  group-title="CANADA",Book Television
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30528
+
+#EXTINF:-1, tvg-id="Bravo.ca" tvg-logo="http://212.8.253.112/logo/CANADA/BRAVO.png" tvg-name="Bravo Canada"  group-title="CANADA",Bravo Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30527
+
+#EXTINF:-1, tvg-id="CartoonNetwork.ca" tvg-logo="http://212.8.253.112/logo/CANADA/CARTOONNETWORK.png" tvg-name="Cartoon Network Canada"  group-title="CANADA",Cartoon Network Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30524
+
+#EXTINF:-1, tvg-id="CBCNews.ca" tvg-logo="http://212.8.253.112/logo/CANADA/CBCNEWS.png" tvg-name="CBC News Network"  group-title="CANADA",CBC News Network
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30521
+
+#EXTINF:-1, tvg-id="http://212.8.253.112/logo/CANADA/CBCOTTAWA.png" tvg-logo="http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30519" tvg-name=""CBC (CBOT) Ottawa"  group-title="ON"","CBC (CBOT) Ottawa
+CANADA
+
+#EXTINF:-1, tvg-id="http://212.8.253.112/logo/CANADA/CBCTORONTO.png" tvg-logo="http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30518" tvg-name=""CBC (CBLT) Toronto"  group-title="ON"","CBC (CBLT) Toronto
+CANADA
+
+#EXTINF:-1, tvg-id="http://212.8.253.112/logo/CANADA/CBCVANCOUVER.png" tvg-logo="http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30517" tvg-name=""CBC (CBUT) Vancouver"  group-title="BC"","CBC (CBUT) Vancouver
+CANADA
+
+#EXTINF:-1, tvg-id="http://212.8.253.112/logo/CANADA/CBSEAST.png" tvg-logo="http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30516" tvg-name=""CBC (CBHT) Halifax"  group-title="NS"","CBC (CBHT) Halifax
+CANADA
+
+#EXTINF:-1, tvg-id="http://212.8.253.112/logo/CANADA/CBSWEST.png" tvg-logo="http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30515" tvg-name=""CBC (CBWT) Winnipeg"  group-title="MB"","CBC (CBWT) Winnipeg
+CANADA
+
+#EXTINF:-1, tvg-id="http://212.8.253.112/logo/CANADA/CHCH.png" tvg-logo="http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30514" tvg-name=""CHCH Hamilton"  group-title="ON"","CHCH Hamilton
+CANADA
+
+#EXTINF:-1, tvg-id="http://212.8.253.112/logo/CANADA/CITYMONTREAL.png" tvg-logo="http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30512" tvg-name=""CITY Montreal"  group-title="QC"","CITY Montreal
+CANADA
+
+#EXTINF:-1, tvg-id="http://212.8.253.112/logo/CANADA/CITYTORONTO.png" tvg-logo="http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30510" tvg-name=""CITY Toronto"  group-title="ON"","CITY Toronto
+CANADA
+
+#EXTINF:-1, tvg-id="http://212.8.253.112/logo/CANADA/CITYVANCOUVER.png" tvg-logo="http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30509" tvg-name=""CITY Vancouver"  group-title="BC"","CITY Vancouver
+CANADA
+
+#EXTINF:-1, tvg-id="CMT.ca" tvg-logo="http://212.8.253.112/logo/CANADA/CMTCANADA.png" tvg-name="CMT Canada"  group-title="CANADA",CMT Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30507
+
+#EXTINF:-1, tvg-id="MSNBC.ca" tvg-logo="http://212.8.253.112/logo/SCANDINAVIAN/CNBC.png" tvg-name="CNBC Canada"  group-title="CANADA",CNBC Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30506
+
+#EXTINF:-1, tvg-id="70.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/CNN.png" tvg-name="CNN"  group-title="CANADA",CNN
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30505
+
+#EXTINF:-1, tvg-id="70.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/CNNINTERNATIONAL.png" tvg-name="CNN International North America"  group-title="CANADA",CNN International North America
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30504
+
+#EXTINF:-1, tvg-id="ComedyGold.ca" tvg-logo="http://212.8.253.112/logo/CANADA/COMEDYEAST.png" tvg-name="Comedy Network - East"  group-title="CANADA",Comedy Network - East
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30503
+
+#EXTINF:-1, tvg-id="ComedyGold.ca" tvg-logo="http://212.8.253.112/logo/CANADA/COMEDYGOLD.png" tvg-name="Comedy Gold"  group-title="CANADA",Comedy Gold
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30502
+
+#EXTINF:-1, tvg-id="CookingChannel.ca" tvg-logo="http://212.8.253.112/logo/CANADA/COOKINGCHANNEL.png" tvg-name="Cooking Channel Canada"  group-title="CANADA",Cooking Channel Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30500
+
+#EXTINF:-1, tvg-id="5405.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/COSMO.png" tvg-name="Cosmopolitan TV East"  group-title="CANADA",Cosmopolitan TV East
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30499
+
+#EXTINF:-1, tvg-id="CottageLife.ca" tvg-logo="http://212.8.253.112/logo/CANADA/COTTAGELIFE.png" tvg-name="Cottage Life"  group-title="CANADA",Cottage Life
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30498
+
+#EXTINF:-1, tvg-id="Cp24.ca" tvg-logo="http://212.8.253.112/logo/CANADA/CP24.png" tvg-name="CP24 (CablePulse 24)"  group-title="CANADA",CP24 (CablePulse 24)
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30497
+
+#EXTINF:-1, tvg-id="CPAC.ca" tvg-logo="http://212.8.253.112/logo/CANADA/CPAC.png" tvg-name="CPAC"  group-title="CANADA",CPAC
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30496
+
+#EXTINF:-1, tvg-id="CPAC.ca" tvg-logo="http://212.8.253.112/logo/CANADA/CPACFRENCH.png" tvg-name="CPAC Ottawa"  group-title="CANADA",CPAC Ottawa
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30495
+
+#EXTINF:-1, tvg-id="CrimeInvestigation.ca" tvg-logo="http://212.8.253.112/logo/CANADA/CRIMEINVEST.png" tvg-name="#N/A"  group-title="CANADA",#N/A
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30494
+
+#EXTINF:-1, tvg-id="CTVVancouver.ca" tvg-logo="http://212.8.253.112/logo/CANADA/CTV2VANCOUVER.png" tvg-name="CTV2 Vancouver Island. BC"  group-title="CANADA",CTV2 Vancouver Island. BC
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30492
+
+#EXTINF:-1, tvg-id="CTVHalifaxCJCH.ca" tvg-logo="http://212.8.253.112/logo/CANADA/CTVOTTAWA.png" tvg-name="CTV (CJCH) Halifax"  group-title="CANADA",CTV (CJCH) Halifax
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30491
+
+#EXTINF:-1, tvg-id="CTVNews.ca" tvg-logo="http://212.8.253.112/logo/CANADA/CTVNEWSNETWORK.png" tvg-name="CTV News Channel"  group-title="CANADA",CTV News Channel
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30489
+
+#EXTINF:-1, tvg-id="http://212.8.253.112/logo/CANADA/CTVOTTAWA.png" tvg-logo="http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30488" tvg-name=""CTV Ottawa (CJOH)"  group-title="ON"","CTV Ottawa (CJOH)
+CANADA
+
+#EXTINF:-1, tvg-id="http://212.8.253.112/logo/CANADA/CTVTORONTO.png" tvg-logo="http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30487" tvg-name=""CTV (CFTO) Toronto"  group-title="ON"","CTV (CFTO) Toronto
+CANADA
+
+#EXTINF:-1, tvg-id="http://212.8.253.112/logo/CANADA/CTVVANCOUVER.png" tvg-logo="http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30486" tvg-name=""CTV Vancouver"  group-title="BC"","CTV Vancouver
+CANADA
+
+#EXTINF:-1, tvg-id="http://212.8.253.112/logo/CANADA/CTV2OTTAWA.png" tvg-logo="http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30485" tvg-name=""CTV2 Ottawa"  group-title="ON"","CTV2 Ottawa
+CANADA
+
+#EXTINF:-1, tvg-id="64.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/CW11.png" tvg-name="Capital Networks: Disney XD"  group-title="CANADA",Capital Networks: Disney XD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30484
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/CANADA/DAYSTARTV.png" tvg-name="DAYSTAR TV"  group-title="CANADA",DAYSTAR TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30483
+
+#EXTINF:-1, tvg-id="DejaView.ca" tvg-logo="http://212.8.253.112/logo/CANADA/DEJAVIEW.png" tvg-name="Deja View"  group-title="CANADA",Deja View
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30482
+
+#EXTINF:-1, tvg-id="DiscoveryChannel.ca" tvg-logo="http://212.8.253.112/logo/CANADA/DISCOVERYCANADA.png" tvg-name="Discovery Channel (CAN)"  group-title="CANADA",Discovery Channel (CAN)
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30481
+
+#EXTINF:-1, tvg-id="DiscoveryScience.ca" tvg-logo="http://212.8.253.112/logo/CANADA/DISCOVERYSCIENCECANADA.png" tvg-name="Discovery Science Canada"  group-title="CANADA",Discovery Science Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30480
+
+#EXTINF:-1, tvg-id="DisneyChannel.ca" tvg-logo="http://212.8.253.112/logo/CANADA/DISNEYCANADA.png" tvg-name="DISNEY CANADA"  group-title="CANADA",DISNEY CANADA
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30479
+
+#EXTINF:-1, tvg-id="DisneyJunior.ca" tvg-logo="http://212.8.253.112/logo/CANADA/DISNEYJR.png" tvg-name="Family Jr."  group-title="CANADA",Family Jr.
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30477
+
+#EXTINF:-1, tvg-id="2034.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/DIY.png" tvg-name="Do It Yourself Network (Canada)"  group-title="CANADA",Do It Yourself Network (Canada)
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30476
+
+#EXTINF:-1, tvg-id="DocumentaryChannel.ca" tvg-logo="http://212.8.253.112/logo/CANADA/DOCUMENTARY.png" tvg-name="Documentary Channel (Canada)"  group-title="CANADA",Documentary Channel (Canada)
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30475
+
+#EXTINF:-1, tvg-id="Dtour.ca" tvg-logo="http://212.8.253.112/logo/CANADA/DTOUR.png" tvg-name="DTOUR"  group-title="CANADA",DTOUR
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30474
+
+#EXTINF:-1, tvg-id="EEntertainment.ca" tvg-logo="http://212.8.253.112/logo/CANADA/E%21CANADA.png" tvg-name="E! Canada"  group-title="CANADA",E! Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30473
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/CANADA/ENCORE1EAST.png" tvg-name="ENCORE 1 EAST"  group-title="CANADA",ENCORE 1 EAST
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30472
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/CANADA/ENCORE1EAST.png" tvg-name="ENCORE 2 EAST"  group-title="CANADA",ENCORE 2 EAST
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30471
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/CANADA/EVASION.png" tvg-name="EVASION"  group-title="CANADA",EVASION
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30470
+
+#EXTINF:-1, tvg-id="FamilyChannel.ca" tvg-logo="http://212.8.253.112/logo/CANADA/FAMILYCHRGD.png" tvg-name="FAMILY CHRGD"  group-title="CANADA",FAMILY CHRGD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30469
+
+#EXTINF:-1, tvg-id="53.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/FAMILYEAST.png" tvg-name="Family Channel Canada - East"  group-title="CANADA",Family Channel Canada - East
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30468
+
+#EXTINF:-1, tvg-id="FamilyJr.ca" tvg-logo="http://212.8.253.112/logo/CANADA/FAMILYJR.png" tvg-name="Family Jr."  group-title="CANADA",Family Jr.
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30467
+
+#EXTINF:-1, tvg-id="53.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/FAMILYEAST.png" tvg-name="Family Channel Canada - West"  group-title="CANADA",Family Channel Canada - West
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30466
+
+#EXTINF:-1, tvg-id="FightNetwork.ca" tvg-logo="http://212.8.253.112/logo/CANADA/FIGHTNETWORK.png" tvg-name="FIGHT NETWORK"  group-title="CANADA",FIGHT NETWORK
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30465
+
+#EXTINF:-1, tvg-id="169.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/FOODNETWORK.png" tvg-name="Food Network Canada"  group-title="CANADA",Food Network Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30464
+
+#EXTINF:-1, tvg-id="http://212.8.253.112/logo/CANADA/FOXEAST.png" tvg-logo="http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30463" tvg-name=""FOX (WFXT) Boston"  group-title="MA"","FOX (WFXT) Boston
+CANADA
+
+#EXTINF:-1, tvg-id="1083.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/FOXNEWS.png" tvg-name="Fox News"  group-title="CANADA",Fox News
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30462
+
+#EXTINF:-1, tvg-id="http://212.8.253.112/logo/CANADA/FOXWEST.png" tvg-logo="http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30461" tvg-name=""FOX (KCPQ) Tacoma"  group-title="WA - Canada"","FOX (KCPQ) Tacoma
+CANADA
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/FRANCE/CINE%2BFRISSONHD.png" tvg-name="FRISSON"  group-title="CANADA",FRISSON
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30460
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/CANADA/FTVCANADA.png" tvg-name="FTV CANADA"  group-title="CANADA",FTV CANADA
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30459
+
+#EXTINF:-1, tvg-id="FYI.ca" tvg-logo="http://212.8.253.112/logo/CANADA/FYI.png" tvg-name="FYI Canada"  group-title="CANADA",FYI Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30458
+
+#EXTINF:-1, tvg-id="GameTV.ca" tvg-logo="http://212.8.253.112/logo/CANADA/GAMETV.png" tvg-name="Game TV"  group-title="CANADA",Game TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30457
+
+#EXTINF:-1, tvg-id="4836.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/GINXESPORTSTVCANADA.png" tvg-name="Ginx eSports TV Canada"  group-title="CANADA",Ginx eSports TV Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30456
+
+#EXTINF:-1, tvg-id="http://212.8.253.112/logo/CANADA/GLOBALTORONTO.png" tvg-logo="http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30455" tvg-name=""Global (CFSK) Saskatoon"  group-title="SK"","Global (CFSK) Saskatoon
+CANADA
+
+#EXTINF:-1, tvg-id="Global.ca" tvg-logo="http://212.8.253.112/logo/CANADA/GLOBALTORONTO.png" tvg-name="Global (CIII) Ontario"  group-title="CANADA",Global (CIII) Ontario
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30454
+
+#EXTINF:-1, tvg-id="Global.ca" tvg-logo="http://212.8.253.112/logo/CANADA/GLOBALVANCOUVER.png" tvg-name="Global BC"  group-title="CANADA",Global BC
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30453
+
+#EXTINF:-1, tvg-id="9900.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/GOLF.png" tvg-name="Golf Channel Canada"  group-title="CANADA",Golf Channel Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30452
+
+#EXTINF:-1, tvg-id="GSTV.in" tvg-logo="http://212.8.253.112/logo/CANADA/GSN.png" tvg-name="GSN"  group-title="CANADA",GSN
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30451
+
+#EXTINF:-1, tvg-id="GustoTV.ca" tvg-logo="http://212.8.253.112/logo/CANADA/GUSTO.png" tvg-name="Gusto TV"  group-title="CANADA",Gusto TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30450
+
+#EXTINF:-1, tvg-id="461.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/H2CANADA.png" tvg-name="H2 Canada"  group-title="CANADA",H2 Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30449
+
+#EXTINF:-1, tvg-id="HBO.ca" tvg-logo="http://212.8.253.112/logo/CANADA/HBO1.png" tvg-name="HBO Canada1"  group-title="CANADA",HBO Canada1
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30448
+
+#EXTINF:-1, tvg-id="HBO2.ca" tvg-logo="http://212.8.253.112/logo/CANADA/HBO2.png" tvg-name="HBO Canada2"  group-title="CANADA",HBO Canada2
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30447
+
+#EXTINF:-1, tvg-id="167.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/HGTV.png" tvg-name="HGTV Canada"  group-title="CANADA",HGTV Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30446
+
+#EXTINF:-1, tvg-id="HistoryChannel.ca" tvg-logo="http://212.8.253.112/logo/CANADA/HISTORY.png" tvg-name="History Canada East"  group-title="CANADA",History Canada East
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30444
+
+#EXTINF:-1, tvg-id="HLN.ca" tvg-logo="http://212.8.253.112/logo/CANADA/HLN.png" tvg-name="HLN"  group-title="CANADA",HLN
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30443
+
+#EXTINF:-1, tvg-id="HopeChannel.us" tvg-logo="http://212.8.253.112/logo/CANADA/SHOPPING.png" tvg-name="FaithTV"  group-title="CANADA",FaithTV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30442
+
+#EXTINF:-1, tvg-id="ICIRadioCanada.ca" tvg-logo="http://212.8.253.112/logo/CANADA/ICIVANCOUVER.png" tvg-name="ICI VANCOUVER"  group-title="CANADA",ICI VANCOUVER
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30440
+
+#EXTINF:-1, tvg-id="1120.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/IDCANADA.png" tvg-name="Investigation Discovery Canada"  group-title="CANADA",Investigation Discovery Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30439
+
+#EXTINF:-1, tvg-id="477.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/IFC.png" tvg-name="IFC"  group-title="CANADA",IFC
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30438
+
+#EXTINF:-1, tvg-id="Knowledge.ca" tvg-logo="http://212.8.253.112/logo/CANADA/KNOWLEDGEKIDS.png" tvg-name="KNOWLEDGE KIDS"  group-title="CANADA",KNOWLEDGE KIDS
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30436
+
+#EXTINF:-1, tvg-id="http://212.8.253.112/logo/CANADA/KTLA.png" tvg-logo="http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30435" tvg-name=""KTLA Los Angeles"  group-title="CA"","KTLA Los Angeles
+CANADA
+
+#EXTINF:-1, tvg-id="LifetimeNetwork.us" tvg-logo="http://212.8.253.112/logo/CANADA/LIFETIME.png" tvg-name="Lifetime TV - Canada"  group-title="CANADA",Lifetime TV - Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30432
+
+#EXTINF:-1, tvg-id="Makeful.ca" tvg-logo="http://212.8.253.112/logo/CANADA/MAKEFUL.png" tvg-name="Makeful"  group-title="CANADA",Makeful
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30431
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/LATINO/MAISGLOBOSAT.png" tvg-name="MAVTV CANADA"  group-title="CANADA",MAVTV CANADA
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30430
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/CANADA/MIRACLE.png" tvg-name="CJIL Lethbridge"  group-title="CANADA",CJIL Lethbridge
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30427
+
+#EXTINF:-1, tvg-id="64.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/MLBNETWORK.png" tvg-name="MLB NETWORK"  group-title="CANADA",MLB NETWORK
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30426
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/CANADA/MTIME.png" tvg-name="MTIME"  group-title="CANADA",MTIME
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30424
+
+#EXTINF:-1, tvg-id="414.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/MTV.png" tvg-name="MTV Canada"  group-title="CANADA",MTV Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30423
+
+#EXTINF:-1, tvg-id="414.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/MTV2.png" tvg-name="MTV 2 Canada"  group-title="CANADA",MTV 2 Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30422
+
+#EXTINF:-1, tvg-id="MuchMusic.ca" tvg-logo="http://212.8.253.112/logo/CANADA/MUCHMUSIC.png" tvg-name="Much Music"  group-title="CANADA",Much Music
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30421
+
+#EXTINF:-1, tvg-id="NatGeoWild.ca" tvg-logo="http://212.8.253.112/logo/SCANDINAVIAN/NATIONALGEOGRAPHICHD.png" tvg-name="National Geographic Canada"  group-title="CANADA",National Geographic Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30419
+
+#EXTINF:-1, tvg-id="NBATV.ca" tvg-logo="http://212.8.253.112/logo/CANADA/NBATV.png" tvg-name="NBA TV Canada"  group-title="CANADA",NBA TV Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30418
+
+#EXTINF:-1, tvg-id="http://212.8.253.112/logo/CANADA/NBCWEST.png" tvg-logo="http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30417" tvg-name=""NBC (WBTS-LD) Boston"  group-title="MA"","NBC (WBTS-LD) Boston
+CANADA
+
+#EXTINF:-1, tvg-id="http://212.8.253.112/logo/CANADA/NBCWEST.png" tvg-logo="http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30416" tvg-name=""NBC (KING) Seattle"  group-title="WA"","NBC (KING) Seattle
+CANADA
+
+#EXTINF:-1, tvg-id="3349.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/USA/FIGHTNETWORK.png" tvg-name="NFL Network"  group-title="CANADA",NFL Network
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30415
+
+#EXTINF:-1, tvg-id="6835.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/NICKTOON.png" tvg-name="Nickelodeon Canada"  group-title="CANADA",Nickelodeon Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30414
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/CANADA/NTV.png" tvg-name="NTV"  group-title="CANADA",NTV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30413
+
+#EXTINF:-1, tvg-id="160.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/OLN.png" tvg-name="OLN"  group-title="CANADA",OLN
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30412
+
+#EXTINF:-1, tvg-id="OMNI1.ca" tvg-logo="http://212.8.253.112/logo/CANADA/OMNI1.png" tvg-name="OMNI.1 Television"  group-title="CANADA",OMNI.1 Television
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30411
+
+#EXTINF:-1, tvg-id="1174.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/OMNI2.png" tvg-name="OMNI2"  group-title="CANADA",OMNI2
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30410
+
+#EXTINF:-1, tvg-id="ONEgetFit.ca" tvg-logo="http://212.8.253.112/logo/CANADA/ONE.png" tvg-name="ONE"  group-title="CANADA",ONE
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30407
+
+#EXTINF:-1, tvg-id="2729.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/OUTTV.png" tvg-name="OUTTV"  group-title="CANADA",OUTTV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30406
+
+#EXTINF:-1, tvg-id="296.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/OWN.png" tvg-name="Oprah Winfrey Network Canada"  group-title="CANADA",Oprah Winfrey Network Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30405
+
+#EXTINF:-1, tvg-id="http://212.8.253.112/logo/CANADA/PBSEAST.png" tvg-logo="http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30404" tvg-name=""PBS (WGBH) Boston"  group-title="MA"","PBS (WGBH) Boston
+CANADA
+
+#EXTINF:-1, tvg-id="4179.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/PEACHTREE.png" tvg-name="Peachtree TV (Canada)"  group-title="CANADA",Peachtree TV (Canada)
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30402
+
+#EXTINF:-1, tvg-id="Prise2.ca" tvg-logo="http://212.8.253.112/logo/CANADA/PRISE.png" tvg-name="PRISE"  group-title="CANADA",PRISE
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30401
+
+#EXTINF:-1, tvg-id="359.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/SHOPPING.png" tvg-name="Today's Shopping Choice"  group-title="CANADA",Today's Shopping Choice
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30394
+
+#EXTINF:-1, tvg-id="62.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/SHOWCASEEAST.png" tvg-name="Showcase Canada"  group-title="CANADA",Showcase Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30393
+
+#EXTINF:-1, tvg-id="2115.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/SILVERSCREENCLASSICS.png" tvg-name="Silver Screen Classics"  group-title="CANADA",Silver Screen Classics
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30392
+
+#EXTINF:-1, tvg-id="Slice.ca" tvg-logo="http://212.8.253.112/logo/CANADA/SLICE.png" tvg-name="SLICE"  group-title="CANADA",SLICE
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30391
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/CANADA/SMITHSONIAN.png" tvg-name="SMITHSONIAN"  group-title="CANADA",SMITHSONIAN
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30390
+
+#EXTINF:-1, tvg-id="153.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/SPACE.png" tvg-name="SPACE"  group-title="CANADA",SPACE
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30389
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/CANADA/SPIKETVPARAMOUNTCANADA.png" tvg-name="Paramount Network Canada"  group-title="CANADA",Paramount Network Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30388
+
+#EXTINF:-1, tvg-id="336.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/SPORTSNET360.png" tvg-name="SPORTSNET 360"  group-title="CANADA",SPORTSNET 360
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30387
+
+#EXTINF:-1, tvg-id="332.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/SPORTSNETEAST.png" tvg-name="SPORTSNET EAST"  group-title="CANADA",SPORTSNET EAST
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30386
+
+#EXTINF:-1, tvg-id="444.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/SPORTSNETONE.png" tvg-name="SPORTSNET ONE"  group-title="CANADA",SPORTSNET ONE
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30385
+
+#EXTINF:-1, tvg-id="332.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/SPORTSNETONTARIO.png" tvg-name="SPORTSNET ONTARIO"  group-title="CANADA",SPORTSNET ONTARIO
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30384
+
+#EXTINF:-1, tvg-id="451.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/SPORTSNETPACIFIC.png" tvg-name="SPORTSNET PACIFIC"  group-title="CANADA",SPORTSNET PACIFIC
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30383
+
+#EXTINF:-1, tvg-id="332.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/SPORTSNETWEST.png" tvg-name="SPORTSNET WEST"  group-title="CANADA",SPORTSNET WEST
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30382
+
+#EXTINF:-1, tvg-id="4442.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/SPORTSNETWORLD.png" tvg-name="SPORTSNET WORLD"  group-title="CANADA",SPORTSNET WORLD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30381
+
+#EXTINF:-1, tvg-id="4833.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/SUPERCHANNELFUSE.png" tvg-name="Super Channel Fuse"  group-title="CANADA",Super Channel Fuse
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30380
+
+#EXTINF:-1, tvg-id="31.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/SUPERCHANNELHEART%26HOME.png" tvg-name="Super Channel Heart &amp; Home"  group-title="CANADA",Super Channel Heart &amp; Home
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30379
+
+#EXTINF:-1, tvg-id="4835.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/SUPERCHANNELVAULT.png" tvg-name="Super Channel Vault"  group-title="CANADA",Super Channel Vault
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30378
+
+#EXTINF:-1, tvg-id="2847.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/TCM.png" tvg-name="TCM"  group-title="CANADA",TCM
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30373
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/CANADA/TELELATINO.png" tvg-name="TELE LATINO"  group-title="CANADA",TELE LATINO
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30372
+
+#EXTINF:-1, tvg-id="162.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/TELETOONEAST.png" tvg-name="Teletoon - East"  group-title="CANADA",Teletoon - East
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30370
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/CANADA/TELEMAGINO.png" tvg-name="TELEMAGINO"  group-title="CANADA",TELEMAGINO
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30367
+
+#EXTINF:-1, tvg-id="TFO.ca" tvg-logo="http://212.8.253.112/logo/CANADA/TFO.png" tvg-name="TFO"  group-title="CANADA",TFO
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30366
+
+#EXTINF:-1, tvg-id="64.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/THEWEATHERNETWORK.png" tvg-name="Weather Network"  group-title="CANADA",Weather Network
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30365
+
+#EXTINF:-1, tvg-id="TLC.ca" tvg-logo="http://212.8.253.112/logo/USA/TLCHD.png" tvg-name="TLC Canada"  group-title="CANADA",TLC Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30364
+
+#EXTINF:-1, tvg-id="TMNEncore1.ca" tvg-logo="http://212.8.253.112/logo/CANADA/TMN1.png" tvg-name="TMN 1"  group-title="CANADA",TMN 1
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30363
+
+#EXTINF:-1, tvg-id="TMNEncore2.ca" tvg-logo="http://212.8.253.112/logo/CANADA/TMN2.png" tvg-name="TMN 2"  group-title="CANADA",TMN 2
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30362
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/CANADA/TMN3.png" tvg-name="TMN 3"  group-title="CANADA",TMN 3
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30361
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/CANADA/TMN4.png" tvg-name="TMN 4"  group-title="CANADA",TMN 4
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30360
+
+#EXTINF:-1, tvg-id="163.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/TREEHOUSE.png" tvg-name="Treehouse"  group-title="CANADA",Treehouse
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30358
+
+#EXTINF:-1, tvg-id="TSN1.ca" tvg-logo="http://212.8.253.112/logo/CANADA/TSN1.png" tvg-name="TSN 1"  group-title="CANADA",TSN 1
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30357
+
+#EXTINF:-1, tvg-id="TSN2.ca" tvg-logo="http://212.8.253.112/logo/CANADA/TSN2.png" tvg-name="TSN 2"  group-title="CANADA",TSN 2
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30356
+
+#EXTINF:-1, tvg-id="TSN3.ca" tvg-logo="http://212.8.253.112/logo/CANADA/TSN3.png" tvg-name="TSN 3"  group-title="CANADA",TSN 3
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30355
+
+#EXTINF:-1, tvg-id="TSN4.ca" tvg-logo="http://212.8.253.112/logo/CANADA/TSN4.png" tvg-name="TSN 4"  group-title="CANADA",TSN 4
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30354
+
+#EXTINF:-1, tvg-id="TSN5.ca" tvg-logo="http://212.8.253.112/logo/CANADA/TSN5.png" tvg-name="TSN 5"  group-title="CANADA",TSN 5
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30353
+
+#EXTINF:-1, tvg-id="TVOne.us" tvg-logo="http://212.8.253.112/logo/CANADA/TVO.png" tvg-name="TVO (TV Ontario)"  group-title="CANADA",TVO (TV Ontario)
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30349
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/USA/UNIVISIONDEPORTES.png" tvg-name="UNIS TV"  group-title="CANADA",UNIS TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30348
+
+#EXTINF:-1, tvg-id="Vision.ca" tvg-logo="http://212.8.253.112/logo/CANADA/VISION.png" tvg-name="Vision TV Eastern"  group-title="CANADA",Vision TV Eastern
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30346
+
+#EXTINF:-1, tvg-id="WNetwork.ca" tvg-logo="http://212.8.253.112/logo/CANADA/WNETWORK.png" tvg-name="W"  group-title="CANADA",W
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30344
+
+#EXTINF:-1, tvg-id="64.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/WFN.png" tvg-name="WFN"  group-title="CANADA",WFN
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30343
+
+#EXTINF:-1, tvg-id="64.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/WGN.png" tvg-name="WGN Canada"  group-title="CANADA",WGN Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30342
+
+#EXTINF:-1, tvg-id="Wild.ca" tvg-logo="http://212.8.253.112/logo/CANADA/WILDTV.png" tvg-name="WILD"  group-title="CANADA",WILD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30341
+
+#EXTINF:-1, tvg-id="64.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/WSBK.png" tvg-name="WSBK-TV"  group-title="CANADA",WSBK-TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30340
+
+#EXTINF:-1, tvg-id="http://212.8.253.112/logo/CANADA/YESTV.png" tvg-logo="http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30339" tvg-name=""Yes TV (CITS) Burlington"  group-title="ON"","Yes TV (CITS) Burlington
+CANADA
+
+#EXTINF:-1, tvg-id="15.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/YTV.png" tvg-name="YTV (Youth Television) - East"  group-title="CANADA",YTV (Youth Television) - East
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30337
+
+#EXTINF:-1, tvg-id="64.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/YTVWEST.png" tvg-name="YTV (Youth Television) - Pacific"  group-title="CANADA",YTV (Youth Television) - Pacific
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/30336
+
+#EXTINF:-1, tvg-id="http://212.8.253.112/logo/CANADA/CBCVANCOUVER.png" tvg-logo="http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/43893" tvg-name=""CBC (CBRT) Calgary"  group-title="AB"","CBC (CBRT) Calgary
+CANADA
+
+#EXTINF:-1, tvg-id="296.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/CBCVANCOUVER.png" tvg-name="CBC CHARLOTTETOWN"  group-title="CANADA",CBC CHARLOTTETOWN
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/43892
+
+#EXTINF:-1, tvg-id="http://212.8.253.112/logo/CANADA/CBCVANCOUVER.png" tvg-logo="http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/43889" tvg-name=""CBC (CBHT) Halifax"  group-title="NS"","CBC (CBHT) Halifax
+CANADA
+
+#EXTINF:-1, tvg-id="CBCCBKT.ca" tvg-logo="http://212.8.253.112/logo/CANADA/CBCVANCOUVER.png" tvg-name="CBC REGINA"  group-title="CANADA",CBC REGINA
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/43887
+
+#EXTINF:-1, tvg-id="http://212.8.253.112/logo/CANADA/CBCMONTREAL.png" tvg-logo="http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/43883" tvg-name=""CBC (CBWT) Winnipeg"  group-title="MB"","CBC (CBWT) Winnipeg
+CANADA
+
+#EXTINF:-1, tvg-id="64.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/CBCMONTREAL.png" tvg-name="CBC (North) NWT"  group-title="CANADA",CBC (North) NWT
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/43882
+
+#EXTINF:-1, tvg-id="http://212.8.253.112/logo/CANADA/GLOBALTORONTO.png" tvg-logo="http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/43894" tvg-name=""Global (CHEX-TV-2) Durham"  group-title="ON"","Global (CHEX-TV-2) Durham
+CANADA
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/CANADA/A%26E.png" tvg-name="A&amp;E"  group-title="CANADA",A&amp;E
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42910
+
+#EXTINF:-1, tvg-id="10281.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/ABCSPARKCANADA.png" tvg-name="ABC SPARK"  group-title="CANADA",ABC SPARK
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42973
+
+#EXTINF:-1, tvg-id="3822.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/AMC.png" tvg-name="AMC"  group-title="CANADA",AMC
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42972
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/USA/BEINSPORTSHD.png" tvg-name="BEIN SPORTS HD"  group-title="CANADA",BEIN SPORTS HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42909
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/USA/BEINSPORTSFHD.png" tvg-name="BEIN SPORTS SPANISH HD"  group-title="CANADA",BEIN SPORTS SPANISH HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42908
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/CANADA/BNN.png" tvg-name="BNNB"  group-title="CANADA",BNNB
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42971
+
+#EXTINF:-1, tvg-id="59.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/BRAVO.png" tvg-name="BRAVO"  group-title="CANADA",BRAVO
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42970
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/CANADA/CBCMONTREAL.png" tvg-name="CBC News Network"  group-title="CANADA",CBC News Network
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42968
+
+#EXTINF:-1, tvg-id="64.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/CBCMONTREAL.png" tvg-name="CBC-N"  group-title="CANADA",CBC-N
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42967
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/CANADA/CBSEAST.png" tvg-name="CBS FHD"  group-title="CANADA",CBS FHD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42966
+
+#EXTINF:-1, tvg-id="43.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/CHCH.png" tvg-name="CHCH"  group-title="CANADA",CHCH
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42965
+
+#EXTINF:-1, tvg-id="70.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/CNN.png" tvg-name="CNN"  group-title="CANADA",CNN
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42963
+
+#EXTINF:-1, tvg-id="159.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/COMEDYEAST.png" tvg-name="COM"  group-title="CANADA",COM
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42962
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/CANADA/CP24.png" tvg-name="CP24"  group-title="CANADA",CP24
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42961
+
+#EXTINF:-1, tvg-id="127.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/CPAC.png" tvg-name="CPAC HD"  group-title="CANADA",CPAC HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42960
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CTV2"  group-title="CANADA",CTV2
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42957
+
+#EXTINF:-1, tvg-id="64.stations.xmltv.tvmedia.ca" tvg-logo="Logo N/A" tvg-name="CTV News Channel"  group-title="CANADA",CTV News Channel
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42956
+
+#EXTINF:-1, tvg-id="64.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/CW11.png" tvg-name="CW HD"  group-title="CANADA",CW HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42955
+
+#EXTINF:-1, tvg-id="332.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/DISNEYCANADA.png" tvg-name="DISNEY HD"  group-title="CANADA",DISNEY HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42954
+
+#EXTINF:-1, tvg-id="332.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/DISNEYJR.png" tvg-name="DISNEY JR HD"  group-title="CANADA",DISNEY JR HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42953
+
+#EXTINF:-1, tvg-id="332.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/DISNEYFRENCH.png" tvg-name="DISNEY XD HD"  group-title="CANADA",DISNEY XD HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42952
+
+#EXTINF:-1, tvg-id="295.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/E%21CANADA.png" tvg-name="E! HD"  group-title="CANADA",E! HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42950
+
+#EXTINF:-1, tvg-id="3433.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/FIGHTNETWORK.png" tvg-name="Fight Network Canada"  group-title="CANADA",Fight Network Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42905
+
+#EXTINF:-1, tvg-id="169.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/FIGHTNETWORK.png" tvg-name="FOOD NETWORK  HD"  group-title="CANADA",FOOD NETWORK  HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42949
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/CANADA/FOXEAST.png" tvg-name="FOX HD"  group-title="CANADA",FOX HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42948
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FX HD"  group-title="CANADA",FX HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42947
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FXX HD"  group-title="CANADA",FXX HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42946
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/CANADA/GLOBALTORONTO.png" tvg-name="GLOBAL FHD"  group-title="CANADA",GLOBAL FHD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42945
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/CANADA/GLOBALVANCOUVER.png" tvg-name="GLOBAL HALIFAX HD"  group-title="CANADA",GLOBAL HALIFAX HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42904
+
+#EXTINF:-1, tvg-id="http://212.8.253.112/logo/CANADA/GLOBALTORONTO.png" tvg-logo="http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42897" tvg-name=""Global (CHEX-TV-2) Durham"  group-title="ON"","Global (CHEX-TV-2) Durham
+CANADA
+
+#EXTINF:-1, tvg-id="6424.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/HBO2.png" tvg-name="HBO2"  group-title="CANADA",HBO2
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42943
+
+#EXTINF:-1, tvg-id="84.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/HBO1.png" tvg-name="HBO1"  group-title="CANADA",HBO1
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42942
+
+#EXTINF:-1, tvg-id="164.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/HISTORY.png" tvg-name="HIST"  group-title="CANADA",HIST
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42940
+
+#EXTINF:-1, tvg-id="425.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/HLN.png" tvg-name="HLN"  group-title="CANADA",HLN
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42939
+
+#EXTINF:-1, tvg-id="1148.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/LIFETIME.png" tvg-name="LIFE"  group-title="CANADA",LIFE
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42938
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/USA/NATIONALGEOGRAPHIC.png" tvg-name="National Geographic Canada"  group-title="CANADA",National Geographic Canada
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42934
+
+#EXTINF:-1, tvg-id="64.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/USA/NATGEOWILDFHD.png" tvg-name="NAT GEO WILD HD"  group-title="CANADA",NAT GEO WILD HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42933
+
+#EXTINF:-1, tvg-id="1150.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/NBATV.png" tvg-name="NBA"  group-title="CANADA",NBA
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42900
+
+#EXTINF:-1, tvg-id="160.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/OLN.png" tvg-name="OLN"  group-title="CANADA",OLN
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42975
+
+#EXTINF:-1, tvg-id="296.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/OWN.png" tvg-name="OWN"  group-title="CANADA",OWN
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42931
+
+#EXTINF:-1, tvg-id="60.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/SLICE.png" tvg-name="Slice"  group-title="CANADA",Slice
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42927
+
+#EXTINF:-1, tvg-id="153.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/SPACE.png" tvg-name="Space"  group-title="CANADA",Space
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42926
+
+#EXTINF:-1, tvg-id="332.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/USA/SPORTSNET360HD.png" tvg-name="Sportsnet 360"  group-title="CANADA",Sportsnet 360
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42925
+
+#EXTINF:-1, tvg-id="332.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/USA/SPORTSNETONEHD.png" tvg-name="Sportsnet (East) - Satellite/Digital"  group-title="CANADA",Sportsnet (East) - Satellite/Digital
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42924
+
+#EXTINF:-1, tvg-id="444.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/USA/SPORTSNETONEHD.png" tvg-name="SPORTSNET ONE HD"  group-title="CANADA",SPORTSNET ONE HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42923
+
+#EXTINF:-1, tvg-id="332.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/USA/SPORTSNETONTARIOHD.png" tvg-name="Sportsnet (Ontario) HD"  group-title="CANADA",Sportsnet (Ontario) HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42922
+
+#EXTINF:-1, tvg-id="451.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/USA/CBSSPORTSNETWORKHD.png" tvg-name="Sportsnet (Pacific) - Satellite/Digital"  group-title="CANADA",Sportsnet (Pacific) - Satellite/Digital
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42921
+
+#EXTINF:-1, tvg-id="332.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/USA/SPORTSNETONEHD.png" tvg-name="Sportsnet (West) - Satellite/Digital"  group-title="CANADA",Sportsnet (West) - Satellite/Digital
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42920
+
+#EXTINF:-1, tvg-id="332.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/USA/SPORTSNETWORLDHD.png" tvg-name="Sportsnet World"  group-title="CANADA",Sportsnet World
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42919
+
+#EXTINF:-1, tvg-id="1204.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/USA/TLCHD.png" tvg-name="TLC"  group-title="CANADA",TLC
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42918
+
+#EXTINF:-1, tvg-id="2819.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/TSN1.png" tvg-name="TSN1 HD"  group-title="CANADA",TSN1 HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42917
+
+#EXTINF:-1, tvg-id="5920.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/TSN2.png" tvg-name="TSN2 HD"  group-title="CANADA",TSN2 HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42916
+
+#EXTINF:-1, tvg-id="13768.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/TSN3.png" tvg-name="TSN3 HD"  group-title="CANADA",TSN3 HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42915
+
+#EXTINF:-1, tvg-id="13769.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/TSN4.png" tvg-name="TSN4 HD"  group-title="CANADA",TSN4 HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42914
+
+#EXTINF:-1, tvg-id="13770.stations.xmltv.tvmedia.ca" tvg-logo="http://212.8.253.112/logo/CANADA/TSN5.png" tvg-name="TSN5 HD"  group-title="CANADA",TSN5 HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/42913
+
