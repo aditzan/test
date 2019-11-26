@@ -1,0 +1,2000 @@
+﻿#EXTM3U
+
+#EXTINF:-1, tvg-id="a.e.eastern.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E HD.png" tvg-name="A&E HD"  group-title="United States",A&E HD
+http://mu01.v5iptv.com:8880/test11261/1234567/3167
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US002ABCHD.png" tvg-name="ABC HD"  group-title="United States",ABC HD
+http://mu01.v5iptv.com:8880/test11261/1234567/3166
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US003ABC-NEWS.png" tvg-name="ABC NEWS"  group-title="United States",ABC NEWS
+http://mu01.v5iptv.com:8880/test11261/1234567/3165
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US004ABC7.png" tvg-name="ABC 7"  group-title="United States",ABC 7
+http://mu01.v5iptv.com:8880/test11261/1234567/3164
+
+#EXTINF:-1, tvg-id="actionmax.pacific.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US005ACTION-MAX.png" tvg-name="ACTION MAX"  group-title="United States",ACTION MAX
+http://mu01.v5iptv.com:8880/test11261/1234567/3163
+
+#EXTINF:-1, tvg-id="amc.eastern.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US006AMC HD.png" tvg-name="AMC HD"  group-title="United States",AMC HD
+http://mu01.v5iptv.com:8880/test11261/1234567/3162
+
+#EXTINF:-1, tvg-id="animal.planet.east.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US007ANIMAL-PLANET.png" tvg-name="ANIMAL PLANET"  group-title="United States",ANIMAL PLANET
+http://mu01.v5iptv.com:8880/test11261/1234567/3161
+
+#EXTINF:-1, tvg-id="bbc.america.east.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US008BBC-America.png" tvg-name="BBC America"  group-title="United States",BBC America
+http://mu01.v5iptv.com:8880/test11261/1234567/3160
+
+#EXTINF:-1, tvg-id="bein.sports.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US009Bein-Sports.png" tvg-name="Bein Sports"  group-title="United States",Bein Sports
+http://mu01.v5iptv.com:8880/test11261/1234567/3159
+
+#EXTINF:-1, tvg-id="bet.eastern.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US010BET HD.png" tvg-name="BET HD"  group-title="United States",BET HD
+http://mu01.v5iptv.com:8880/test11261/1234567/3158
+
+#EXTINF:-1, tvg-id="bravo.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US011BRAVO HD.png" tvg-name="BRAVO HD"  group-title="United States",BRAVO HD
+http://mu01.v5iptv.com:8880/test11261/1234567/3157
+
+#EXTINF:-1, tvg-id="pac.12.washington.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US012PAC-12Washington.png" tvg-name="PAC 12 Washington"  group-title="United States",PAC 12 Washington
+http://mu01.v5iptv.com:8880/test11261/1234567/3156
+
+#EXTINF:-1, tvg-id="pac.12.la.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US013PAC-12LosAngeles.png" tvg-name="PAC 12 Los Angeles"  group-title="United States",PAC 12 Los Angeles
+http://mu01.v5iptv.com:8880/test11261/1234567/3155
+
+#EXTINF:-1, tvg-id="pac.12.oregon.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US014PAC-12Oregon.png" tvg-name="PAC 12 Oregon"  group-title="United States",PAC 12 Oregon
+http://mu01.v5iptv.com:8880/test11261/1234567/3154
+
+#EXTINF:-1, tvg-id="viceland.usa.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US015Viceland.png" tvg-name="Viceland"  group-title="United States",Viceland
+http://mu01.v5iptv.com:8880/test11261/1234567/3153
+
+#EXTINF:-1, tvg-id="cartoon.network.usa.pacific.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US016CARTOON-NETWORK.png" tvg-name="CARTOON NETWORK"  group-title="United States",CARTOON NETWORK
+http://mu01.v5iptv.com:8880/test11261/1234567/3152
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US017CBS HD.png" tvg-name="CBS HD"  group-title="United States",CBS HD
+http://mu01.v5iptv.com:8880/test11261/1234567/3151
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US018CBSN HD.png" tvg-name="CBSN HD"  group-title="United States",CBSN HD
+http://mu01.v5iptv.com:8880/test11261/1234567/3150
+
+#EXTINF:-1, tvg-id="starz.pacific.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US019StarzEast.png" tvg-name="Starz East"  group-title="United States",Starz East
+http://mu01.v5iptv.com:8880/test11261/1234567/3149
+
+#EXTINF:-1, tvg-id="CNBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US020CNBC.png" tvg-name="CNBC"  group-title="United States",CNBC
+http://mu01.v5iptv.com:8880/test11261/1234567/3148
+
+#EXTINF:-1, tvg-id="cnn.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US021CNN HD.png" tvg-name="CNN HD"  group-title="United States",CNN HD
+http://mu01.v5iptv.com:8880/test11261/1234567/3147
+
+#EXTINF:-1, tvg-id="comedy.central.eastern.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US022COMEDY-CENTRAL.png" tvg-name="COMEDY CENTRAL"  group-title="United States",COMEDY CENTRAL
+http://mu01.v5iptv.com:8880/test11261/1234567/3146
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US023CW HD.png" tvg-name="CW HD"  group-title="United States",CW HD
+http://mu01.v5iptv.com:8880/test11261/1234567/3145
+
+#EXTINF:-1, tvg-id="destination.america.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US024DESTINATION-AMERICA.png" tvg-name="DESTINATION AMERICA"  group-title="United States",DESTINATION AMERICA
+http://mu01.v5iptv.com:8880/test11261/1234567/3144
+
+#EXTINF:-1, tvg-id="discovery.eastern.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US025Discovery HD.png" tvg-name="Discovery HD"  group-title="United States",Discovery HD
+http://mu01.v5iptv.com:8880/test11261/1234567/3143
+
+#EXTINF:-1, tvg-id="disney.eastern.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US026Disney-Channel.png" tvg-name="Disney Channel"  group-title="United States",Disney Channel
+http://mu01.v5iptv.com:8880/test11261/1234567/3142
+
+#EXTINF:-1, tvg-id="disney.junior.usa.east.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US027Disney-JR.png" tvg-name="Disney JR"  group-title="United States",Disney JR
+http://mu01.v5iptv.com:8880/test11261/1234567/3141
+
+#EXTINF:-1, tvg-id="disney.xd.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US028Disney-XD.png" tvg-name="Disney XD"  group-title="United States",Disney XD
+http://mu01.v5iptv.com:8880/test11261/1234567/3140
+
+#EXTINF:-1, tvg-id="USANetwork.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US029DIYNetwork.png" tvg-name="DIY Network"  group-title="United States",DIY Network
+http://mu01.v5iptv.com:8880/test11261/1234567/3139
+
+#EXTINF:-1, tvg-id="e.entertainment.usa.eastern.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US030E!.png" tvg-name="E!"  group-title="United States",E!
+http://mu01.v5iptv.com:8880/test11261/1234567/3138
+
+#EXTINF:-1, tvg-id="espn2.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US031ESPN-2.png" tvg-name="ESPN 2"  group-title="United States",ESPN 2
+http://mu01.v5iptv.com:8880/test11261/1234567/3137
+
+#EXTINF:-1, tvg-id="espn.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US032ESPN HD.png" tvg-name="ESPN HD"  group-title="United States",ESPN HD
+http://mu01.v5iptv.com:8880/test11261/1234567/3136
+
+#EXTINF:-1, tvg-id="espn.news.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US033ESPN-News.png" tvg-name="ESPN News"  group-title="United States",ESPN News
+http://mu01.v5iptv.com:8880/test11261/1234567/3135
+
+#EXTINF:-1, tvg-id="espn.u.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US034ESPN-U.png" tvg-name="ESPN U"  group-title="United States",ESPN U
+http://mu01.v5iptv.com:8880/test11261/1234567/3134
+
+#EXTINF:-1, tvg-id="food.network.usa.eastern.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US035Food-Network.png" tvg-name="Food Network"  group-title="United States",Food Network
+http://mu01.v5iptv.com:8880/test11261/1234567/3133
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US036FOX HD.png" tvg-name="FOX HD"  group-title="United States",FOX HD
+http://mu01.v5iptv.com:8880/test11261/1234567/3132
+
+#EXTINF:-1, tvg-id="fox.news.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US037FOX-News.png" tvg-name="FOX News"  group-title="United States",FOX News
+http://mu01.v5iptv.com:8880/test11261/1234567/3131
+
+#EXTINF:-1, tvg-id="fox.sports.1.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US038FOX-Sports1.png" tvg-name="FOX Sports1"  group-title="United States",FOX Sports1
+http://mu01.v5iptv.com:8880/test11261/1234567/3130
+
+#EXTINF:-1, tvg-id="fox.sports.2.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US039FOX-Sports2.png" tvg-name="FOX Sports2"  group-title="United States",FOX Sports2
+http://mu01.v5iptv.com:8880/test11261/1234567/3129
+
+#EXTINF:-1, tvg-id="freeform.east.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US040Freeform.png" tvg-name="Freeform"  group-title="United States",Freeform
+http://mu01.v5iptv.com:8880/test11261/1234567/3128
+
+#EXTINF:-1, tvg-id="fx.networks.east.coast.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US041FX HD.png" tvg-name="FX HD"  group-title="United States",FX HD
+http://mu01.v5iptv.com:8880/test11261/1234567/3127
+
+#EXTINF:-1, tvg-id="fxx.usa.eastern.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US042FXX.png" tvg-name="FXX"  group-title="United States",FXX
+http://mu01.v5iptv.com:8880/test11261/1234567/3126
+
+#EXTINF:-1, tvg-id="hallmark.eastern.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US043HALLMARK.png" tvg-name="HALLMARK"  group-title="United States",HALLMARK
+http://mu01.v5iptv.com:8880/test11261/1234567/3125
+
+#EXTINF:-1, tvg-id="hallmark.movies.mysteries.eastern.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US044HALLMARK-MOVIES.png" tvg-name="HALLMARK MOVIES"  group-title="United States",HALLMARK MOVIES
+http://mu01.v5iptv.com:8880/test11261/1234567/3124
+
+#EXTINF:-1, tvg-id="hbo.comedy.east.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US045HBOComedyEast.png" tvg-name="HBO Comedy East"  group-title="United States",HBO Comedy East
+http://mu01.v5iptv.com:8880/test11261/1234567/3123
+
+#EXTINF:-1, tvg-id="hbo.eastern.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US046HBOEast.png" tvg-name="HBO East"  group-title="United States",HBO East
+http://mu01.v5iptv.com:8880/test11261/1234567/3122
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US047HBOSignatureWest.png" tvg-name="HBO Signature West"  group-title="United States",HBO Signature West
+http://mu01.v5iptv.com:8880/test11261/1234567/3121
+
+#EXTINF:-1, tvg-id="hbo.zone.east.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US048HBOZoneEast.png" tvg-name="HBO Zone East"  group-title="United States",HBO Zone East
+http://mu01.v5iptv.com:8880/test11261/1234567/3120
+
+#EXTINF:-1, tvg-id="hgtv.usa.eastern.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US049HGTV HD.png" tvg-name="HGTV HD"  group-title="United States",HGTV HD
+http://mu01.v5iptv.com:8880/test11261/1234567/3119
+
+#EXTINF:-1, tvg-id="history.eastern.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US050HISTORY HD.png" tvg-name="HISTORY HD"  group-title="United States",HISTORY HD
+http://mu01.v5iptv.com:8880/test11261/1234567/3118
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US051ID HD.png" tvg-name="ID HD"  group-title="United States",ID HD
+http://mu01.v5iptv.com:8880/test11261/1234567/3117
+
+#EXTINF:-1, tvg-id="tv.land.eastern.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US052TVLand.png" tvg-name="TV Land"  group-title="United States",TV Land
+http://mu01.v5iptv.com:8880/test11261/1234567/3116
+
+#EXTINF:-1, tvg-id="lifetime.network.eastern.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US053LifetimeUS.png" tvg-name="Lifetime US"  group-title="United States",Lifetime US
+http://mu01.v5iptv.com:8880/test11261/1234567/3115
+
+#EXTINF:-1, tvg-id="lifetime.movies.east.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US054LifetimeMovie.png" tvg-name="Lifetime Movie"  group-title="United States",Lifetime Movie
+http://mu01.v5iptv.com:8880/test11261/1234567/3114
+
+#EXTINF:-1, tvg-id="hbo.2.eastern.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US055HBO2.png" tvg-name="HBO 2"  group-title="United States",HBO 2
+http://mu01.v5iptv.com:8880/test11261/1234567/3113
+
+#EXTINF:-1, tvg-id="mlb.network.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US056MLB-Network.png" tvg-name="MLB Network"  group-title="United States",MLB Network
+http://mu01.v5iptv.com:8880/test11261/1234567/3112
+
+#EXTINF:-1, tvg-id="msnbc.usa.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US057MSNBC HD.png" tvg-name="MSNBC HD"  group-title="United States",MSNBC HD
+http://mu01.v5iptv.com:8880/test11261/1234567/3111
+
+#EXTINF:-1, tvg-id="mtv.usa.eastern.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US058MTV.png" tvg-name="MTV"  group-title="United States",MTV
+http://mu01.v5iptv.com:8880/test11261/1234567/3110
+
+#EXTINF:-1, tvg-id="national.geographic.eastern.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US059NAT-GEO.png" tvg-name="NAT GEO"  group-title="United States",NAT GEO
+http://mu01.v5iptv.com:8880/test11261/1234567/3109
+
+#EXTINF:-1, tvg-id="nba.usa.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US060NBA-TV.png" tvg-name="NBA TV"  group-title="United States",NBA TV
+http://mu01.v5iptv.com:8880/test11261/1234567/3108
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US061NBC-Golf.png" tvg-name="NBC Golf"  group-title="United States",NBC Golf
+http://mu01.v5iptv.com:8880/test11261/1234567/3107
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US062NBC HD.png" tvg-name="NBC HD"  group-title="United States",NBC HD
+http://mu01.v5iptv.com:8880/test11261/1234567/3106
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US063NBCSN HD.png" tvg-name="NBCSN HD"  group-title="United States",NBCSN HD
+http://mu01.v5iptv.com:8880/test11261/1234567/3105
+
+#EXTINF:-1, tvg-id="nfl.network.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US064NFL-Network.png" tvg-name="NFL Network"  group-title="United States",NFL Network
+http://mu01.v5iptv.com:8880/test11261/1234567/3104
+
+#EXTINF:-1, tvg-id="Nicktoons.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US065Nicktoons.png" tvg-name="Nicktoons"  group-title="United States",Nicktoons
+http://mu01.v5iptv.com:8880/test11261/1234567/3103
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US066Nursery-Rhymes.png" tvg-name="SPECTRUM SPORTSNET HD"  group-title="United States",SPECTRUM SPORTSNET HD
+http://mu01.v5iptv.com:8880/test11261/1234567/3102
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US067OWN.png" tvg-name="OWN"  group-title="United States",OWN
+http://mu01.v5iptv.com:8880/test11261/1234567/3101
+
+#EXTINF:-1, tvg-id="science.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US068Science.png" tvg-name="Science"  group-title="United States",Science
+http://mu01.v5iptv.com:8880/test11261/1234567/3100
+
+#EXTINF:-1, tvg-id="showtime.eastern.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US069SHOWTIME.png" tvg-name="SHOWTIME"  group-title="United States",SHOWTIME
+http://mu01.v5iptv.com:8880/test11261/1234567/3099
+
+#EXTINF:-1, tvg-id="showtime.2.eastern.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US070SHOWTIME2.png" tvg-name="SHOWTIME2"  group-title="United States",SHOWTIME2
+http://mu01.v5iptv.com:8880/test11261/1234567/3098
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US071SPIKE HD.png" tvg-name="SPIKE HD"  group-title="United States",SPIKE HD
+http://mu01.v5iptv.com:8880/test11261/1234567/3097
+
+#EXTINF:-1, tvg-id="syfy.eastern.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US072SYFY.png" tvg-name="SYFY"  group-title="United States",SYFY
+http://mu01.v5iptv.com:8880/test11261/1234567/3096
+
+#EXTINF:-1, tvg-id="tbs.east.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US073TBS HD.png" tvg-name="TBS HD"  group-title="United States",TBS HD
+http://mu01.v5iptv.com:8880/test11261/1234567/3095
+
+#EXTINF:-1, tvg-id="pac.12.bay.area.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US074PAC-12BayArea.png" tvg-name="PAC 12 Bay Area"  group-title="United States",PAC 12 Bay Area
+http://mu01.v5iptv.com:8880/test11261/1234567/3094
+
+#EXTINF:-1, tvg-id="tlc.usa.eastern.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US075TLC HD.png" tvg-name="TLC HD"  group-title="United States",TLC HD
+http://mu01.v5iptv.com:8880/test11261/1234567/3093
+
+#EXTINF:-1, tvg-id="tnt.eastern.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US076TNT HD.png" tvg-name="TNT HD"  group-title="United States",TNT HD
+http://mu01.v5iptv.com:8880/test11261/1234567/3092
+
+#EXTINF:-1, tvg-id="travel.east.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US077Travel-channel.png" tvg-name="Travel channel"  group-title="United States",Travel channel
+http://mu01.v5iptv.com:8880/test11261/1234567/3091
+
+#EXTINF:-1, tvg-id="trutv.usa.eastern.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US078TRU-TV.png" tvg-name="TRU TV"  group-title="United States",TRU TV
+http://mu01.v5iptv.com:8880/test11261/1234567/3090
+
+#EXTINF:-1, tvg-id="usa.network.east.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US079USA-Network.png" tvg-name="USA Network"  group-title="United States",USA Network
+http://mu01.v5iptv.com:8880/test11261/1234567/3089
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US080Velocity HD.png" tvg-name="Velocity HD"  group-title="United States",Velocity HD
+http://mu01.v5iptv.com:8880/test11261/1234567/3088
+
+#EXTINF:-1, tvg-id="vh1.eastern.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US081VH1.png" tvg-name="VH1"  group-title="United States",VH1
+http://mu01.v5iptv.com:8880/test11261/1234567/3087
+
+#EXTINF:-1, tvg-id="we.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US082WE-TV.png" tvg-name="WE TV"  group-title="United States",WE TV
+http://mu01.v5iptv.com:8880/test11261/1234567/3086
+
+#EXTINF:-1, tvg-id="weather.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US083WEATHER.png" tvg-name="WEATHER"  group-title="United States",WEATHER
+http://mu01.v5iptv.com:8880/test11261/1234567/3085
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US084UFCNetwork.png" tvg-name="UFC Network"  group-title="United States",UFC Network
+http://mu01.v5iptv.com:8880/test11261/1234567/3084
+
+#EXTINF:-1, tvg-id="wwe.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US085WWE-Network.png" tvg-name="WWE Network"  group-title="United States",WWE Network
+http://mu01.v5iptv.com:8880/test11261/1234567/3083
+
+#EXTINF:-1, tvg-id="tennis.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US086Tennis.png" tvg-name="Tennis"  group-title="United States",Tennis
+http://mu01.v5iptv.com:8880/test11261/1234567/3082
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US087NESN.png" tvg-name="NESN"  group-title="United States",NESN
+http://mu01.v5iptv.com:8880/test11261/1234567/3081
+
+#EXTINF:-1, tvg-id="cbs.sports.network.usa.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US088CBSSportsNetwork.png" tvg-name="CBS Sports Network"  group-title="United States",CBS Sports Network
+http://mu01.v5iptv.com:8880/test11261/1234567/3080
+
+#EXTINF:-1, tvg-id="nfl.red.zone.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US089NFLRedZone.png" tvg-name="NFL RedZone"  group-title="United States",NFL RedZone
+http://mu01.v5iptv.com:8880/test11261/1234567/3079
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US090FoxSportsYes.png" tvg-name="Fox Sports Yes"  group-title="United States",Fox Sports Yes
+http://mu01.v5iptv.com:8880/test11261/1234567/3078
+
+#EXTINF:-1, tvg-id="sec.network.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US091SecNetwork.png" tvg-name="Sec Network"  group-title="United States",Sec Network
+http://mu01.v5iptv.com:8880/test11261/1234567/3077
+
+#EXTINF:-1, tvg-id="big.ten.network.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US092BigTenNetwork.png" tvg-name="Big Ten Network"  group-title="United States",Big Ten Network
+http://mu01.v5iptv.com:8880/test11261/1234567/3076
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US093BoxNation.png" tvg-name="Box Nation"  group-title="United States",Box Nation
+http://mu01.v5iptv.com:8880/test11261/1234567/3075
+
+#EXTINF:-1, tvg-id="fox.business.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US094FoxBusinessNetwork.png" tvg-name="Fox Business Network"  group-title="United States",Fox Business Network
+http://mu01.v5iptv.com:8880/test11261/1234567/3074
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US0953ABN.png" tvg-name="3ABN"  group-title="United States",3ABN
+http://mu01.v5iptv.com:8880/test11261/1234567/3073
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US096CBN.png" tvg-name="CBN"  group-title="United States",CBN
+http://mu01.v5iptv.com:8880/test11261/1234567/3072
+
+#EXTINF:-1, tvg-id="god.usa.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US097GODTV.png" tvg-name="GOD TV"  group-title="United States",GOD TV
+http://mu01.v5iptv.com:8880/test11261/1234567/3071
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US098PeaceTV.png" tvg-name="Peace TV"  group-title="United States",Peace TV
+http://mu01.v5iptv.com:8880/test11261/1234567/3070
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sports NetBase"  group-title="United States",Fox Sports NetBase
+http://mu01.v5iptv.com:8880/test11261/1234567/30091
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sports SportsTime Ohio"  group-title="United States",Fox Sports SportsTime Ohio
+http://mu01.v5iptv.com:8880/test11261/1234567/30090
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sports YES Network"  group-title="United States",Fox Sports YES Network
+http://mu01.v5iptv.com:8880/test11261/1234567/30089
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sports San Diego"  group-title="United States",Fox Sports San Diego
+http://mu01.v5iptv.com:8880/test11261/1234567/30088
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sports Sun"  group-title="United States",Fox Sports Sun
+http://mu01.v5iptv.com:8880/test11261/1234567/30087
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sports Detroit"  group-title="United States",Fox Sports Detroit
+http://mu01.v5iptv.com:8880/test11261/1234567/30086
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sports Ohio"  group-title="United States",Fox Sports Ohio
+http://mu01.v5iptv.com:8880/test11261/1234567/30085
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sports North"  group-title="United States",Fox Sports North
+http://mu01.v5iptv.com:8880/test11261/1234567/30084
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sports Midwest"  group-title="United States",Fox Sports Midwest
+http://mu01.v5iptv.com:8880/test11261/1234567/30083
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sports Florida"  group-title="United States",Fox Sports Florida
+http://mu01.v5iptv.com:8880/test11261/1234567/30082
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sports Arizona"  group-title="United States",Fox Sports Arizona
+http://mu01.v5iptv.com:8880/test11261/1234567/30081
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sports Wisconsin"  group-title="United States",Fox Sports Wisconsin
+http://mu01.v5iptv.com:8880/test11261/1234567/30080
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sports West"  group-title="United States",Fox Sports West
+http://mu01.v5iptv.com:8880/test11261/1234567/30079
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sports South"  group-title="United States",Fox Sports South
+http://mu01.v5iptv.com:8880/test11261/1234567/30078
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sports Southeast"  group-title="United States",Fox Sports Southeast
+http://mu01.v5iptv.com:8880/test11261/1234567/30077
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sports Southwest Plus"  group-title="United States",Fox Sports Southwest Plus
+http://mu01.v5iptv.com:8880/test11261/1234567/30076
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sports Southwest"  group-title="United States",Fox Sports Southwest
+http://mu01.v5iptv.com:8880/test11261/1234567/30075
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox College Sports Atlantic"  group-title="United States",Fox College Sports Atlantic
+http://mu01.v5iptv.com:8880/test11261/1234567/30074
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox College Sports Pacific"  group-title="United States",Fox College Sports Pacific
+http://mu01.v5iptv.com:8880/test11261/1234567/30073
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox College Sports Central"  group-title="United States",Fox College Sports Central
+http://mu01.v5iptv.com:8880/test11261/1234567/30072
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sports Soccer Plus"  group-title="United States",Fox Sports Soccer Plus
+http://mu01.v5iptv.com:8880/test11261/1234567/30071
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sports 2"  group-title="United States",Fox Sports 2
+http://mu01.v5iptv.com:8880/test11261/1234567/30070
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sports 1"  group-title="United States",Fox Sports 1
+http://mu01.v5iptv.com:8880/test11261/1234567/30069
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Olympic Channel"  group-title="United States",Olympic Channel
+http://mu01.v5iptv.com:8880/test11261/1234567/30068
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeIN8 Sports"  group-title="United States",BeIN8 Sports
+http://mu01.v5iptv.com:8880/test11261/1234567/30067
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeIN7 Sports"  group-title="United States",BeIN7 Sports
+http://mu01.v5iptv.com:8880/test11261/1234567/30066
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeIN6 Sports"  group-title="United States",BeIN6 Sports
+http://mu01.v5iptv.com:8880/test11261/1234567/30065
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeIN5 Sports"  group-title="United States",BeIN5 Sports
+http://mu01.v5iptv.com:8880/test11261/1234567/30064
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeIN4 Sports"  group-title="United States",BeIN4 Sports
+http://mu01.v5iptv.com:8880/test11261/1234567/30063
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeIN2 Sports"  group-title="United States",BeIN2 Sports
+http://mu01.v5iptv.com:8880/test11261/1234567/30062
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeIN Sports"  group-title="United States",BeIN Sports
+http://mu01.v5iptv.com:8880/test11261/1234567/30061
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SI Sports Illustrated"  group-title="United States",SI Sports Illustrated
+http://mu01.v5iptv.com:8880/test11261/1234567/30060
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Game Show Network"  group-title="United States",Game Show Network
+http://mu01.v5iptv.com:8880/test11261/1234567/30059
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Stadium3"  group-title="United States",Stadium3
+http://mu01.v5iptv.com:8880/test11261/1234567/30058
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Stadium2"  group-title="United States",Stadium2
+http://mu01.v5iptv.com:8880/test11261/1234567/30057
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Stadium1"  group-title="United States",Stadium1
+http://mu01.v5iptv.com:8880/test11261/1234567/30056
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Stadium"  group-title="United States",Stadium
+http://mu01.v5iptv.com:8880/test11261/1234567/30055
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TyC Sports"  group-title="United States",TyC Sports
+http://mu01.v5iptv.com:8880/test11261/1234567/30054
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MSG2Plus"  group-title="United States",MSG2Plus
+http://mu01.v5iptv.com:8880/test11261/1234567/30053
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MSG2"  group-title="United States",MSG2
+http://mu01.v5iptv.com:8880/test11261/1234567/30052
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MSGPlus"  group-title="United States",MSGPlus
+http://mu01.v5iptv.com:8880/test11261/1234567/30051
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MSG"  group-title="United States",MSG
+http://mu01.v5iptv.com:8880/test11261/1234567/30050
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BTN4"  group-title="United States",BTN4
+http://mu01.v5iptv.com:8880/test11261/1234567/30049
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BTN3"  group-title="United States",BTN3
+http://mu01.v5iptv.com:8880/test11261/1234567/30048
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BTN2"  group-title="United States",BTN2
+http://mu01.v5iptv.com:8880/test11261/1234567/30047
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Big Ten Network"  group-title="United States",Big Ten Network
+http://mu01.v5iptv.com:8880/test11261/1234567/30046
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fight Network"  group-title="United States",Fight Network
+http://mu01.v5iptv.com:8880/test11261/1234567/30045
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FNTSY Sports Network"  group-title="United States",FNTSY Sports Network
+http://mu01.v5iptv.com:8880/test11261/1234567/30044
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VSiN"  group-title="United States",VSiN
+http://mu01.v5iptv.com:8880/test11261/1234567/30043
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ginx TV"  group-title="United States",Ginx TV
+http://mu01.v5iptv.com:8880/test11261/1234567/30042
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ATT SportsNet SW ALT"  group-title="United States",ATT SportsNet SW ALT
+http://mu01.v5iptv.com:8880/test11261/1234567/30041
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="World Fishing Network"  group-title="United States",World Fishing Network
+http://mu01.v5iptv.com:8880/test11261/1234567/30040
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NESN BOS"  group-title="United States",NESN BOS
+http://mu01.v5iptv.com:8880/test11261/1234567/30039
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NESN PLUS"  group-title="United States",NESN PLUS
+http://mu01.v5iptv.com:8880/test11261/1234567/30038
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sportsman Channel"  group-title="United States",Sportsman Channel
+http://mu01.v5iptv.com:8880/test11261/1234567/30037
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS Sports Network"  group-title="United States",CBS Sports Network
+http://mu01.v5iptv.com:8880/test11261/1234567/30036
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eleven Sports"  group-title="United States",Eleven Sports
+http://mu01.v5iptv.com:8880/test11261/1234567/30035
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC Golf Channel"  group-title="United States",NBC Golf Channel
+http://mu01.v5iptv.com:8880/test11261/1234567/30034
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC Sports Philadelfia"  group-title="United States",NBC Sports Philadelfia
+http://mu01.v5iptv.com:8880/test11261/1234567/30033
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC Sports Washington"  group-title="United States",NBC Sports Washington
+http://mu01.v5iptv.com:8880/test11261/1234567/30032
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC Sports California"  group-title="United States",NBC Sports California
+http://mu01.v5iptv.com:8880/test11261/1234567/30031
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC Sports Chicago"  group-title="United States",NBC Sports Chicago
+http://mu01.v5iptv.com:8880/test11261/1234567/30030
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC Sports Bay Area"  group-title="United States",NBC Sports Bay Area
+http://mu01.v5iptv.com:8880/test11261/1234567/30029
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC Sports Northwest"  group-title="United States",NBC Sports Northwest
+http://mu01.v5iptv.com:8880/test11261/1234567/30028
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC Sports Network"  group-title="United States",NBC Sports Network
+http://mu01.v5iptv.com:8880/test11261/1234567/30025
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WKBN"  group-title="United States",CBS WKBN
+http://mu01.v5iptv.com:8880/test11261/1234567/30024
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KIMA"  group-title="United States",CBS KIMA
+http://mu01.v5iptv.com:8880/test11261/1234567/30023
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WWAY"  group-title="United States",CBS WWAY
+http://mu01.v5iptv.com:8880/test11261/1234567/30022
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WYOU"  group-title="United States",CBS WYOU
+http://mu01.v5iptv.com:8880/test11261/1234567/30021
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WPEC"  group-title="United States",CBS WPEC
+http://mu01.v5iptv.com:8880/test11261/1234567/30018
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WTVH"  group-title="United States",CBS WTVH
+http://mu01.v5iptv.com:8880/test11261/1234567/30015
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WJHL"  group-title="United States",CBS WJHL
+http://mu01.v5iptv.com:8880/test11261/1234567/30011
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KOLR"  group-title="United States",CBS KOLR
+http://mu01.v5iptv.com:8880/test11261/1234567/30008
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WCIA"  group-title="United States",CBS WCIA
+http://mu01.v5iptv.com:8880/test11261/1234567/30006
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KELO"  group-title="United States",CBS KELO
+http://mu01.v5iptv.com:8880/test11261/1234567/30004
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KUTV"  group-title="United States",CBS KUTV
+http://mu01.v5iptv.com:8880/test11261/1234567/30003
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KTVN"  group-title="United States",CBS KTVN
+http://mu01.v5iptv.com:8880/test11261/1234567/29997
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WNCN"  group-title="United States",CBS WNCN
+http://mu01.v5iptv.com:8880/test11261/1234567/29993
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WPRI"  group-title="United States",CBS WPRI
+http://mu01.v5iptv.com:8880/test11261/1234567/29991
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KOIN"  group-title="United States",CBS KOIN
+http://mu01.v5iptv.com:8880/test11261/1234567/29990
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WGME"  group-title="United States",CBS WGME
+http://mu01.v5iptv.com:8880/test11261/1234567/29989
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WMBD"  group-title="United States",CBS WMBD
+http://mu01.v5iptv.com:8880/test11261/1234567/29988
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WBTW"  group-title="United States",CBS WBTW
+http://mu01.v5iptv.com:8880/test11261/1234567/29987
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WAKA"  group-title="United States",CBS WAKA
+http://mu01.v5iptv.com:8880/test11261/1234567/29986
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WKRG"  group-title="United States",CBS WKRG
+http://mu01.v5iptv.com:8880/test11261/1234567/29985
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KLAS"  group-title="United States",CBS KLAS
+http://mu01.v5iptv.com:8880/test11261/1234567/29984
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WLNS"  group-title="United States",CBS WLNS
+http://mu01.v5iptv.com:8880/test11261/1234567/29983
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KLFY"  group-title="United States",CBS KLFY
+http://mu01.v5iptv.com:8880/test11261/1234567/29982
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WKBT"  group-title="United States",CBS WKBT
+http://mu01.v5iptv.com:8880/test11261/1234567/29981
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WTAJ"  group-title="United States",CBS WTAJ
+http://mu01.v5iptv.com:8880/test11261/1234567/29980
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WJTV"  group-title="United States",CBS WJTV
+http://mu01.v5iptv.com:8880/test11261/1234567/29979
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WHP"  group-title="United States",CBS WHP
+http://mu01.v5iptv.com:8880/test11261/1234567/29978
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KGBT"  group-title="United States",CBS KGBT
+http://mu01.v5iptv.com:8880/test11261/1234567/29977
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WSPA"  group-title="United States",CBS WSPA
+http://mu01.v5iptv.com:8880/test11261/1234567/29976
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WNCT"  group-title="United States",CBS WNCT
+http://mu01.v5iptv.com:8880/test11261/1234567/29975
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WFRV"  group-title="United States",CBS WFRV
+http://mu01.v5iptv.com:8880/test11261/1234567/29974
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WWMT"  group-title="United States",CBS WWMT
+http://mu01.v5iptv.com:8880/test11261/1234567/29973
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WANE"  group-title="United States",CBS WANE
+http://mu01.v5iptv.com:8880/test11261/1234567/29972
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KGPE"  group-title="United States",CBS KGPE
+http://mu01.v5iptv.com:8880/test11261/1234567/29971
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KVAL"  group-title="United States",CBS KVAL
+http://mu01.v5iptv.com:8880/test11261/1234567/29970
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KDBC"  group-title="United States",CBS KDBC
+http://mu01.v5iptv.com:8880/test11261/1234567/29969
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WHBF"  group-title="United States",CBS WHBF
+http://mu01.v5iptv.com:8880/test11261/1234567/29968
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KZTV"  group-title="United States",CBS KZTV
+http://mu01.v5iptv.com:8880/test11261/1234567/29967
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WCBI"  group-title="United States",CBS WCBI
+http://mu01.v5iptv.com:8880/test11261/1234567/29966
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WKRC"  group-title="United States",CBS WKRC
+http://mu01.v5iptv.com:8880/test11261/1234567/29965
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WOWK"  group-title="United States",CBS WOWK
+http://mu01.v5iptv.com:8880/test11261/1234567/29964
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KGAN"  group-title="United States",CBS KGAN
+http://mu01.v5iptv.com:8880/test11261/1234567/29963
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WIVB"  group-title="United States",CBS WIVB
+http://mu01.v5iptv.com:8880/test11261/1234567/29962
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KBOI"  group-title="United States",CBS KBOI
+http://mu01.v5iptv.com:8880/test11261/1234567/29961
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WIAT"  group-title="United States",CBS WIAT
+http://mu01.v5iptv.com:8880/test11261/1234567/29959
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KBAK"  group-title="United States",CBS KBAK
+http://mu01.v5iptv.com:8880/test11261/1234567/29958
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KEYE"  group-title="United States",CBS KEYE
+http://mu01.v5iptv.com:8880/test11261/1234567/29957
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KRQEDT"  group-title="United States",CBS KRQEDT
+http://mu01.v5iptv.com:8880/test11261/1234567/29956
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WRGB"  group-title="United States",CBS WRGB
+http://mu01.v5iptv.com:8880/test11261/1234567/29955
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WTVF"  group-title="United States",CBS WTVF
+http://mu01.v5iptv.com:8880/test11261/1234567/29954
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WJAX"  group-title="United States",CBS WJAX
+http://mu01.v5iptv.com:8880/test11261/1234567/29952
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WCSC"  group-title="United States",CBS WCSC
+http://mu01.v5iptv.com:8880/test11261/1234567/29950
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KTXA"  group-title="United States",CBS KTXA
+http://mu01.v5iptv.com:8880/test11261/1234567/29945
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WOIO"  group-title="United States",CBS WOIO
+http://mu01.v5iptv.com:8880/test11261/1234567/29944
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WTSP"  group-title="United States",CBS WTSP
+http://mu01.v5iptv.com:8880/test11261/1234567/29936
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KTVT"  group-title="United States",CBS KTVT
+http://mu01.v5iptv.com:8880/test11261/1234567/29931
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KOLN"  group-title="United States",CBS KOLN
+http://mu01.v5iptv.com:8880/test11261/1234567/29921
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KOLD"  group-title="United States",CBS KOLD
+http://mu01.v5iptv.com:8880/test11261/1234567/29917
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KCTV"  group-title="United States",CBS KCTV
+http://mu01.v5iptv.com:8880/test11261/1234567/29916
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WBNS"  group-title="United States",CBS WBNS
+http://mu01.v5iptv.com:8880/test11261/1234567/29915
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WNEM"  group-title="United States",CBS WNEM
+http://mu01.v5iptv.com:8880/test11261/1234567/29914
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WUSA"  group-title="United States",CBS WUSA
+http://mu01.v5iptv.com:8880/test11261/1234567/29913
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WTOL"  group-title="United States",CBS WTOL
+http://mu01.v5iptv.com:8880/test11261/1234567/29912
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WTOC"  group-title="United States",CBS WTOC
+http://mu01.v5iptv.com:8880/test11261/1234567/29911
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WFSB"  group-title="United States",CBS WFSB
+http://mu01.v5iptv.com:8880/test11261/1234567/29910
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KFVS"  group-title="United States",CBS KFVS
+http://mu01.v5iptv.com:8880/test11261/1234567/29909
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KPIX"  group-title="United States",CBS KPIX
+http://mu01.v5iptv.com:8880/test11261/1234567/29908
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KCOY"  group-title="United States",CBS KCOY
+http://mu01.v5iptv.com:8880/test11261/1234567/29907
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KPHO"  group-title="United States",CBS KPHO
+http://mu01.v5iptv.com:8880/test11261/1234567/29906
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WWL"  group-title="United States",CBS WWL
+http://mu01.v5iptv.com:8880/test11261/1234567/29905
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WWJ"  group-title="United States",CBS WWJ
+http://mu01.v5iptv.com:8880/test11261/1234567/29904
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WFOR"  group-title="United States",CBS WFOR
+http://mu01.v5iptv.com:8880/test11261/1234567/29903
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KWTX"  group-title="United States",CBS KWTX
+http://mu01.v5iptv.com:8880/test11261/1234567/29902
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WKYT"  group-title="United States",CBS WKYT
+http://mu01.v5iptv.com:8880/test11261/1234567/29901
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KWTV"  group-title="United States",CBS KWTV
+http://mu01.v5iptv.com:8880/test11261/1234567/29900
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KSLA"  group-title="United States",CBS KSLA
+http://mu01.v5iptv.com:8880/test11261/1234567/29899
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WBFS"  group-title="United States",CBS WBFS
+http://mu01.v5iptv.com:8880/test11261/1234567/29898
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WDJT"  group-title="United States",CBS WDJT
+http://mu01.v5iptv.com:8880/test11261/1234567/29897
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WFMY"  group-title="United States",CBS WFMY
+http://mu01.v5iptv.com:8880/test11261/1234567/29896
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WRDW"  group-title="United States",CBS WRDW
+http://mu01.v5iptv.com:8880/test11261/1234567/29895
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WVLT"  group-title="United States",CBS WVLT
+http://mu01.v5iptv.com:8880/test11261/1234567/29894
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WISC"  group-title="United States",CBS WISC
+http://mu01.v5iptv.com:8880/test11261/1234567/29893
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KENS"  group-title="United States",CBS KENS
+http://mu01.v5iptv.com:8880/test11261/1234567/29892
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KDKA"  group-title="United States",CBS KDKA
+http://mu01.v5iptv.com:8880/test11261/1234567/29891
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WBBM"  group-title="United States",CBS WBBM
+http://mu01.v5iptv.com:8880/test11261/1234567/29890
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KREM"  group-title="United States",CBS KREM
+http://mu01.v5iptv.com:8880/test11261/1234567/29889
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WCCO"  group-title="United States",CBS WCCO
+http://mu01.v5iptv.com:8880/test11261/1234567/29888
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KTHV"  group-title="United States",CBS KTHV
+http://mu01.v5iptv.com:8880/test11261/1234567/29887
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KYW"  group-title="United States",CBS KYW
+http://mu01.v5iptv.com:8880/test11261/1234567/29886
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KFMB"  group-title="United States",CBS KFMB
+http://mu01.v5iptv.com:8880/test11261/1234567/29885
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WDEF"  group-title="United States",CBS WDEF
+http://mu01.v5iptv.com:8880/test11261/1234567/29884
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WSBK"  group-title="United States",CBS WSBK
+http://mu01.v5iptv.com:8880/test11261/1234567/29883
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WCBS"  group-title="United States",CBS WCBS
+http://mu01.v5iptv.com:8880/test11261/1234567/29882
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KIRO"  group-title="United States",CBS KIRO
+http://mu01.v5iptv.com:8880/test11261/1234567/29881
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WLTX"  group-title="United States",CBS WLTX
+http://mu01.v5iptv.com:8880/test11261/1234567/29880
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WCAX"  group-title="United States",CBS WCAX
+http://mu01.v5iptv.com:8880/test11261/1234567/29879
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KHOU"  group-title="United States",CBS KHOU
+http://mu01.v5iptv.com:8880/test11261/1234567/29878
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KGMB"  group-title="United States",CBS KGMB
+http://mu01.v5iptv.com:8880/test11261/1234567/29877
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KKTV"  group-title="United States",CBS KKTV
+http://mu01.v5iptv.com:8880/test11261/1234567/29876
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WDBJ"  group-title="United States",CBS WDBJ
+http://mu01.v5iptv.com:8880/test11261/1234567/29875
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KCCI"  group-title="United States",CBS KCCI
+http://mu01.v5iptv.com:8880/test11261/1234567/29874
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KION"  group-title="United States",CBS KION
+http://mu01.v5iptv.com:8880/test11261/1234567/29873
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WHIO"  group-title="United States",CBS WHIO
+http://mu01.v5iptv.com:8880/test11261/1234567/29872
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KCBS"  group-title="United States",CBS KCBS
+http://mu01.v5iptv.com:8880/test11261/1234567/29871
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KCAL"  group-title="United States",CBS KCAL
+http://mu01.v5iptv.com:8880/test11261/1234567/29870
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WJZ"  group-title="United States",CBS WJZ
+http://mu01.v5iptv.com:8880/test11261/1234567/29869
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WKMG"  group-title="United States",CBS WKMG
+http://mu01.v5iptv.com:8880/test11261/1234567/29868
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KMTV"  group-title="United States",CBS KMTV
+http://mu01.v5iptv.com:8880/test11261/1234567/29867
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WLNY"  group-title="United States",CBS WLNY
+http://mu01.v5iptv.com:8880/test11261/1234567/29866
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WGCL"  group-title="United States",CBS WGCL
+http://mu01.v5iptv.com:8880/test11261/1234567/29865
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KOVR"  group-title="United States",CBS KOVR
+http://mu01.v5iptv.com:8880/test11261/1234567/29864
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WLKY"  group-title="United States",CBS WLKY
+http://mu01.v5iptv.com:8880/test11261/1234567/29863
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KOTV"  group-title="United States",CBS KOTV
+http://mu01.v5iptv.com:8880/test11261/1234567/29862
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KWCH"  group-title="United States",CBS KWCH
+http://mu01.v5iptv.com:8880/test11261/1234567/29861
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS KMOV"  group-title="United States",CBS KMOV
+http://mu01.v5iptv.com:8880/test11261/1234567/29860
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WBTV"  group-title="United States",CBS WBTV
+http://mu01.v5iptv.com:8880/test11261/1234567/29859
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS WBZ"  group-title="United States",CBS WBZ
+http://mu01.v5iptv.com:8880/test11261/1234567/29858
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PBS Kids"  group-title="United States",PBS Kids
+http://mu01.v5iptv.com:8880/test11261/1234567/29857
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="fox kcop lax"  group-title="United States",fox kcop lax
+http://mu01.v5iptv.com:8880/test11261/1234567/29856
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="fox kptv por"  group-title="United States",fox kptv por
+http://mu01.v5iptv.com:8880/test11261/1234567/29855
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WYFX"  group-title="United States",FOX WYFX
+http://mu01.v5iptv.com:8880/test11261/1234567/29854
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WFLX"  group-title="United States",FOX WFLX
+http://mu01.v5iptv.com:8880/test11261/1234567/29853
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WUPW"  group-title="United States",FOX WUPW
+http://mu01.v5iptv.com:8880/test11261/1234567/29852
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WSYT"  group-title="United States",FOX WSYT
+http://mu01.v5iptv.com:8880/test11261/1234567/29851
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KAYU"  group-title="United States",FOX KAYU
+http://mu01.v5iptv.com:8880/test11261/1234567/29850
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KRXI"  group-title="United States",FOX KRXI
+http://mu01.v5iptv.com:8880/test11261/1234567/29849
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WYZZ"  group-title="United States",FOX WYZZ
+http://mu01.v5iptv.com:8880/test11261/1234567/29848
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WSYM"  group-title="United States",FOX WSYM
+http://mu01.v5iptv.com:8880/test11261/1234567/29847
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KADN"  group-title="United States",FOX KADN
+http://mu01.v5iptv.com:8880/test11261/1234567/29846
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WLAX"  group-title="United States",FOX WLAX
+http://mu01.v5iptv.com:8880/test11261/1234567/29845
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WDBD"  group-title="United States",FOX WDBD
+http://mu01.v5iptv.com:8880/test11261/1234567/29844
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KFXV"  group-title="United States",FOX KFXV
+http://mu01.v5iptv.com:8880/test11261/1234567/29826
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WEVV2"  group-title="United States",FOX WEVV2
+http://mu01.v5iptv.com:8880/test11261/1234567/29825
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KFOX"  group-title="United States",FOX KFOX
+http://mu01.v5iptv.com:8880/test11261/1234567/29824
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KSCC"  group-title="United States",FOX KSCC
+http://mu01.v5iptv.com:8880/test11261/1234567/29823
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KNIN"  group-title="United States",FOX KNIN
+http://mu01.v5iptv.com:8880/test11261/1234567/29822
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WBRC"  group-title="United States",FOX WBRC
+http://mu01.v5iptv.com:8880/test11261/1234567/29821
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WFXG"  group-title="United States",FOX WFXG
+http://mu01.v5iptv.com:8880/test11261/1234567/29820
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KICU"  group-title="United States",FOX KICU
+http://mu01.v5iptv.com:8880/test11261/1234567/29819
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WTWC"  group-title="United States",FOX WTWC
+http://mu01.v5iptv.com:8880/test11261/1234567/29818
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WJBK"  group-title="United States",FOX WJBK
+http://mu01.v5iptv.com:8880/test11261/1234567/29817
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WTVT"  group-title="United States",FOX WTVT
+http://mu01.v5iptv.com:8880/test11261/1234567/29816
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KLJB"  group-title="United States",FOX KLJB
+http://mu01.v5iptv.com:8880/test11261/1234567/29812
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WOLF"  group-title="United States",FOX WOLF
+http://mu01.v5iptv.com:8880/test11261/1234567/29811
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WTVC"  group-title="United States",FOX WTVC
+http://mu01.v5iptv.com:8880/test11261/1234567/29810
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WPMT"  group-title="United States",FOX WPMT
+http://mu01.v5iptv.com:8880/test11261/1234567/29808
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KKFX"  group-title="United States",FOX KKFX
+http://mu01.v5iptv.com:8880/test11261/1234567/29805
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KTXL"  group-title="United States",FOX KTXL
+http://mu01.v5iptv.com:8880/test11261/1234567/29801
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WTTG"  group-title="United States",FOX WTTG
+http://mu01.v5iptv.com:8880/test11261/1234567/29800
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WTTE"  group-title="United States",FOX WTTE
+http://mu01.v5iptv.com:8880/test11261/1234567/29792
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WFXT"  group-title="United States",FOX WFXT
+http://mu01.v5iptv.com:8880/test11261/1234567/29791
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WFXR"  group-title="United States",FOX WFXR
+http://mu01.v5iptv.com:8880/test11261/1234567/29790
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WFXB"  group-title="United States",FOX WFXB
+http://mu01.v5iptv.com:8880/test11261/1234567/29783
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KBSI"  group-title="United States",FOX KBSI
+http://mu01.v5iptv.com:8880/test11261/1234567/29774
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KSTU"  group-title="United States",FOX KSTU
+http://mu01.v5iptv.com:8880/test11261/1234567/29773
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KTVU"  group-title="United States",FOX KTVU
+http://mu01.v5iptv.com:8880/test11261/1234567/29772
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WUTV"  group-title="United States",FOX WUTV
+http://mu01.v5iptv.com:8880/test11261/1234567/29770
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KTVI"  group-title="United States",FOX KTVI
+http://mu01.v5iptv.com:8880/test11261/1234567/29769
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KDVR"  group-title="United States",FOX KDVR
+http://mu01.v5iptv.com:8880/test11261/1234567/29765
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WOGX"  group-title="United States",FOX WOGX
+http://mu01.v5iptv.com:8880/test11261/1234567/29764
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KOKI"  group-title="United States",FOX KOKI
+http://mu01.v5iptv.com:8880/test11261/1234567/29763
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KOKH"  group-title="United States",FOX KOKH
+http://mu01.v5iptv.com:8880/test11261/1234567/29762
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WDRB"  group-title="United States",FOX WDRB
+http://mu01.v5iptv.com:8880/test11261/1234567/29761
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KRQE"  group-title="United States",FOX KRQE
+http://mu01.v5iptv.com:8880/test11261/1234567/29760
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WGXA"  group-title="United States",FOX WGXA
+http://mu01.v5iptv.com:8880/test11261/1234567/29759
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WVUE"  group-title="United States",FOX WVUE
+http://mu01.v5iptv.com:8880/test11261/1234567/29758
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KTTW"  group-title="United States",FOX KTTW
+http://mu01.v5iptv.com:8880/test11261/1234567/29757
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KTTV"  group-title="United States",FOX KTTV
+http://mu01.v5iptv.com:8880/test11261/1234567/29756
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WOFL"  group-title="United States",FOX WOFL
+http://mu01.v5iptv.com:8880/test11261/1234567/29755
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WRLH"  group-title="United States",FOX WRLH
+http://mu01.v5iptv.com:8880/test11261/1234567/29754
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WFTX"  group-title="United States",FOX WFTX
+http://mu01.v5iptv.com:8880/test11261/1234567/29753
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KFXL"  group-title="United States",FOX KFXL
+http://mu01.v5iptv.com:8880/test11261/1234567/29752
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KFXK"  group-title="United States",FOX KFXK
+http://mu01.v5iptv.com:8880/test11261/1234567/29751
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WXXA"  group-title="United States",FOX WXXA
+http://mu01.v5iptv.com:8880/test11261/1234567/29750
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WPGH"  group-title="United States",FOX WPGH
+http://mu01.v5iptv.com:8880/test11261/1234567/29749
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WSMH"  group-title="United States",FOX WSMH
+http://mu01.v5iptv.com:8880/test11261/1234567/29748
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KDSM"  group-title="United States",FOX KDSM
+http://mu01.v5iptv.com:8880/test11261/1234567/29747
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WTNZ"  group-title="United States",FOX WTNZ
+http://mu01.v5iptv.com:8880/test11261/1234567/29746
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WPFO"  group-title="United States",FOX WPFO
+http://mu01.v5iptv.com:8880/test11261/1234567/29745
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KCPQ"  group-title="United States",FOX KCPQ
+http://mu01.v5iptv.com:8880/test11261/1234567/29744
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WJZY"  group-title="United States",FOX WJZY
+http://mu01.v5iptv.com:8880/test11261/1234567/29743
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WNAC"  group-title="United States",FOX WNAC
+http://mu01.v5iptv.com:8880/test11261/1234567/29742
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WAGA"  group-title="United States",FOX WAGA
+http://mu01.v5iptv.com:8880/test11261/1234567/29741
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WRGT"  group-title="United States",FOX WRGT
+http://mu01.v5iptv.com:8880/test11261/1234567/29740
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WDKY"  group-title="United States",FOX WDKY
+http://mu01.v5iptv.com:8880/test11261/1234567/29739
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WFOX"  group-title="United States",FOX WFOX
+http://mu01.v5iptv.com:8880/test11261/1234567/29738
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KVRR"  group-title="United States",FOX KVRR
+http://mu01.v5iptv.com:8880/test11261/1234567/29737
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KRIV"  group-title="United States",FOX KRIV
+http://mu01.v5iptv.com:8880/test11261/1234567/29736
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WBFF"  group-title="United States",FOX WBFF
+http://mu01.v5iptv.com:8880/test11261/1234567/29735
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WITI"  group-title="United States",FOX WITI
+http://mu01.v5iptv.com:8880/test11261/1234567/29734
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WTIC"  group-title="United States",FOX WTIC
+http://mu01.v5iptv.com:8880/test11261/1234567/29733
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WACH"  group-title="United States",FOX WACH
+http://mu01.v5iptv.com:8880/test11261/1234567/29732
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WZTV"  group-title="United States",FOX WZTV
+http://mu01.v5iptv.com:8880/test11261/1234567/29731
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WTGS"  group-title="United States",FOX WTGS
+http://mu01.v5iptv.com:8880/test11261/1234567/29730
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WFLD"  group-title="United States",FOX WFLD
+http://mu01.v5iptv.com:8880/test11261/1234567/29729
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KXRM"  group-title="United States",FOX KXRM
+http://mu01.v5iptv.com:8880/test11261/1234567/29728
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WGMB"  group-title="United States",FOX WGMB
+http://mu01.v5iptv.com:8880/test11261/1234567/29727
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WUHF"  group-title="United States",FOX WUHF
+http://mu01.v5iptv.com:8880/test11261/1234567/29726
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WRAZ"  group-title="United States",FOX WRAZ
+http://mu01.v5iptv.com:8880/test11261/1234567/29725
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WXMI"  group-title="United States",FOX WXMI
+http://mu01.v5iptv.com:8880/test11261/1234567/29724
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WNYW"  group-title="United States",FOX WNYW
+http://mu01.v5iptv.com:8880/test11261/1234567/29723
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WSBT"  group-title="United States",FOX WSBT
+http://mu01.v5iptv.com:8880/test11261/1234567/29722
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WLUK"  group-title="United States",FOX WLUK
+http://mu01.v5iptv.com:8880/test11261/1234567/29721
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KABB"  group-title="United States",FOX KABB
+http://mu01.v5iptv.com:8880/test11261/1234567/29720
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KHON"  group-title="United States",FOX KHON
+http://mu01.v5iptv.com:8880/test11261/1234567/29719
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KRBK"  group-title="United States",FOX KRBK
+http://mu01.v5iptv.com:8880/test11261/1234567/29718
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KDFW"  group-title="United States",FOX KDFW
+http://mu01.v5iptv.com:8880/test11261/1234567/29717
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WFFT"  group-title="United States",FOX WFFT
+http://mu01.v5iptv.com:8880/test11261/1234567/29716
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WGHP"  group-title="United States",FOX WGHP
+http://mu01.v5iptv.com:8880/test11261/1234567/29715
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KWKT"  group-title="United States",FOX KWKT
+http://mu01.v5iptv.com:8880/test11261/1234567/29714
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WXIX"  group-title="United States",FOX WXIX
+http://mu01.v5iptv.com:8880/test11261/1234567/29713
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WTAT"  group-title="United States",FOX WTAT
+http://mu01.v5iptv.com:8880/test11261/1234567/29712
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WFFF"  group-title="United States",FOX WFFF
+http://mu01.v5iptv.com:8880/test11261/1234567/29711
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WXIN"  group-title="United States",FOX WXIN
+http://mu01.v5iptv.com:8880/test11261/1234567/29710
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WDAF"  group-title="United States",FOX WDAF
+http://mu01.v5iptv.com:8880/test11261/1234567/29709
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WMSN"  group-title="United States",FOX WMSN
+http://mu01.v5iptv.com:8880/test11261/1234567/29708
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KSAZ"  group-title="United States",FOX KSAZ
+http://mu01.v5iptv.com:8880/test11261/1234567/29707
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KSAS"  group-title="United States",FOX KSAS
+http://mu01.v5iptv.com:8880/test11261/1234567/29706
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KCBA"  group-title="United States",FOX KCBA
+http://mu01.v5iptv.com:8880/test11261/1234567/29705
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WPWR"  group-title="United States",FOX WPWR
+http://mu01.v5iptv.com:8880/test11261/1234567/29704
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WVBT"  group-title="United States",FOX WVBT
+http://mu01.v5iptv.com:8880/test11261/1234567/29703
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KTBC"  group-title="United States",FOX KTBC
+http://mu01.v5iptv.com:8880/test11261/1234567/29702
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KLRT"  group-title="United States",FOX KLRT
+http://mu01.v5iptv.com:8880/test11261/1234567/29701
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WVAH"  group-title="United States",FOX WVAH
+http://mu01.v5iptv.com:8880/test11261/1234567/29700
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KMSS"  group-title="United States",FOX KMSS
+http://mu01.v5iptv.com:8880/test11261/1234567/29699
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KMSP"  group-title="United States",FOX KMSP
+http://mu01.v5iptv.com:8880/test11261/1234567/29698
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KMSB"  group-title="United States",FOX KMSB
+http://mu01.v5iptv.com:8880/test11261/1234567/29697
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WHBQ"  group-title="United States",FOX WHBQ
+http://mu01.v5iptv.com:8880/test11261/1234567/29696
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KMPH"  group-title="United States",FOX KMPH
+http://mu01.v5iptv.com:8880/test11261/1234567/29695
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WJW"  group-title="United States",FOX WJW
+http://mu01.v5iptv.com:8880/test11261/1234567/29694
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WZDX"  group-title="United States",FOX WZDX
+http://mu01.v5iptv.com:8880/test11261/1234567/29693
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX KPTM"  group-title="United States",FOX KPTM
+http://mu01.v5iptv.com:8880/test11261/1234567/29692
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WSVN"  group-title="United States",FOX WSVN
+http://mu01.v5iptv.com:8880/test11261/1234567/29691
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WTXF"  group-title="United States",FOX WTXF
+http://mu01.v5iptv.com:8880/test11261/1234567/29690
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX WRSP"  group-title="United States",FOX WRSP
+http://mu01.v5iptv.com:8880/test11261/1234567/29689
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KHQ"  group-title="United States",NBC KHQ
+http://mu01.v5iptv.com:8880/test11261/1234567/29688
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WPSD"  group-title="United States",NBC WPSD
+http://mu01.v5iptv.com:8880/test11261/1234567/29687
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KVLY"  group-title="United States",NBC KVLY
+http://mu01.v5iptv.com:8880/test11261/1234567/29686
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WFIE"  group-title="United States",NBC WFIE
+http://mu01.v5iptv.com:8880/test11261/1234567/29685
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WAGT"  group-title="United States",NBC WAGT
+http://mu01.v5iptv.com:8880/test11261/1234567/29684
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WFMJ"  group-title="United States",NBC WFMJ
+http://mu01.v5iptv.com:8880/test11261/1234567/29683
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WBRE"  group-title="United States",NBC WBRE
+http://mu01.v5iptv.com:8880/test11261/1234567/29682
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KETK"  group-title="United States",NBC KETK
+http://mu01.v5iptv.com:8880/test11261/1234567/29681
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WFLA"  group-title="United States",NBC WFLA
+http://mu01.v5iptv.com:8880/test11261/1234567/29680
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WWLP"  group-title="United States",NBC WWLP
+http://mu01.v5iptv.com:8880/test11261/1234567/29679
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KTAL"  group-title="United States",NBC KTAL
+http://mu01.v5iptv.com:8880/test11261/1234567/29678
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KING"  group-title="United States",NBC KING
+http://mu01.v5iptv.com:8880/test11261/1234567/29677
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WSAV"  group-title="United States",NBC WSAV
+http://mu01.v5iptv.com:8880/test11261/1234567/29676
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WEEK"  group-title="United States",NBC WEEK
+http://mu01.v5iptv.com:8880/test11261/1234567/29675
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WAVY"  group-title="United States",NBC WAVY
+http://mu01.v5iptv.com:8880/test11261/1234567/29674
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WSFA"  group-title="United States",NBC WSFA
+http://mu01.v5iptv.com:8880/test11261/1234567/29673
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KARK"  group-title="United States",NBC KARK
+http://mu01.v5iptv.com:8880/test11261/1234567/29672
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WILX"  group-title="United States",NBC WILX
+http://mu01.v5iptv.com:8880/test11261/1234567/29671
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WEAU"  group-title="United States",NBC WEAU
+http://mu01.v5iptv.com:8880/test11261/1234567/29670
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KVEO"  group-title="United States",NBC KVEO
+http://mu01.v5iptv.com:8880/test11261/1234567/29669
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WOOD"  group-title="United States",NBC WOOD
+http://mu01.v5iptv.com:8880/test11261/1234567/29668
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WPTA"  group-title="United States",NBC WPTA
+http://mu01.v5iptv.com:8880/test11261/1234567/29667
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WBBH"  group-title="United States",NBC WBBH
+http://mu01.v5iptv.com:8880/test11261/1234567/29666
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KSEE"  group-title="United States",NBC KSEE
+http://mu01.v5iptv.com:8880/test11261/1234567/29665
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KTSM"  group-title="United States",NBC KTSM
+http://mu01.v5iptv.com:8880/test11261/1234567/29664
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WDTN"  group-title="United States",NBC WDTN
+http://mu01.v5iptv.com:8880/test11261/1234567/29663
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KWQC"  group-title="United States",NBC KWQC
+http://mu01.v5iptv.com:8880/test11261/1234567/29662
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KRIS"  group-title="United States",NBC KRIS
+http://mu01.v5iptv.com:8880/test11261/1234567/29661
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WCMH"  group-title="United States",NBC WCMH
+http://mu01.v5iptv.com:8880/test11261/1234567/29660
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WLTZ"  group-title="United States",NBC WLTZ
+http://mu01.v5iptv.com:8880/test11261/1234567/29659
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KXAN"  group-title="United States",NBC KXAN
+http://mu01.v5iptv.com:8880/test11261/1234567/29658
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KXAS"  group-title="United States",NBC KXAS
+http://mu01.v5iptv.com:8880/test11261/1234567/29657
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KPRC"  group-title="United States",NBC KPRC
+http://mu01.v5iptv.com:8880/test11261/1234567/29656
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WTVJ"  group-title="United States",NBC WTVJ
+http://mu01.v5iptv.com:8880/test11261/1234567/29655
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WLEX"  group-title="United States",NBC WLEX
+http://mu01.v5iptv.com:8880/test11261/1234567/29654
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WCSH"  group-title="United States",NBC WCSH
+http://mu01.v5iptv.com:8880/test11261/1234567/29653
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WMFP"  group-title="United States",NBC WMFP
+http://mu01.v5iptv.com:8880/test11261/1234567/29652
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KGW"  group-title="United States",NBC KGW
+http://mu01.v5iptv.com:8880/test11261/1234567/29651
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KARE"  group-title="United States",NBC KARE
+http://mu01.v5iptv.com:8880/test11261/1234567/29650
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WAND"  group-title="United States",NBC WAND
+http://mu01.v5iptv.com:8880/test11261/1234567/29649
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KPNX"  group-title="United States",NBC KPNX
+http://mu01.v5iptv.com:8880/test11261/1234567/29648
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WDSU"  group-title="United States",NBC WDSU
+http://mu01.v5iptv.com:8880/test11261/1234567/29647
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WLBT"  group-title="United States",NBC WLBT
+http://mu01.v5iptv.com:8880/test11261/1234567/29646
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KTVB"  group-title="United States",NBC KTVB
+http://mu01.v5iptv.com:8880/test11261/1234567/29645
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WVVA"  group-title="United States",NBC WVVA
+http://mu01.v5iptv.com:8880/test11261/1234567/29644
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WNDU"  group-title="United States",NBC WNDU
+http://mu01.v5iptv.com:8880/test11261/1234567/29643
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WESH"  group-title="United States",NBC WESH
+http://mu01.v5iptv.com:8880/test11261/1234567/29642
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WMBF"  group-title="United States",NBC WMBF
+http://mu01.v5iptv.com:8880/test11261/1234567/29641
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WVTM"  group-title="United States",NBC WVTM
+http://mu01.v5iptv.com:8880/test11261/1234567/29640
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KCRA"  group-title="United States",NBC KCRA
+http://mu01.v5iptv.com:8880/test11261/1234567/29639
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WMAQ"  group-title="United States",NBC WMAQ
+http://mu01.v5iptv.com:8880/test11261/1234567/29638
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WSMV"  group-title="United States",NBC WSMV
+http://mu01.v5iptv.com:8880/test11261/1234567/29637
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WCNC"  group-title="United States",NBC WCNC
+http://mu01.v5iptv.com:8880/test11261/1234567/29636
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WSLS"  group-title="United States",NBC WSLS
+http://mu01.v5iptv.com:8880/test11261/1234567/29635
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WTMJ"  group-title="United States",NBC WTMJ
+http://mu01.v5iptv.com:8880/test11261/1234567/29634
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KUSA"  group-title="United States",NBC KUSA
+http://mu01.v5iptv.com:8880/test11261/1234567/29633
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WBIR"  group-title="United States",NBC WBIR
+http://mu01.v5iptv.com:8880/test11261/1234567/29632
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WTLV"  group-title="United States",NBC WTLV
+http://mu01.v5iptv.com:8880/test11261/1234567/29631
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KSNB"  group-title="United States",NBC KSNB
+http://mu01.v5iptv.com:8880/test11261/1234567/29630
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WGRZ"  group-title="United States",NBC WGRZ
+http://mu01.v5iptv.com:8880/test11261/1234567/29629
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WAFF"  group-title="United States",NBC WAFF
+http://mu01.v5iptv.com:8880/test11261/1234567/29628
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KNBC"  group-title="United States",NBC KNBC
+http://mu01.v5iptv.com:8880/test11261/1234567/29627
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WKYC"  group-title="United States",NBC WKYC
+http://mu01.v5iptv.com:8880/test11261/1234567/29626
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WITN"  group-title="United States",NBC WITN
+http://mu01.v5iptv.com:8880/test11261/1234567/29625
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WDIV"  group-title="United States",NBC WDIV
+http://mu01.v5iptv.com:8880/test11261/1234567/29624
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WTHR"  group-title="United States",NBC WTHR
+http://mu01.v5iptv.com:8880/test11261/1234567/29623
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KDLT"  group-title="United States",NBC KDLT
+http://mu01.v5iptv.com:8880/test11261/1234567/29622
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KOAA"  group-title="United States",NBC KOAA
+http://mu01.v5iptv.com:8880/test11261/1234567/29621
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KVOA"  group-title="United States",NBC KVOA
+http://mu01.v5iptv.com:8880/test11261/1234567/29620
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WLWT"  group-title="United States",NBC WLWT
+http://mu01.v5iptv.com:8880/test11261/1234567/29619
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KYTV"  group-title="United States",NBC KYTV
+http://mu01.v5iptv.com:8880/test11261/1234567/29618
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WRC"  group-title="United States",NBC WRC
+http://mu01.v5iptv.com:8880/test11261/1234567/29617
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KSHB"  group-title="United States",NBC KSHB
+http://mu01.v5iptv.com:8880/test11261/1234567/29616
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WVIT"  group-title="United States",NBC WVIT
+http://mu01.v5iptv.com:8880/test11261/1234567/29615
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WRAL"  group-title="United States",NBC WRAL
+http://mu01.v5iptv.com:8880/test11261/1234567/29614
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WBAL"  group-title="United States",NBC WBAL
+http://mu01.v5iptv.com:8880/test11261/1234567/29613
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WNYT"  group-title="United States",NBC WNYT
+http://mu01.v5iptv.com:8880/test11261/1234567/29612
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WSAZ"  group-title="United States",NBC WSAZ
+http://mu01.v5iptv.com:8880/test11261/1234567/29611
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KCEN"  group-title="United States",NBC KCEN
+http://mu01.v5iptv.com:8880/test11261/1234567/29610
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WCAU"  group-title="United States",NBC WCAU
+http://mu01.v5iptv.com:8880/test11261/1234567/29609
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KSDK"  group-title="United States",NBC KSDK
+http://mu01.v5iptv.com:8880/test11261/1234567/29608
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KHNL"  group-title="United States",NBC KHNL
+http://mu01.v5iptv.com:8880/test11261/1234567/29607
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WMTV"  group-title="United States",NBC WMTV
+http://mu01.v5iptv.com:8880/test11261/1234567/29606
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KJRH"  group-title="United States",NBC KJRH
+http://mu01.v5iptv.com:8880/test11261/1234567/29605
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WMC"  group-title="United States",NBC WMC
+http://mu01.v5iptv.com:8880/test11261/1234567/29604
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WXII"  group-title="United States",NBC WXII
+http://mu01.v5iptv.com:8880/test11261/1234567/29603
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KSBY"  group-title="United States",NBC KSBY
+http://mu01.v5iptv.com:8880/test11261/1234567/29602
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WECT"  group-title="United States",NBC WECT
+http://mu01.v5iptv.com:8880/test11261/1234567/29601
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KSBW"  group-title="United States",NBC KSBW
+http://mu01.v5iptv.com:8880/test11261/1234567/29600
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WXIA"  group-title="United States",NBC WXIA
+http://mu01.v5iptv.com:8880/test11261/1234567/29599
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WOWT"  group-title="United States",NBC WOWT
+http://mu01.v5iptv.com:8880/test11261/1234567/29598
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WPXI"  group-title="United States",NBC WPXI
+http://mu01.v5iptv.com:8880/test11261/1234567/29597
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KSL"  group-title="United States",NBC KSL
+http://mu01.v5iptv.com:8880/test11261/1234567/29596
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WIS"  group-title="United States",NBC WIS
+http://mu01.v5iptv.com:8880/test11261/1234567/29595
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WWBT"  group-title="United States",NBC WWBT
+http://mu01.v5iptv.com:8880/test11261/1234567/29594
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WHEC"  group-title="United States",NBC WHEC
+http://mu01.v5iptv.com:8880/test11261/1234567/29593
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KNTV"  group-title="United States",NBC KNTV
+http://mu01.v5iptv.com:8880/test11261/1234567/29592
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WYFF"  group-title="United States",NBC WYFF
+http://mu01.v5iptv.com:8880/test11261/1234567/29591
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WPTZ"  group-title="United States",NBC WPTZ
+http://mu01.v5iptv.com:8880/test11261/1234567/29590
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WPTV"  group-title="United States",NBC WPTV
+http://mu01.v5iptv.com:8880/test11261/1234567/29589
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WJHG"  group-title="United States",NBC WJHG
+http://mu01.v5iptv.com:8880/test11261/1234567/29588
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WGBA"  group-title="United States",NBC WGBA
+http://mu01.v5iptv.com:8880/test11261/1234567/29587
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KOB"  group-title="United States",NBC KOB
+http://mu01.v5iptv.com:8880/test11261/1234567/29586
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WGAL"  group-title="United States",NBC WGAL
+http://mu01.v5iptv.com:8880/test11261/1234567/29585
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WAVE"  group-title="United States",NBC WAVE
+http://mu01.v5iptv.com:8880/test11261/1234567/29584
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KNSD"  group-title="United States",NBC KNSD
+http://mu01.v5iptv.com:8880/test11261/1234567/29583
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC WNBC"  group-title="United States",NBC WNBC
+http://mu01.v5iptv.com:8880/test11261/1234567/29582
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KGET"  group-title="United States",NBC KGET
+http://mu01.v5iptv.com:8880/test11261/1234567/29581
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KWWL"  group-title="United States",NBC KWWL
+http://mu01.v5iptv.com:8880/test11261/1234567/29580
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KTIV"  group-title="United States",NBC KTIV
+http://mu01.v5iptv.com:8880/test11261/1234567/29579
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC KNDO"  group-title="United States",NBC KNDO
+http://mu01.v5iptv.com:8880/test11261/1234567/29578
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CW WPSG"  group-title="United States",CW WPSG
+http://mu01.v5iptv.com:8880/test11261/1234567/29577
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CW WKBD"  group-title="United States",CW WKBD
+http://mu01.v5iptv.com:8880/test11261/1234567/29576
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CW KSTW"  group-title="United States",CW KSTW
+http://mu01.v5iptv.com:8880/test11261/1234567/29575
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CW WTOG"  group-title="United States",CW WTOG
+http://mu01.v5iptv.com:8880/test11261/1234567/29574
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="News4 (WRC TV)"  group-title="United States",News4 (WRC TV)
+http://mu01.v5iptv.com:8880/test11261/1234567/29573
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 1"  group-title="United States",NFL 1
+http://mu01.v5iptv.com:8880/test11261/1234567/29572
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 2"  group-title="United States",NFL 2
+http://mu01.v5iptv.com:8880/test11261/1234567/29571
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 3"  group-title="United States",NFL 3
+http://mu01.v5iptv.com:8880/test11261/1234567/29570
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 4 HD"  group-title="United States",NFL 4 HD
+http://mu01.v5iptv.com:8880/test11261/1234567/29569
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 5"  group-title="United States",NFL 5
+http://mu01.v5iptv.com:8880/test11261/1234567/29568
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 6"  group-title="United States",NFL 6
+http://mu01.v5iptv.com:8880/test11261/1234567/29567
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 7"  group-title="United States",NFL 7
+http://mu01.v5iptv.com:8880/test11261/1234567/29566
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 8"  group-title="United States",NFL 8
+http://mu01.v5iptv.com:8880/test11261/1234567/29565
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 9"  group-title="United States",NFL 9
+http://mu01.v5iptv.com:8880/test11261/1234567/29564
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 14"  group-title="United States",NFL 14
+http://mu01.v5iptv.com:8880/test11261/1234567/29563
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 15"  group-title="United States",NFL 15
+http://mu01.v5iptv.com:8880/test11261/1234567/29562
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL N"  group-title="United States",NFL N
+http://mu01.v5iptv.com:8880/test11261/1234567/29561
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MLB 01"  group-title="United States",MLB 01
+http://mu01.v5iptv.com:8880/test11261/1234567/29560
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MLB 02"  group-title="United States",MLB 02
+http://mu01.v5iptv.com:8880/test11261/1234567/29559
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MLB 03"  group-title="United States",MLB 03
+http://mu01.v5iptv.com:8880/test11261/1234567/29558
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MLB 04"  group-title="United States",MLB 04
+http://mu01.v5iptv.com:8880/test11261/1234567/29557
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MLB 05"  group-title="United States",MLB 05
+http://mu01.v5iptv.com:8880/test11261/1234567/29556
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MLB 06"  group-title="United States",MLB 06
+http://mu01.v5iptv.com:8880/test11261/1234567/29555
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MLB 07"  group-title="United States",MLB 07
+http://mu01.v5iptv.com:8880/test11261/1234567/29554
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MLB 08"  group-title="United States",MLB 08
+http://mu01.v5iptv.com:8880/test11261/1234567/29553
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MLB 09"  group-title="United States",MLB 09
+http://mu01.v5iptv.com:8880/test11261/1234567/29552
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MLB 10"  group-title="United States",MLB 10
+http://mu01.v5iptv.com:8880/test11261/1234567/29551
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MLB 11"  group-title="United States",MLB 11
+http://mu01.v5iptv.com:8880/test11261/1234567/29550
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MLB 12"  group-title="United States",MLB 12
+http://mu01.v5iptv.com:8880/test11261/1234567/29549
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MLB 13"  group-title="United States",MLB 13
+http://mu01.v5iptv.com:8880/test11261/1234567/29548
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MLB 14"  group-title="United States",MLB 14
+http://mu01.v5iptv.com:8880/test11261/1234567/29547
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MLB 15"  group-title="United States",MLB 15
+http://mu01.v5iptv.com:8880/test11261/1234567/29546
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL Channel HD"  group-title="United States",NFL Channel HD
+http://mu01.v5iptv.com:8880/test11261/1234567/29545
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL Gamepass 1"  group-title="United States",NFL Gamepass 1
+http://mu01.v5iptv.com:8880/test11261/1234567/29544
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL GAMEPASS 2"  group-title="United States",NFL GAMEPASS 2
+http://mu01.v5iptv.com:8880/test11261/1234567/29543
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL GAMEPASS 3"  group-title="United States",NFL GAMEPASS 3
+http://mu01.v5iptv.com:8880/test11261/1234567/29542
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL GAMEPASS 4"  group-title="United States",NFL GAMEPASS 4
+http://mu01.v5iptv.com:8880/test11261/1234567/29541
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL GAMEPASS 5"  group-title="United States",NFL GAMEPASS 5
+http://mu01.v5iptv.com:8880/test11261/1234567/29540
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL GAMEPASS 6"  group-title="United States",NFL GAMEPASS 6
+http://mu01.v5iptv.com:8880/test11261/1234567/29539
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL GAMEPASS 7"  group-title="United States",NFL GAMEPASS 7
+http://mu01.v5iptv.com:8880/test11261/1234567/29538
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL GAMEPASS 8"  group-title="United States",NFL GAMEPASS 8
+http://mu01.v5iptv.com:8880/test11261/1234567/29537
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL GAMEPASS 9"  group-title="United States",NFL GAMEPASS 9
+http://mu01.v5iptv.com:8880/test11261/1234567/29536
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL GAMEPASS 10"  group-title="United States",NFL GAMEPASS 10
+http://mu01.v5iptv.com:8880/test11261/1234567/29535
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL GAMEPASS 11"  group-title="United States",NFL GAMEPASS 11
+http://mu01.v5iptv.com:8880/test11261/1234567/29534
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL GAMEPASS 12"  group-title="United States",NFL GAMEPASS 12
+http://mu01.v5iptv.com:8880/test11261/1234567/29533
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL GAMEPASS 13"  group-title="United States",NFL GAMEPASS 13
+http://mu01.v5iptv.com:8880/test11261/1234567/29532
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL Gamepass 14"  group-title="United States",NFL Gamepass 14
+http://mu01.v5iptv.com:8880/test11261/1234567/29531
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PVV BOXING 2"  group-title="United States",PVV BOXING 2
+http://mu01.v5iptv.com:8880/test11261/1234567/29529
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PPV BOXING 3"  group-title="United States",PPV BOXING 3
+http://mu01.v5iptv.com:8880/test11261/1234567/29528
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PPV BOXING 4"  group-title="United States",PPV BOXING 4
+http://mu01.v5iptv.com:8880/test11261/1234567/29527
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PPV BOXING 5"  group-title="United States",PPV BOXING 5
+http://mu01.v5iptv.com:8880/test11261/1234567/29526
+
+#EXTINF:-1, tvg-id="nba.league.pass.1.us" tvg-logo="Logo N/A" tvg-name="NBA League Pass 01"  group-title="United States",NBA League Pass 01
+http://mu01.v5iptv.com:8880/test11261/1234567/29525
+
+#EXTINF:-1, tvg-id="nba.league.pass.2.us" tvg-logo="Logo N/A" tvg-name="NBA League Pass 02"  group-title="United States",NBA League Pass 02
+http://mu01.v5iptv.com:8880/test11261/1234567/29524
+
+#EXTINF:-1, tvg-id="nba.league.pass.3.us" tvg-logo="Logo N/A" tvg-name="NBA League Pass 03"  group-title="United States",NBA League Pass 03
+http://mu01.v5iptv.com:8880/test11261/1234567/29523
+
+#EXTINF:-1, tvg-id="nba.league.pass.4.us" tvg-logo="Logo N/A" tvg-name="NBA League Pass 04"  group-title="United States",NBA League Pass 04
+http://mu01.v5iptv.com:8880/test11261/1234567/29522
+
+#EXTINF:-1, tvg-id="nba.league.pass.5.us" tvg-logo="Logo N/A" tvg-name="NBA League Pass 05"  group-title="United States",NBA League Pass 05
+http://mu01.v5iptv.com:8880/test11261/1234567/29521
+
+#EXTINF:-1, tvg-id="nba.league.pass.6.us" tvg-logo="Logo N/A" tvg-name="NBA League Pass 06"  group-title="United States",NBA League Pass 06
+http://mu01.v5iptv.com:8880/test11261/1234567/29520
+
+#EXTINF:-1, tvg-id="nba.league.pass.7.us" tvg-logo="Logo N/A" tvg-name="NBA League Pass 07"  group-title="United States",NBA League Pass 07
+http://mu01.v5iptv.com:8880/test11261/1234567/29519
+
+#EXTINF:-1, tvg-id="nba.league.pass.8.us" tvg-logo="Logo N/A" tvg-name="NBA League Pass 08"  group-title="United States",NBA League Pass 08
+http://mu01.v5iptv.com:8880/test11261/1234567/29518
+
+#EXTINF:-1, tvg-id="nba.league.pass.9.us" tvg-logo="Logo N/A" tvg-name="NBA League Pass 09"  group-title="United States",NBA League Pass 09
+http://mu01.v5iptv.com:8880/test11261/1234567/29517
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBA League Pass 10"  group-title="United States",NBA League Pass 10
+http://mu01.v5iptv.com:8880/test11261/1234567/29516
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NHL Centre Ice 782"  group-title="United States",NHL Centre Ice 782
+http://mu01.v5iptv.com:8880/test11261/1234567/29515
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NHL Centre Ice 783"  group-title="United States",NHL Centre Ice 783
+http://mu01.v5iptv.com:8880/test11261/1234567/29514
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NHL Game 1"  group-title="United States",NHL Game 1
+http://mu01.v5iptv.com:8880/test11261/1234567/29513
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NHL Game 2"  group-title="United States",NHL Game 2
+http://mu01.v5iptv.com:8880/test11261/1234567/29512
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NHL Game 3"  group-title="United States",NHL Game 3
+http://mu01.v5iptv.com:8880/test11261/1234567/29511
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NHL Game 4"  group-title="United States",NHL Game 4
+http://mu01.v5iptv.com:8880/test11261/1234567/29510
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NHL Game 5"  group-title="United States",NHL Game 5
+http://mu01.v5iptv.com:8880/test11261/1234567/29509
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NHL Game 6"  group-title="United States",NHL Game 6
+http://mu01.v5iptv.com:8880/test11261/1234567/29508
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NHL Game 7"  group-title="United States",NHL Game 7
+http://mu01.v5iptv.com:8880/test11261/1234567/29507
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NHL Game 8"  group-title="United States",NHL Game 8
+http://mu01.v5iptv.com:8880/test11261/1234567/29506
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NHL Game 9"  group-title="United States",NHL Game 9
+http://mu01.v5iptv.com:8880/test11261/1234567/29505
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NHL Game 10"  group-title="United States",NHL Game 10
+http://mu01.v5iptv.com:8880/test11261/1234567/29504
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NHL Game 11"  group-title="United States",NHL Game 11
+http://mu01.v5iptv.com:8880/test11261/1234567/29503
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NHL Game 12"  group-title="United States",NHL Game 12
+http://mu01.v5iptv.com:8880/test11261/1234567/29502
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NHL Game 13"  group-title="United States",NHL Game 13
+http://mu01.v5iptv.com:8880/test11261/1234567/29501
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NHL Game 14"  group-title="United States",NHL Game 14
+http://mu01.v5iptv.com:8880/test11261/1234567/29500
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NHL Game 15"  group-title="United States",NHL Game 15
+http://mu01.v5iptv.com:8880/test11261/1234567/29499
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Starz Cinema"  group-title="United States",Starz Cinema
+http://mu01.v5iptv.com:8880/test11261/1234567/29498
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Starz Comedy"  group-title="United States",Starz Comedy
+http://mu01.v5iptv.com:8880/test11261/1234567/29497
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bloomberg"  group-title="United States",Bloomberg
+http://mu01.v5iptv.com:8880/test11261/1234567/29496
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Starz Etas"  group-title="United States",Starz Etas
+http://mu01.v5iptv.com:8880/test11261/1234567/29495
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Starz Edge HD"  group-title="United States",Starz Edge HD
+http://mu01.v5iptv.com:8880/test11261/1234567/29494
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Starz Encore"  group-title="United States",Starz Encore
+http://mu01.v5iptv.com:8880/test11261/1234567/29493
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Starz Encore East"  group-title="United States",Starz Encore East
+http://mu01.v5iptv.com:8880/test11261/1234567/29492
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Starz West"  group-title="United States",Starz West
+http://mu01.v5iptv.com:8880/test11261/1234567/29491
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC kfsn fresno"  group-title="United States",ABC kfsn fresno
+http://mu01.v5iptv.com:8880/test11261/1234567/29490
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC wisn mil"  group-title="United States",ABC wisn mil
+http://mu01.v5iptv.com:8880/test11261/1234567/29489
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC wkrn nas"  group-title="United States",ABC wkrn nas
+http://mu01.v5iptv.com:8880/test11261/1234567/29488
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC wtnh har"  group-title="United States",ABC wtnh har
+http://mu01.v5iptv.com:8880/test11261/1234567/29487
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC kmgh den"  group-title="United States",ABC kmgh den
+http://mu01.v5iptv.com:8880/test11261/1234567/29486
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC wcvb bos"  group-title="United States",ABC wcvb bos
+http://mu01.v5iptv.com:8880/test11261/1234567/29485
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC wrtv ind"  group-title="United States",ABC wrtv ind
+http://mu01.v5iptv.com:8880/test11261/1234567/29484
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC wpvi phi"  group-title="United States",ABC wpvi phi
+http://mu01.v5iptv.com:8880/test11261/1234567/29481
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC wftv orl"  group-title="United States",ABC wftv orl
+http://mu01.v5iptv.com:8880/test11261/1234567/29480
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC kgo sfo"  group-title="United States",ABC kgo sfo
+http://mu01.v5iptv.com:8880/test11261/1234567/29479
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC wfaa dal"  group-title="United States",ABC wfaa dal
+http://mu01.v5iptv.com:8880/test11261/1234567/29478
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC Phoenix"  group-title="United States",ABC Phoenix
+http://mu01.v5iptv.com:8880/test11261/1234567/29477
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC Indianapolis"  group-title="United States",ABC Indianapolis
+http://mu01.v5iptv.com:8880/test11261/1234567/29476
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC Cleveland"  group-title="United States",ABC Cleveland
+http://mu01.v5iptv.com:8880/test11261/1234567/29475
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC Denver"  group-title="United States",ABC Denver
+http://mu01.v5iptv.com:8880/test11261/1234567/29474
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC Sacramento"  group-title="United States",ABC Sacramento
+http://mu01.v5iptv.com:8880/test11261/1234567/29473
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC Orlando"  group-title="United States",ABC Orlando
+http://mu01.v5iptv.com:8880/test11261/1234567/29472
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Starz Black HD"  group-title="United States",Starz Black HD
+http://mu01.v5iptv.com:8880/test11261/1234567/29471
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Starz Cinema East FHD"  group-title="United States",Starz Cinema East FHD
+http://mu01.v5iptv.com:8880/test11261/1234567/29470
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Starz Cinema West FHD"  group-title="United States",Starz Cinema West FHD
+http://mu01.v5iptv.com:8880/test11261/1234567/29469
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Starz Comedy East HD"  group-title="United States",Starz Comedy East HD
+http://mu01.v5iptv.com:8880/test11261/1234567/29468
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Starz Comedy FHD"  group-title="United States",Starz Comedy FHD
+http://mu01.v5iptv.com:8880/test11261/1234567/29467
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STARZ EDGE FHD"  group-title="United States",STARZ EDGE FHD
+http://mu01.v5iptv.com:8880/test11261/1234567/29466
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STARZ EDGE West HD"  group-title="United States",STARZ EDGE West HD
+http://mu01.v5iptv.com:8880/test11261/1234567/29465
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Starz Encore Action"  group-title="United States",Starz Encore Action
+http://mu01.v5iptv.com:8880/test11261/1234567/29464
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Starz Encore Black HD"  group-title="United States",Starz Encore Black HD
+http://mu01.v5iptv.com:8880/test11261/1234567/29463
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Starz Encore Classic FHD"  group-title="United States",Starz Encore Classic FHD
+http://mu01.v5iptv.com:8880/test11261/1234567/29462
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Starz Encore EAST HD"  group-title="United States",Starz Encore EAST HD
+http://mu01.v5iptv.com:8880/test11261/1234567/29461
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Starz Encore Family FHD"  group-title="United States",Starz Encore Family FHD
+http://mu01.v5iptv.com:8880/test11261/1234567/29460
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Starz Encore Suspense HD"  group-title="United States",Starz Encore Suspense HD
+http://mu01.v5iptv.com:8880/test11261/1234567/29459
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Starz Encore West FHD"  group-title="United States",Starz Encore West FHD
+http://mu01.v5iptv.com:8880/test11261/1234567/29458
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Starz Family HD"  group-title="United States",Starz Family HD
+http://mu01.v5iptv.com:8880/test11261/1234567/29457
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC Charlotte"  group-title="United States",ABC Charlotte
+http://mu01.v5iptv.com:8880/test11261/1234567/29456
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STARZ KIDS & FAMILY FHD"  group-title="United States",STARZ KIDS & FAMILY FHD
+http://mu01.v5iptv.com:8880/test11261/1234567/29455
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Straz Encore Family HD"  group-title="United States",Straz Encore Family HD
+http://mu01.v5iptv.com:8880/test11261/1234567/29454
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Abc Kgtv Sad"  group-title="United States",Abc Kgtv Sad
+http://mu01.v5iptv.com:8880/test11261/1234567/29453
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC wjla wdc"  group-title="United States",ABC wjla wdc
+http://mu01.v5iptv.com:8880/test11261/1234567/29452
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC kxtv sac"  group-title="United States",ABC kxtv sac
+http://mu01.v5iptv.com:8880/test11261/1234567/29451
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC kdnl stl"  group-title="United States",ABC kdnl stl
+http://mu01.v5iptv.com:8880/test11261/1234567/29450
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC komo sea"  group-title="United States",ABC komo sea
+http://mu01.v5iptv.com:8880/test11261/1234567/29449
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC katu port"  group-title="United States",ABC katu port
+http://mu01.v5iptv.com:8880/test11261/1234567/29448
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC ktvx slc"  group-title="United States",ABC ktvx slc
+http://mu01.v5iptv.com:8880/test11261/1234567/29447
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC kABC lax"  group-title="United States",ABC kABC lax
+http://mu01.v5iptv.com:8880/test11261/1234567/29446
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC wls chi"  group-title="United States",ABC wls chi
+http://mu01.v5iptv.com:8880/test11261/1234567/29445
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC wtae pit"  group-title="United States",ABC wtae pit
+http://mu01.v5iptv.com:8880/test11261/1234567/29444
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC wxyz det"  group-title="United States",ABC wxyz det
+http://mu01.v5iptv.com:8880/test11261/1234567/29443
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC ktrk hou"  group-title="United States",ABC ktrk hou
+http://mu01.v5iptv.com:8880/test11261/1234567/29442
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC knxv phx"  group-title="United States",ABC knxv phx
+http://mu01.v5iptv.com:8880/test11261/1234567/29441
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC wisn mil"  group-title="United States",ABC wisn mil
+http://mu01.v5iptv.com:8880/test11261/1234567/29440
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC wkrn nas"  group-title="United States",ABC wkrn nas
+http://mu01.v5iptv.com:8880/test11261/1234567/29439
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC wtnh har"  group-title="United States",ABC wtnh har
+http://mu01.v5iptv.com:8880/test11261/1234567/29438
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC kmgh den"  group-title="United States",ABC kmgh den
+http://mu01.v5iptv.com:8880/test11261/1234567/29437
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC wcvb bos"  group-title="United States",ABC wcvb bos
+http://mu01.v5iptv.com:8880/test11261/1234567/29436
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC wrtv ind"  group-title="United States",ABC wrtv ind
+http://mu01.v5iptv.com:8880/test11261/1234567/29435
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC wftv orl"  group-title="United States",ABC wftv orl
+http://mu01.v5iptv.com:8880/test11261/1234567/29434
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC wfaa dal"  group-title="United States",ABC wfaa dal
+http://mu01.v5iptv.com:8880/test11261/1234567/29433
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC kgo sfo"  group-title="United States",ABC kgo sfo
+http://mu01.v5iptv.com:8880/test11261/1234567/29432
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC wpvi phi"  group-title="United States",ABC wpvi phi
+http://mu01.v5iptv.com:8880/test11261/1234567/29431
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC wtvd raleigh"  group-title="United States",ABC wtvd raleigh
+http://mu01.v5iptv.com:8880/test11261/1234567/29430
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC wplg mia"  group-title="United States",ABC wplg mia
+http://mu01.v5iptv.com:8880/test11261/1234567/29429
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC kfsn fresno"  group-title="United States",ABC kfsn fresno
+http://mu01.v5iptv.com:8880/test11261/1234567/29428
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC ksat saa"  group-title="United States",ABC ksat saa
+http://mu01.v5iptv.com:8880/test11261/1234567/29427
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC kmbc kan"  group-title="United States",ABC kmbc kan
+http://mu01.v5iptv.com:8880/test11261/1234567/29426
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC wews cla"  group-title="United States",ABC wews cla
+http://mu01.v5iptv.com:8880/test11261/1234567/29425
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC WSYX CLM"  group-title="United States",ABC WSYX CLM
+http://mu01.v5iptv.com:8880/test11261/1234567/29424
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC wplg mia"  group-title="United States",ABC wplg mia
+http://mu01.v5iptv.com:8880/test11261/1234567/29423
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC wtvd raleigh"  group-title="United States",ABC wtvd raleigh
+http://mu01.v5iptv.com:8880/test11261/1234567/29422
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KN002:Kn Ebru TV Kenya"  group-title="Kenya",KN002:Kn Ebru TV Kenya
+http://mu01.v5iptv.com:8880/test11261/1234567/49654
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KN003:Kn Inooro TV"  group-title="Kenya",KN003:Kn Inooro TV
+http://mu01.v5iptv.com:8880/test11261/1234567/49653
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KN006:Kn Kameme TV"  group-title="Kenya",KN006:Kn Kameme TV
+http://mu01.v5iptv.com:8880/test11261/1234567/49650
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KN010:Kn KTN News HD 2"  group-title="Kenya",KN010:Kn KTN News HD 2
+http://mu01.v5iptv.com:8880/test11261/1234567/49646
+
