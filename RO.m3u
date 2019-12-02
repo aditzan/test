@@ -1,407 +1,377 @@
 ﻿#EXTM3U
 
-#EXTINF:-1, tvg-id="Acasa.ro" tvg-logo="Logo N/A" tvg-name="ACASA TV"  group-title="Romania",ACASA TV
-http://mu01.v5iptv.com:8880/test11292/1234567/31819
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/MAGFLAGS/ROMANIA.png" tvg-name="##### ROMANIA #####"  group-title="ROMANIA",##### ROMANIA #####
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68785
 
-#EXTINF:-1, tvg-id="AgroTV.ro" tvg-logo="Logo N/A" tvg-name="Agro TV"  group-title="Romania",Agro TV
-http://mu01.v5iptv.com:8880/test11292/1234567/31812
+#EXTINF:-1, tvg-id="TVR1.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/TVR1.png" tvg-name="TVR1"  group-title="ROMANIA",TVR1
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68786
 
-#EXTINF:-1, tvg-id="AgroTV.ro" tvg-logo="Logo N/A" tvg-name="AGRO TV"  group-title="Romania",AGRO TV
-http://mu01.v5iptv.com:8880/test11292/1234567/31820
+#EXTINF:-1, tvg-id="TVR2.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/TVR2.png" tvg-name="TVR2"  group-title="ROMANIA",TVR2
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68788
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Alfa Omega"  group-title="Romania",Alfa Omega
-http://mu01.v5iptv.com:8880/test11292/1234567/31815
+#EXTINF:-1, tvg-id="TVR3.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/TVR3.png" tvg-name="TVR3"  group-title="ROMANIA",TVR3
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68789
 
-#EXTINF:-1, tvg-id="AMC.ro" tvg-logo="Logo N/A" tvg-name="AMC"  group-title="Romania",AMC
-http://mu01.v5iptv.com:8880/test11292/1234567/31811
+#EXTINF:-1, tvg-id="TVR1.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/TVR1.png" tvg-name="TVR HD"  group-title="ROMANIA",TVR HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68790
 
-#EXTINF:-1, tvg-id="AnimalPlanet.ro" tvg-logo="Logo N/A" tvg-name="ANIMAL PLANET HD"  group-title="Romania",ANIMAL PLANET HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31810
+#EXTINF:-1, tvg-id="RomaniaTV.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/ROMANIAATV.png" tvg-name="Romania TV"  group-title="ROMANIA",Romania TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68791
 
-#EXTINF:-1, tvg-id="Antena1.ro" tvg-logo="Logo N/A" tvg-name="Antena 1 HD"  group-title="Romania",Antena 1 HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31809
+#EXTINF:-1, tvg-id="Antena1.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/ANTENA1.png" tvg-name="Antena1"  group-title="ROMANIA",Antena1
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68792
 
-#EXTINF:-1, tvg-id="Antena1.ro" tvg-logo="Logo N/A" tvg-name="Antena 1 HD"  group-title="Romania",Antena 1 HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31814
+#EXTINF:-1, tvg-id="Antena3.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/ANTENAA3.png" tvg-name="Antena3"  group-title="ROMANIA",Antena3
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68793
 
-#EXTINF:-1, tvg-id="Antena3.ro" tvg-logo="Logo N/A" tvg-name="Antena 3 HD"  group-title="Romania",Antena 3 HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31813
+#EXTINF:-1, tvg-id="Antena2.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/ANTENASTARS.png" tvg-name="Antena Stars"  group-title="ROMANIA",Antena Stars
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68794
 
-#EXTINF:-1, tvg-id="Antena2.ro" tvg-logo="Logo N/A" tvg-name="ANTENA STARS"  group-title="Romania",ANTENA STARS
-http://mu01.v5iptv.com:8880/test11292/1234567/31821
+#EXTINF:-1, tvg-id="PROX.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/PROOTV.png" tvg-name="PRO X"  group-title="ROMANIA",PRO X
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68795
 
-#EXTINF:-1, tvg-id="Antena2.ro" tvg-logo="Logo N/A" tvg-name="Antena Stars HD"  group-title="Romania",Antena Stars HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31808
+#EXTINF:-1, tvg-id="PROTV.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/PROOTV.png" tvg-name="PRO TV"  group-title="ROMANIA",PRO TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68796
 
-#EXTINF:-1, tvg-id="AXN.ro" tvg-logo="Logo N/A" tvg-name="AXN"  group-title="Romania",AXN
-http://mu01.v5iptv.com:8880/test11292/1234567/31822
+#EXTINF:-1, tvg-id="PRO2.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/PROOTV.png" tvg-name="PRO 2"  group-title="ROMANIA",PRO 2
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68797
 
-#EXTINF:-1, tvg-id="AXNSciFi.ro" tvg-logo="Logo N/A" tvg-name="AXN BLACK"  group-title="Romania",AXN BLACK
-http://mu01.v5iptv.com:8880/test11292/1234567/31806
+#EXTINF:-1, tvg-id="PROX.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/PROOTV.png" tvg-name="PRO X"  group-title="ROMANIA",PRO X
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68798
 
-#EXTINF:-1, tvg-id="AXNSciFi.ro" tvg-logo="Logo N/A" tvg-name="AXN BLACK"  group-title="Romania",AXN BLACK
-http://mu01.v5iptv.com:8880/test11292/1234567/31823
+#EXTINF:-1, tvg-id="DigiWorld.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DIGIANIMALWORLD.png" tvg-name="Digi World HD"  group-title="ROMANIA",Digi World HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68799
 
-#EXTINF:-1, tvg-id="AXNCrime.ro" tvg-logo="Logo N/A" tvg-name="AXN WHITE"  group-title="Romania",AXN WHITE
-http://mu01.v5iptv.com:8880/test11292/1234567/31824
+#EXTINF:-1, tvg-id="DigiLife.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DIGILIFE.png" tvg-name="Digi Life HD"  group-title="ROMANIA",Digi Life HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68800
 
-#EXTINF:-1, tvg-id="AXN.ro" tvg-logo="Logo N/A" tvg-name="AXN White HD"  group-title="Romania",AXN White HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31805
+#EXTINF:-1, tvg-id="AXNCrime.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/AXNWHITE.png" tvg-name="AXN White"  group-title="ROMANIA",AXN White
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68801
 
-#EXTINF:-1, tvg-id="B1TV.ro" tvg-logo="Logo N/A" tvg-name="B1"  group-title="Romania",B1
-http://mu01.v5iptv.com:8880/test11292/1234567/31825
+#EXTINF:-1, tvg-id="AXN.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/AXNROMANIA.png" tvg-name="AXN"  group-title="ROMANIA",AXN
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68802
 
-#EXTINF:-1, tvg-id="B1TV.ro" tvg-logo="Logo N/A" tvg-name="B1 HD"  group-title="Romania",B1 HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31804
+#EXTINF:-1, tvg-id="AXNSciFi.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/AXN.png" tvg-name="AXN Black"  group-title="ROMANIA",AXN Black
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68803
 
-#EXTINF:-1, tvg-id="B1TV.ro" tvg-logo="Logo N/A" tvg-name="B1 TV"  group-title="Romania",B1 TV
-http://mu01.v5iptv.com:8880/test11292/1234567/31826
+#EXTINF:-1, tvg-id="B1TV.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/B1.png" tvg-name="B1"  group-title="ROMANIA",B1
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68804
 
-#EXTINF:-1, tvg-id="Boomerang.ro" tvg-logo="Logo N/A" tvg-name="Boomerang"  group-title="Romania",Boomerang
-http://mu01.v5iptv.com:8880/test11292/1234567/31802
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DTX.png" tvg-name="DTX"  group-title="ROMANIA",DTX
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68805
 
-#EXTINF:-1, tvg-id="CineMAX.ro" tvg-logo="Logo N/A" tvg-name="CINEMAX 2"  group-title="Romania",CINEMAX 2
-http://mu01.v5iptv.com:8880/test11292/1234567/31827
+#EXTINF:-1, tvg-id="Favorit.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FAVORITTV.png" tvg-name="Favorit TV"  group-title="ROMANIA",Favorit TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68806
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cinemax 2 HD"  group-title="Romania",Cinemax 2 HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31800
+#EXTINF:-1, tvg-id="HappyTV.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/HAPPYCHANNEL.png" tvg-name="Happy Channel"  group-title="ROMANIA",Happy Channel
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68807
 
-#EXTINF:-1, tvg-id="CineMAX.ro" tvg-logo="Logo N/A" tvg-name="Cinemax HD"  group-title="Romania",Cinemax HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31799
+#EXTINF:-1, tvg-id="HistoryHD.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/HBO.png" tvg-name="History HD"  group-title="ROMANIA",History HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68808
 
-#EXTINF:-1, tvg-id="Digi24.ro" tvg-logo="Logo N/A" tvg-name="DIGI 24"  group-title="Romania",DIGI 24
-http://mu01.v5iptv.com:8880/test11292/1234567/31828
+#EXTINF:-1, tvg-id="HBO.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/HBO.png" tvg-name="HBO"  group-title="ROMANIA",HBO
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68809
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DIGI 24 CRAIOVA"  group-title="Romania",DIGI 24 CRAIOVA
-http://mu01.v5iptv.com:8880/test11292/1234567/31829
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/HBO.png" tvg-name="HBO2"  group-title="ROMANIA",HBO2
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68810
 
-#EXTINF:-1, tvg-id="Digi24.ro" tvg-logo="Logo N/A" tvg-name="Digi 24 HD"  group-title="Romania",Digi 24 HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31798
+#EXTINF:-1, tvg-id="HBO2.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/HBO.png" tvg-name="HBO 2 HD"  group-title="ROMANIA",HBO 2 HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68811
 
-#EXTINF:-1, tvg-id="DIGIAnimalWorld.ro" tvg-logo="Logo N/A" tvg-name="DIGI ANIMAL WORLD"  group-title="Romania",DIGI ANIMAL WORLD
-http://mu01.v5iptv.com:8880/test11292/1234567/31830
+#EXTINF:-1, tvg-id="HBOComedy.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/HBO.png" tvg-name="HBO Comedy"  group-title="ROMANIA",HBO Comedy
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68812
 
-#EXTINF:-1, tvg-id="DIGIAnimalWorld.ro" tvg-logo="Logo N/A" tvg-name="Digi ANIMAL WORLD HD"  group-title="Romania",Digi ANIMAL WORLD HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31797
+#EXTINF:-1, tvg-id="E!.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/E.png" tvg-name="E! Entertainment"  group-title="ROMANIA",E! Entertainment
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68813
 
-#EXTINF:-1, tvg-id="DigiFilm.ro" tvg-logo="Logo N/A" tvg-name="DIGI FILM"  group-title="Romania",DIGI FILM
-http://mu01.v5iptv.com:8880/test11292/1234567/31831
+#EXTINF:-1, tvg-id="AbsolutTV.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/HORA.png" tvg-name="Absolut TV"  group-title="ROMANIA",Absolut TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68814
 
-#EXTINF:-1, tvg-id="FilmNow.ro" tvg-logo="Logo N/A" tvg-name="Digi Film NOW HD"  group-title="Romania",Digi Film NOW HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31796
+#EXTINF:-1, tvg-id="Jimjam.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/JIMJAM.png" tvg-name="Jim Jam"  group-title="ROMANIA",Jim Jam
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68815
 
-#EXTINF:-1, tvg-id="DigiLife.ro" tvg-logo="Logo N/A" tvg-name="Digi Life"  group-title="Romania",Digi Life
-http://mu01.v5iptv.com:8880/test11292/1234567/31832
+#EXTINF:-1, tvg-id="KanalD.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/KANALD.png" tvg-name="Kanal D"  group-title="ROMANIA",Kanal D
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68816
 
-#EXTINF:-1, tvg-id="DigiLife.ro" tvg-logo="Logo N/A" tvg-name="Digi Life"  group-title="Romania",Digi Life
-http://mu01.v5iptv.com:8880/test11292/1234567/31795
+#EXTINF:-1, tvg-id="KissTV.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/KIISS.png" tvg-name="Kiss TV"  group-title="ROMANIA",Kiss TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68817
 
-#EXTINF:-1, tvg-id="DigiSport1.ro" tvg-logo="Logo N/A" tvg-name="Digi Sport 1"  group-title="Romania",Digi Sport 1
-http://mu01.v5iptv.com:8880/test11292/1234567/31833
+#EXTINF:-1, tvg-id="LookPlus.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/LOOKPLUS.png" tvg-name="Look Plus"  group-title="ROMANIA",Look Plus
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68818
 
-#EXTINF:-1, tvg-id="DigiSport1.ro" tvg-logo="Logo N/A" tvg-name="Digi Sport 1 FHD"  group-title="Romania",Digi Sport 1 FHD
-http://mu01.v5iptv.com:8880/test11292/1234567/31794
+#EXTINF:-1, tvg-id="LookPlus.ro" tvg-logo="Logo N/A" tvg-name="Look Plus"  group-title="ROMANIA",Look Plus
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68819
 
-#EXTINF:-1, tvg-id="DigiSport2.ro" tvg-logo="Logo N/A" tvg-name="Digi Sport 2"  group-title="Romania",Digi Sport 2
-http://mu01.v5iptv.com:8880/test11292/1234567/31834
+#EXTINF:-1, tvg-id="NationalTV.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/NATIONALTV.png" tvg-name="National TV"  group-title="ROMANIA",National TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68820
 
-#EXTINF:-1, tvg-id="DigiSport3.ro" tvg-logo="Logo N/A" tvg-name="Digi Sport 3"  group-title="Romania",Digi Sport 3
-http://mu01.v5iptv.com:8880/test11292/1234567/31835
+#EXTINF:-1, tvg-id="PrimaTV.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/PRIMATV.png" tvg-name="Prima TV"  group-title="ROMANIA",Prima TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68821
 
-#EXTINF:-1, tvg-id="DigiSport3.ro" tvg-logo="Logo N/A" tvg-name="Digi Sport 3 HD"  group-title="Romania",Digi Sport 3 HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31793
+#EXTINF:-1, tvg-id="RealitateaTV.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/REALITATEA.png" tvg-name="Realitatea TV"  group-title="ROMANIA",Realitatea TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68822
 
-#EXTINF:-1, tvg-id="DigiSport4.ro" tvg-logo="Logo N/A" tvg-name="Digi Sport 4"  group-title="Romania",Digi Sport 4
-http://mu01.v5iptv.com:8880/test11292/1234567/31836
+#EXTINF:-1, tvg-id="TarafTV.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/TARAAF.png" tvg-name="Taraf TV HD"  group-title="ROMANIA",Taraf TV HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68823
 
-#EXTINF:-1, tvg-id="DigiWorld.ro" tvg-logo="Logo N/A" tvg-name="DIGI WORLD"  group-title="Romania",DIGI WORLD
-http://mu01.v5iptv.com:8880/test11292/1234567/31837
+#EXTINF:-1, tvg-id="TNT.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/TNTHD.png" tvg-name="TNT"  group-title="ROMANIA",TNT
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68824
 
-#EXTINF:-1, tvg-id="DigiWorld.ro" tvg-logo="Logo N/A" tvg-name="Digi WORLD HD"  group-title="Romania",Digi WORLD HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31791
+#EXTINF:-1, tvg-id="NationalGeographicHD.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/NATIONALGEOGRAPHIC.png" tvg-name="National Geographic HD"  group-title="ROMANIA",National Geographic HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68825
 
-#EXTINF:-1, tvg-id="Digi24.ro" tvg-logo="Logo N/A" tvg-name="Digi24"  group-title="Romania",Digi24
-http://mu01.v5iptv.com:8880/test11292/1234567/31838
+#EXTINF:-1, tvg-id="N24.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/NATIONALTV.png" tvg-name="N24"  group-title="ROMANIA",N24
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68826
 
-#EXTINF:-1, tvg-id="DiscoveryChannel.ro" tvg-logo="Logo N/A" tvg-name="Discovery Channel"  group-title="Romania",Discovery Channel
-http://mu01.v5iptv.com:8880/test11292/1234567/31790
+#EXTINF:-1, tvg-id="FLN.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FIENLIVING.png" tvg-name="Fine Living"  group-title="ROMANIA",Fine Living
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68827
 
-#EXTINF:-1, tvg-id="DiscoveryScience.ro" tvg-logo="Logo N/A" tvg-name="Discovery Science HD"  group-title="Romania",Discovery Science HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31789
+#EXTINF:-1, tvg-id="EtnoTV.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/ETNO.png" tvg-name="EtnoTV"  group-title="ROMANIA",EtnoTV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68828
 
-#EXTINF:-1, tvg-id="DisneyJunior.ro" tvg-logo="Logo N/A" tvg-name="Disney Junior"  group-title="Romania",Disney Junior
-http://mu01.v5iptv.com:8880/test11292/1234567/31788
+#EXTINF:-1, tvg-id="AbsolutTV.ro" tvg-logo="Logo N/A" tvg-name="Absolut TV"  group-title="ROMANIA",Absolut TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68829
 
-#EXTINF:-1, tvg-id="DisneyJunior.ro" tvg-logo="Logo N/A" tvg-name="DISNEY JUNIOR"  group-title="Romania",DISNEY JUNIOR
-http://mu01.v5iptv.com:8880/test11292/1234567/31839
+#EXTINF:-1, tvg-id="DocuBox.ro" tvg-logo="Logo N/A" tvg-name="DocuBox HD"  group-title="ROMANIA",DocuBox HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68830
 
-#EXTINF:-1, tvg-id="AbsolutTV.ro" tvg-logo="Logo N/A" tvg-name="DOLCE SPORT 1"  group-title="Romania",DOLCE SPORT 1
-http://mu01.v5iptv.com:8880/test11292/1234567/31817
+#EXTINF:-1, tvg-id="DivaUniversal.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DIVA.png" tvg-name="Diva Universal"  group-title="ROMANIA",Diva Universal
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68831
 
-#EXTINF:-1, tvg-id="EtnoTV.ro" tvg-logo="Logo N/A" tvg-name="Etno HD"  group-title="Romania",Etno HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31786
+#EXTINF:-1, tvg-id="DaVinciLearning.ro" tvg-logo="Logo N/A" tvg-name="DaVinci Learning"  group-title="ROMANIA",DaVinci Learning
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68832
 
-#EXTINF:-1, tvg-id="EtnoTV.ro" tvg-logo="Logo N/A" tvg-name="Etno Tv"  group-title="Romania",Etno Tv
-http://mu01.v5iptv.com:8880/test11292/1234567/31840
+#EXTINF:-1, tvg-id="TravelChannel.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/TRAVELCHANNEL.png" tvg-name="Travel Channel"  group-title="ROMANIA",Travel Channel
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68834
 
-#EXTINF:-1, tvg-id="Eurosport1.ro" tvg-logo="Logo N/A" tvg-name="EUROSPORT 1"  group-title="Romania",EUROSPORT 1
-http://mu01.v5iptv.com:8880/test11292/1234567/31841
+#EXTINF:-1, tvg-id="Paprika.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/TVPAPRIKA.png" tvg-name="TV Paprika"  group-title="ROMANIA",TV Paprika
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68835
 
-#EXTINF:-1, tvg-id="Eurosport1.ro" tvg-logo="Logo N/A" tvg-name="EUROSPORT 1 HD"  group-title="Romania",EUROSPORT 1 HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31785
+#EXTINF:-1, tvg-id="ZUTV.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/ZUTV.png" tvg-name="ZU TV"  group-title="ROMANIA",ZU TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68836
 
-#EXTINF:-1, tvg-id="Eurosport2.ro" tvg-logo="Logo N/A" tvg-name="EUROSPORT 2"  group-title="Romania",EUROSPORT 2
-http://mu01.v5iptv.com:8880/test11292/1234567/31842
+#EXTINF:-1, tvg-id="UTV.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/UTV.png" tvg-name="U TV"  group-title="ROMANIA",U TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68837
 
-#EXTINF:-1, tvg-id="Eurosport2.ro" tvg-logo="Logo N/A" tvg-name="EUROSPORT 2 FHD"  group-title="Romania",EUROSPORT 2 FHD
-http://mu01.v5iptv.com:8880/test11292/1234567/31784
+#EXTINF:-1, tvg-id="NeptunTV.ro" tvg-logo="Logo N/A" tvg-name="Neptun TV"  group-title="ROMANIA",Neptun TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68838
 
-#EXTINF:-1, tvg-id="Favorit.ro" tvg-logo="Logo N/A" tvg-name="FAVORIT TV"  group-title="Romania",FAVORIT TV
-http://mu01.v5iptv.com:8880/test11292/1234567/31783
+#EXTINF:-1, tvg-id="TV1000.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/TV1000.png" tvg-name="TV 1000"  group-title="ROMANIA",TV 1000
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68839
 
-#EXTINF:-1, tvg-id="FilmCafe.ro" tvg-logo="Logo N/A" tvg-name="Film Cafe"  group-title="Romania",Film Cafe
-http://mu01.v5iptv.com:8880/test11292/1234567/31782
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/SUPERONE.png" tvg-name="SUPERONE"  group-title="ROMANIA",SUPERONE
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68840
 
-#EXTINF:-1, tvg-id="FilmNow.ro" tvg-logo="Logo N/A" tvg-name="Film Now"  group-title="Romania",Film Now
-http://mu01.v5iptv.com:8880/test11292/1234567/31781
+#EXTINF:-1, tvg-id="Speranta.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/SPERANTA.png" tvg-name="Speranta TV"  group-title="ROMANIA",Speranta TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68841
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FISHING & HUNTING"  group-title="Romania",FISHING & HUNTING
-http://mu01.v5iptv.com:8880/test11292/1234567/31843
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/RTLLOUNGE.png" tvg-name="RTL LOUNGE"  group-title="ROMANIA",RTL LOUNGE
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68842
 
-#EXTINF:-1, tvg-id="HappyTV.ro" tvg-logo="Logo N/A" tvg-name="Happy"  group-title="Romania",Happy
-http://mu01.v5iptv.com:8880/test11292/1234567/31844
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="##### KIDS #####"  group-title="ROMANIA",##### KIDS #####
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68843
 
-#EXTINF:-1, tvg-id="HappyTV.ro" tvg-logo="Logo N/A" tvg-name="Happy Channel"  group-title="Romania",Happy Channel
-http://mu01.v5iptv.com:8880/test11292/1234567/31801
+#EXTINF:-1, tvg-id="Boomerang.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/BOOMERANG.png" tvg-name="Boomerang"  group-title="ROMANIA",Boomerang
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68844
 
-#EXTINF:-1, tvg-id="HappyTV.ro" tvg-logo="Logo N/A" tvg-name="HAPPY CHANNEL HD"  group-title="Romania",HAPPY CHANNEL HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31779
+#EXTINF:-1, tvg-id="CartoonNetwork.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/CARTOONNETWORK.png" tvg-name="Cartoon Network"  group-title="ROMANIA",Cartoon Network
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68845
 
-#EXTINF:-1, tvg-id="HBO2.ro" tvg-logo="Logo N/A" tvg-name="HBO 2"  group-title="Romania",HBO 2
-http://mu01.v5iptv.com:8880/test11292/1234567/31845
+#EXTINF:-1, tvg-id="CartoonNetwork.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/CARTOONNETWORK.png" tvg-name="Cartoon Network"  group-title="ROMANIA",Cartoon Network
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68846
 
-#EXTINF:-1, tvg-id="HBO2.ro" tvg-logo="Logo N/A" tvg-name="HBO 2 HD"  group-title="Romania",HBO 2 HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31778
+#EXTINF:-1, tvg-id="DisneyChannel.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DISNEYROM.png" tvg-name="Disney Channel"  group-title="ROMANIA",Disney Channel
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68847
 
-#EXTINF:-1, tvg-id="HBOComedy.ro" tvg-logo="Logo N/A" tvg-name="HBO 3"  group-title="Romania",HBO 3
-http://mu01.v5iptv.com:8880/test11292/1234567/31846
+#EXTINF:-1, tvg-id="DisneyJunior.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DISNEYJR.png" tvg-name="Disney Junior"  group-title="ROMANIA",Disney Junior
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68848
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO 3 HD"  group-title="Romania",HBO 3 HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31777
+#EXTINF:-1, tvg-id="DisneyChannel.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DISNEYROM.png" tvg-name="Disney Channel"  group-title="ROMANIA",Disney Channel
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68849
 
-#EXTINF:-1, tvg-id="HBO.ro" tvg-logo="Logo N/A" tvg-name="HBO HD"  group-title="Romania",HBO HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31776
+#EXTINF:-1, tvg-id="MiniMax.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/MINIMAX.png" tvg-name="MiniMax"  group-title="ROMANIA",MiniMax
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68850
 
-#EXTINF:-1, tvg-id="HBO.ro" tvg-logo="Logo N/A" tvg-name="HBO Romania"  group-title="Romania",HBO Romania
-http://mu01.v5iptv.com:8880/test11292/1234567/31847
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="##### CINEMA #####"  group-title="ROMANIA",##### CINEMA #####
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68851
 
-#EXTINF:-1, tvg-id="HistoryHD.ro" tvg-logo="Logo N/A" tvg-name="HISTORI CHANNEL"  group-title="Romania",HISTORI CHANNEL
-http://mu01.v5iptv.com:8880/test11292/1234567/31848
+#EXTINF:-1, tvg-id="Cinemax2.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/CINEMAX.png" tvg-name="Cinemax2"  group-title="ROMANIA",Cinemax2
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68852
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="History Channel"  group-title="Romania",History Channel
-http://mu01.v5iptv.com:8880/test11292/1234567/31775
+#EXTINF:-1, tvg-id="CineMAX.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/CINEMAX.png" tvg-name="CineMAX"  group-title="ROMANIA",CineMAX
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68853
 
-#EXTINF:-1, tvg-id="KanalD.ro" tvg-logo="Logo N/A" tvg-name="Kanal D"  group-title="Romania",Kanal D
-http://mu01.v5iptv.com:8880/test11292/1234567/31849
+#EXTINF:-1, tvg-id="FilmboxPremium.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FILMBOXPREMIUM.png" tvg-name="Filmbox Premium"  group-title="ROMANIA",Filmbox Premium
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68855
 
-#EXTINF:-1, tvg-id="KanalD.ro" tvg-logo="Logo N/A" tvg-name="KANAL D"  group-title="Romania",KANAL D
-http://mu01.v5iptv.com:8880/test11292/1234567/31868
+#EXTINF:-1, tvg-id="FilmBoxExtra.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FILMBOXEXTRA.png" tvg-name="FilmBox Extra HD"  group-title="ROMANIA",FilmBox Extra HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68856
 
-#EXTINF:-1, tvg-id="KanalD.ro" tvg-logo="Logo N/A" tvg-name="Kanal D HD"  group-title="Romania",Kanal D HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31774
+#EXTINF:-1, tvg-id="FilmBox.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FILMBOXEXTRA.png" tvg-name="FilmBox HD"  group-title="ROMANIA",FilmBox HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68857
 
-#EXTINF:-1, tvg-id="KissTV.ro" tvg-logo="Logo N/A" tvg-name="Kiss"  group-title="Romania",Kiss
-http://mu01.v5iptv.com:8880/test11292/1234567/31850
+#EXTINF:-1, tvg-id="FilmNow.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FILMNOW.png" tvg-name="Film Now"  group-title="ROMANIA",Film Now
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68858
 
-#EXTINF:-1, tvg-id="KissTV.ro" tvg-logo="Logo N/A" tvg-name="Kiss TV"  group-title="Romania",Kiss TV
-http://mu01.v5iptv.com:8880/test11292/1234567/31803
+#EXTINF:-1, tvg-id="FilmCafe.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FILMCAFE.png" tvg-name="Film Cafe"  group-title="ROMANIA",Film Cafe
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68859
 
-#EXTINF:-1, tvg-id="KissTV.ro" tvg-logo="Logo N/A" tvg-name="KISS TV HD"  group-title="Romania",KISS TV HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31773
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/PROOTV.png" tvg-name="PRO GOLD"  group-title="ROMANIA",PRO GOLD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68860
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KN002:Kn-Ebru TV Kenya"  group-title="Kenya",KN002:Kn-Ebru TV Kenya
-http://mu01.v5iptv.com:8880/test11292/1234567/49654
+#EXTINF:-1, tvg-id="PROCinema.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/PROOTV.png" tvg-name="PROCinema"  group-title="ROMANIA",PROCinema
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68861
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KN003:Kn-Inooro TV"  group-title="Kenya",KN003:Kn-Inooro TV
-http://mu01.v5iptv.com:8880/test11292/1234567/49653
+#EXTINF:-1, tvg-id="Megamax.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/MEGAMAX.png" tvg-name="Megamax"  group-title="ROMANIA",Megamax
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68862
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KN006:Kn-Kameme TV"  group-title="Kenya",KN006:Kn-Kameme TV
-http://mu01.v5iptv.com:8880/test11292/1234567/49650
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CINEMARATON"  group-title="ROMANIA",CINEMARATON
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68863
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KN010:Kn-KTN News HD 2"  group-title="Kenya",KN010:Kn-KTN News HD 2
-http://mu01.v5iptv.com:8880/test11292/1234567/49646
+#EXTINF:-1, tvg-id="ZoneReality.ro" tvg-logo="Logo N/A" tvg-name="CBS Reality"  group-title="ROMANIA",CBS Reality
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68864
 
-#EXTINF:-1, tvg-id="LookPlus.ro" tvg-logo="Logo N/A" tvg-name="Look Plus"  group-title="Romania",Look Plus
-http://mu01.v5iptv.com:8880/test11292/1234567/31851
+#EXTINF:-1, tvg-id="BollywoodTV.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/BOLLYWOOD.png" tvg-name="Bollywood TV"  group-title="ROMANIA",Bollywood TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68865
 
-#EXTINF:-1, tvg-id="LookPlus.ro" tvg-logo="Logo N/A" tvg-name="Look Plus HD"  group-title="Romania",Look Plus HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31772
+#EXTINF:-1, tvg-id="Antena1.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/ANTENA1.png" tvg-name="Antena1"  group-title="ROMANIA",Antena1
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68866
 
-#EXTINF:-1, tvg-id="LookSport.ro" tvg-logo="Logo N/A" tvg-name="Look Sport"  group-title="Romania",Look Sport
-http://mu01.v5iptv.com:8880/test11292/1234567/31780
+#EXTINF:-1, tvg-id="AMC.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/AMCHD.png" tvg-name="AMC"  group-title="ROMANIA",AMC
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68867
 
-#EXTINF:-1, tvg-id="LookTV.ro" tvg-logo="Logo N/A" tvg-name="Look Tv"  group-title="Romania",Look Tv
-http://mu01.v5iptv.com:8880/test11292/1234567/31762
+#EXTINF:-1, tvg-id="AgroTV.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/AGRO.png" tvg-name="Agro TV"  group-title="ROMANIA",Agro TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68868
 
-#EXTINF:-1, tvg-id="Megamax.ro" tvg-logo="Logo N/A" tvg-name="MegaMax HD"  group-title="Romania",MegaMax HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31771
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="##### DISCOVERY #####"  group-title="ROMANIA",##### DISCOVERY #####
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68869
 
-#EXTINF:-1, tvg-id="Megamax.ro" tvg-logo="Logo N/A" tvg-name="MegaMax-HD"  group-title="Romania",MegaMax-HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31818
+#EXTINF:-1, tvg-id="NationalGeographicHD.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/NATIONALGEOGRAPHIC.png" tvg-name="National Geographic HD"  group-title="ROMANIA",National Geographic HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68870
 
-#EXTINF:-1, tvg-id="MiniMax.ro" tvg-logo="Logo N/A" tvg-name="Minimax"  group-title="Romania",Minimax
-http://mu01.v5iptv.com:8880/test11292/1234567/31852
+#EXTINF:-1, tvg-id="NatGeoWildHD.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/NATGEOWILDHD.png" tvg-name="Nat Geo Wild HD"  group-title="ROMANIA",Nat Geo Wild HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68871
 
-#EXTINF:-1, tvg-id="MiniMax.ro" tvg-logo="Logo N/A" tvg-name="Minimax"  group-title="Romania",Minimax
-http://mu01.v5iptv.com:8880/test11292/1234567/31770
+#EXTINF:-1, tvg-id="NationalGeographic.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/NATIONALGEOGRAPHIC.png" tvg-name="National Geographic"  group-title="ROMANIA",National Geographic
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68872
 
-#EXTINF:-1, tvg-id="MTVDance.ro" tvg-logo="Logo N/A" tvg-name="MTV Dance"  group-title="Romania",MTV Dance
-http://mu01.v5iptv.com:8880/test11292/1234567/31769
+#EXTINF:-1, tvg-id="InvestigationDiscovery.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/INVESTIGATIONDISCOVERY.png" tvg-name="Investigation Discovery"  group-title="ROMANIA",Investigation Discovery
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68873
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Music 1 Channel"  group-title="Romania",Music 1 Channel
-http://mu01.v5iptv.com:8880/test11292/1234567/31768
+#EXTINF:-1, tvg-id="DiscoveryScience.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DISCOVERYCHANNEL.png" tvg-name="Discovery Science"  group-title="ROMANIA",Discovery Science
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68874
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Music Channe hu"  group-title="Romania",Music Channe hu
-http://mu01.v5iptv.com:8880/test11292/1234567/31853
+#EXTINF:-1, tvg-id="DiscoveryChannel.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DISCOVERYCHANNEL.png" tvg-name="Discovery Channel"  group-title="ROMANIA",Discovery Channel
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68875
 
-#EXTINF:-1, tvg-id="NatGeoWildHD.ro" tvg-logo="Logo N/A" tvg-name="NAT GEO Wild HD"  group-title="Romania",NAT GEO Wild HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31767
+#EXTINF:-1, tvg-id="DiscoveryHDShowcase.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DISCOVERYCHANNEL.png" tvg-name="Discovery HD Showcase"  group-title="ROMANIA",Discovery HD Showcase
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68876
 
-#EXTINF:-1, tvg-id="NatGeoWildHD.ro" tvg-logo="Logo N/A" tvg-name="NATIONAL Geo wild"  group-title="Romania",NATIONAL Geo wild
-http://mu01.v5iptv.com:8880/test11292/1234567/31855
+#EXTINF:-1, tvg-id="DiscoveryChannel.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DISCOVERYCHANNEL.png" tvg-name="Discovery Channel"  group-title="ROMANIA",Discovery Channel
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68877
 
-#EXTINF:-1, tvg-id="NationalTV.ro" tvg-logo="Logo N/A" tvg-name="National TV"  group-title="Romania",National TV
-http://mu01.v5iptv.com:8880/test11292/1234567/31766
+#EXTINF:-1, tvg-id="AnimalPlanet.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/ANIMALPLANET.png" tvg-name="Animal Planet"  group-title="ROMANIA",Animal Planet
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68878
 
-#EXTINF:-1, tvg-id="NeptunTV.ro" tvg-logo="Logo N/A" tvg-name="Neptun TV"  group-title="Romania",Neptun TV
-http://mu01.v5iptv.com:8880/test11292/1234567/31765
+#EXTINF:-1, tvg-id="AnimalPlanet.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/ANIMALPLANET.png" tvg-name="Animal Planet"  group-title="ROMANIA",Animal Planet
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68879
 
-#EXTINF:-1, tvg-id="Nickelodeon.ro" tvg-logo="Logo N/A" tvg-name="Nickelodeon HD"  group-title="Romania",Nickelodeon HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31764
+#EXTINF:-1, tvg-id="DIGIAnimalWorld.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DIGIANIMALWORLD.png" tvg-name="DIGI Animal World"  group-title="ROMANIA",DIGI Animal World
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68880
 
-#EXTINF:-1, tvg-id="ParamountChannel.ro" tvg-logo="Logo N/A" tvg-name="Paramount Channel"  group-title="Romania",Paramount Channel
-http://mu01.v5iptv.com:8880/test11292/1234567/31763
+#EXTINF:-1, tvg-id="ViasatNature.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/VIASATNATURE.png" tvg-name="Viasat Nature HD"  group-title="ROMANIA",Viasat Nature HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68881
 
-#EXTINF:-1, tvg-id="ParamountChannel.ro" tvg-logo="Logo N/A" tvg-name="Paramount Channel"  group-title="Romania",Paramount Channel
-http://mu01.v5iptv.com:8880/test11292/1234567/31857
+#EXTINF:-1, tvg-id="ViasatHistory.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/VIASATHISTORY.png" tvg-name="Viasat History"  group-title="ROMANIA",Viasat History
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68882
 
-#EXTINF:-1, tvg-id="PrimaTV.ro" tvg-logo="Logo N/A" tvg-name="Prima"  group-title="Romania",Prima
-http://mu01.v5iptv.com:8880/test11292/1234567/31858
+#EXTINF:-1, tvg-id="ViasatExplorer.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/VIASATEXPLORE.png" tvg-name="Viasat Explorer"  group-title="ROMANIA",Viasat Explorer
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68883
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="prima cool"  group-title="Romania",prima cool
-http://mu01.v5iptv.com:8880/test11292/1234567/31859
+#EXTINF:-1, tvg-id="ViasatExplorer.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/VIASATEXPLORE.png" tvg-name="Viasat Explorer"  group-title="ROMANIA",Viasat Explorer
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68884
 
-#EXTINF:-1, tvg-id="PrimaTV.ro" tvg-logo="Logo N/A" tvg-name="Prima Tv"  group-title="Romania",Prima Tv
-http://mu01.v5iptv.com:8880/test11292/1234567/31761
+#EXTINF:-1, tvg-id="HistoryHD.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/HISTORY.png" tvg-name="History HD"  group-title="ROMANIA",History HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68885
 
-#EXTINF:-1, tvg-id="Acasa.ro" tvg-logo="Logo N/A" tvg-name="PRO 2 (ACASA TV)"  group-title="Romania",PRO 2 (ACASA TV)
-http://mu01.v5iptv.com:8880/test11292/1234567/31760
+#EXTINF:-1, tvg-id="HistoryHD.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/HISTORY.png" tvg-name="History HD"  group-title="ROMANIA",History HD
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68886
 
-#EXTINF:-1, tvg-id="PROCinema.ro" tvg-logo="Logo N/A" tvg-name="Pro Cinema"  group-title="Romania",Pro Cinema
-http://mu01.v5iptv.com:8880/test11292/1234567/31860
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="##### MUSIC #####"  group-title="ROMANIA",##### MUSIC #####
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68887
 
-#EXTINF:-1, tvg-id="PROCinema.ro" tvg-logo="Logo N/A" tvg-name="PRO CINEMA"  group-title="Romania",PRO CINEMA
-http://mu01.v5iptv.com:8880/test11292/1234567/31807
+#EXTINF:-1, tvg-id="MusicChannel.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/MUSICCHANNEL.HU.png" tvg-name="Music Channel"  group-title="ROMANIA",Music Channel
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68888
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pro Cinema HD"  group-title="Romania",Pro Cinema HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31759
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/MTV.png" tvg-name="MTV ROCKS"  group-title="ROMANIA",MTV ROCKS
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68889
 
-#EXTINF:-1, tvg-id="PROTV.ro" tvg-logo="Logo N/A" tvg-name="PRO TV"  group-title="Romania",PRO TV
-http://mu01.v5iptv.com:8880/test11292/1234567/31816
+#EXTINF:-1, tvg-id="MTVHits.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/MTV.png" tvg-name="MTV Hits"  group-title="ROMANIA",MTV Hits
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68890
 
-#EXTINF:-1, tvg-id="PROTV.ro" tvg-logo="Logo N/A" tvg-name="PRO TV"  group-title="Romania",PRO TV
-http://mu01.v5iptv.com:8880/test11292/1234567/31758
+#EXTINF:-1, tvg-id="MTVRomania.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/MTV.png" tvg-name="MTV România"  group-title="ROMANIA",MTV România
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68891
 
-#EXTINF:-1, tvg-id="PROX.ro" tvg-logo="Logo N/A" tvg-name="PRO X HD"  group-title="Romania",PRO X HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31757
+#EXTINF:-1, tvg-id="MTVDance.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/MTV.png" tvg-name="MTV Dance"  group-title="ROMANIA",MTV Dance
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68892
 
-#EXTINF:-1, tvg-id="RealitateaTV.ro" tvg-logo="Logo N/A" tvg-name="Realitatea Tv"  group-title="Romania",Realitatea Tv
-http://mu01.v5iptv.com:8880/test11292/1234567/31862
+#EXTINF:-1, tvg-id="MoozDance.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/MOOZDANCE.png" tvg-name="Mooz Dance"  group-title="ROMANIA",Mooz Dance
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68893
 
-#EXTINF:-1, tvg-id="RealitateaTV.ro" tvg-logo="Logo N/A" tvg-name="Realtaea TV"  group-title="Romania",Realtaea TV
-http://mu01.v5iptv.com:8880/test11292/1234567/31863
+#EXTINF:-1, tvg-id="VH1.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/1CLASSICS.png" tvg-name="VH1"  group-title="ROMANIA",VH1
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68894
 
-#EXTINF:-1, tvg-id="RomaniaTV.ro" tvg-logo="Logo N/A" tvg-name="Romania Tv"  group-title="Romania",Romania Tv
-http://mu01.v5iptv.com:8880/test11292/1234567/31864
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="##### SPORTS #####"  group-title="ROMANIA",##### SPORTS #####
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68896
 
-#EXTINF:-1, tvg-id="RomaniaTV.ro" tvg-logo="Logo N/A" tvg-name="Romania TV"  group-title="Romania",Romania TV
-http://mu01.v5iptv.com:8880/test11292/1234567/31756
+#EXTINF:-1, tvg-id="DigiSport1.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DIGISPORT1.png" tvg-name="Digi Sport 1"  group-title="ROMANIA",Digi Sport 1
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68897
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sport.ro"  group-title="Romania",Sport.ro
-http://mu01.v5iptv.com:8880/test11292/1234567/31865
+#EXTINF:-1, tvg-id="DigiSport1.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DIGISPORT1.png" tvg-name="Digi Sport 1"  group-title="ROMANIA",Digi Sport 1
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68898
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Taraf HD"  group-title="Romania",Taraf HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31755
+#EXTINF:-1, tvg-id="DigiSport2.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DIGISPORT2.png" tvg-name="Digi Sport 2"  group-title="ROMANIA",Digi Sport 2
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68899
 
-#EXTINF:-1, tvg-id="TarafTV.ro" tvg-logo="Logo N/A" tvg-name="Taraf Tv"  group-title="Romania",Taraf Tv
-http://mu01.v5iptv.com:8880/test11292/1234567/31866
+#EXTINF:-1, tvg-id="DigiSport2.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DIGISPORT2.png" tvg-name="Digi Sport 2"  group-title="ROMANIA",Digi Sport 2
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68900
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TELEKOM SPORT 1 FHD"  group-title="Romania",TELEKOM SPORT 1 FHD
-http://mu01.v5iptv.com:8880/test11292/1234567/31754
+#EXTINF:-1, tvg-id="DigiSport3.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DIGISPORT3.png" tvg-name="Digi Sport 3"  group-title="ROMANIA",Digi Sport 3
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68901
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TELEKOM SPORT 3 FHD"  group-title="Romania",TELEKOM SPORT 3 FHD
-http://mu01.v5iptv.com:8880/test11292/1234567/31753
+#EXTINF:-1, tvg-id="DigiSport4.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/DIGISPORT4.png" tvg-name="Digi Sport 4"  group-title="ROMANIA",Digi Sport 4
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68902
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TELEKOM SPORT 4 FHD"  group-title="Romania",TELEKOM SPORT 4 FHD
-http://mu01.v5iptv.com:8880/test11292/1234567/31752
+#EXTINF:-1, tvg-id="ExtremeSportsChannel.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/EXTREMESPORT.png" tvg-name="Extreme Sports Channel"  group-title="ROMANIA",Extreme Sports Channel
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68903
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TeleMoldovaPlus"  group-title="Romania",TeleMoldovaPlus
-http://mu01.v5iptv.com:8880/test11292/1234567/31867
+#EXTINF:-1, tvg-id="Eurosport1.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/EUROSPORT.png" tvg-name="Eurosport1 - România"  group-title="ROMANIA",Eurosport1 - România
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68904
 
-#EXTINF:-1, tvg-id="TLC.ro" tvg-logo="Logo N/A" tvg-name="TLC"  group-title="Romania",TLC
-http://mu01.v5iptv.com:8880/test11292/1234567/31751
+#EXTINF:-1, tvg-id="Eurosport2.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/EUROSPORT.png" tvg-name="Eurosport2 - România"  group-title="ROMANIA",Eurosport2 - România
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68905
 
-#EXTINF:-1, tvg-id="TNT.ro" tvg-logo="Logo N/A" tvg-name="TNT"  group-title="Romania",TNT
-http://mu01.v5iptv.com:8880/test11292/1234567/31750
+#EXTINF:-1, tvg-id="Eurosport2.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/EUROSPORT.png" tvg-name="Eurosport2 - România"  group-title="ROMANIA",Eurosport2 - România
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68906
 
-#EXTINF:-1, tvg-id="TravelChannel.ro" tvg-logo="Logo N/A" tvg-name="Travel Channel FHD"  group-title="Romania",Travel Channel FHD
-http://mu01.v5iptv.com:8880/test11292/1234567/31749
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/ELEVENSPORTS.png" tvg-name="ELEVENSPORTS 1"  group-title="ROMANIA",ELEVENSPORTS 1
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68907
 
-#EXTINF:-1, tvg-id="TrinitasTV.ro" tvg-logo="Logo N/A" tvg-name="TRINITAS TV"  group-title="Romania",TRINITAS TV
-http://mu01.v5iptv.com:8880/test11292/1234567/31748
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/ELEVENSPORTS.png" tvg-name="ELEVENSPORTS 2"  group-title="ROMANIA",ELEVENSPORTS 2
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68908
 
-#EXTINF:-1, tvg-id="TV1000.ro" tvg-logo="Logo N/A" tvg-name="TV 1000"  group-title="Romania",TV 1000
-http://mu01.v5iptv.com:8880/test11292/1234567/31870
+#EXTINF:-1, tvg-id="PROTV.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/PROOTV.png" tvg-name="PRO TV"  group-title="ROMANIA",PRO TV
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68909
 
-#EXTINF:-1, tvg-id="TV1000.ro" tvg-logo="Logo N/A" tvg-name="TV 1000 HD"  group-title="Romania",TV 1000 HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31747
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/AUTOMOTOR.png" tvg-name="AUTO MOTOR SPORT"  group-title="ROMANIA",AUTO MOTOR SPORT
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68910
 
-#EXTINF:-1, tvg-id="TV1000.ro" tvg-logo="Logo N/A" tvg-name="TV1000"  group-title="Romania",TV1000
-http://mu01.v5iptv.com:8880/test11292/1234567/31856
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FIGHTBOXHD.png" tvg-name="FIGHTBOX"  group-title="ROMANIA",FIGHTBOX
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68911
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV5 Monde"  group-title="Romania",TV5 Monde
-http://mu01.v5iptv.com:8880/test11292/1234567/31746
+#EXTINF:-1, tvg-id="LookSport.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/LOOKSPORT.png" tvg-name="Look Sport"  group-title="ROMANIA",Look Sport
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68912
 
-#EXTINF:-1, tvg-id="TVR1.ro" tvg-logo="Logo N/A" tvg-name="TVR 1"  group-title="Romania",TVR 1
-http://mu01.v5iptv.com:8880/test11292/1234567/31871
-
-#EXTINF:-1, tvg-id="TVR1.ro" tvg-logo="Logo N/A" tvg-name="TVR 1 HD"  group-title="Romania",TVR 1 HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31745
-
-#EXTINF:-1, tvg-id="TVR2.ro" tvg-logo="Logo N/A" tvg-name="TVR 2"  group-title="Romania",TVR 2
-http://mu01.v5iptv.com:8880/test11292/1234567/31872
-
-#EXTINF:-1, tvg-id="TVR2.ro" tvg-logo="Logo N/A" tvg-name="TVR 2 HD"  group-title="Romania",TVR 2 HD
-http://mu01.v5iptv.com:8880/test11292/1234567/31787
-
-#EXTINF:-1, tvg-id="TVRInternational.ro" tvg-logo="Logo N/A" tvg-name="TVR International"  group-title="Romania",TVR International
-http://mu01.v5iptv.com:8880/test11292/1234567/31854
-
-#EXTINF:-1, tvg-id="UTV.ro" tvg-logo="Logo N/A" tvg-name="U TV"  group-title="Romania",U TV
-http://mu01.v5iptv.com:8880/test11292/1234567/31869
-
-#EXTINF:-1, tvg-id="UTV.ro" tvg-logo="Logo N/A" tvg-name="U TV"  group-title="Romania",U TV
-http://mu01.v5iptv.com:8880/test11292/1234567/31873
-
-#EXTINF:-1, tvg-id="ViasatExplorer.ro" tvg-logo="Logo N/A" tvg-name="VIASAT EXPLORER"  group-title="Romania",VIASAT EXPLORER
-http://mu01.v5iptv.com:8880/test11292/1234567/31874
-
-#EXTINF:-1, tvg-id="ViasatExplorer.ro" tvg-logo="Logo N/A" tvg-name="VIASAT EXPLORER"  group-title="Romania",VIASAT EXPLORER
-http://mu01.v5iptv.com:8880/test11292/1234567/31861
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Viasat Nature"  group-title="Romania",Viasat Nature
-http://mu01.v5iptv.com:8880/test11292/1234567/31792
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VIASAT NATURE"  group-title="Romania",VIASAT NATURE
-http://mu01.v5iptv.com:8880/test11292/1234567/31875
+#EXTINF:-1, tvg-id="LookSport.ro" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/LOOKSPORT.png" tvg-name="Look Sport"  group-title="ROMANIA",Look Sport
+http://tvservice.pro:80/916144508306/mvzGX2bHuJowGlh/68913
 
