@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sources>
+
+<!--
+You can list as many <source> entries in a file as you wish.
+Files or urls for sources and channels ending in '.gz' will be treated as
+gzipped and decompressed while processing.
+Use the "type" attribute to set the python module that handles the file,
+currently only type="gen_xmltv" is supported, more will follow once this plugin
+gets more popular.
+The channels property is the local file or URL with channel ID to service ref
+mappings. The default is the same filename but with .channels.xml as extension.
+Each source may use a different channels definition, or multiple sources may use
+the same, whatever is convenient.
+The description must be unique for each source, and is displayed on the UI.
+-->
+
+<source type="gen_xmltv" channels="http://epg.vuplus-community.net/rytec.channels.xml.xz">
+	<description>News Channels XMLTV  (xz)</description>
+	<url>http://epg.vuplus-community.net/rytecNWS.xz</url>
+</source>
+<source type="gen_xmltv" channels="http://epg.vuplus-community.net/rytec.channels.xml.xz">
+	<description>acidjesuz</description>
+	<url>https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml</url>
+</source>
+<source type="gen_xmltv" channels="http://epg.vuplus-community.net/rytec.channels.xml.xz">
+	<description>AFN (xz)</description>
+	<url>http://epg.vuplus-community.net/rytecAFN.xz</url>
+</source>
+<source type="gen_xmltv" channels="http://epg.vuplus-community.net/rytec.channels.xml.xz">
+	<description>Rytec IPTV XMLTV (xz)</description>
+	<url>http://epg.vuplus-community.net/rytecIPTV.xz</url>
+</source>
+<source type="gen_xmltv" channels="http://epg.vuplus-community.net/rytec.channels.xml.xz">
+	<description>Miscellaneous XMLTV (xz)</description>
+	<url>http://epg.vuplus-community.net/rytecMisc.xz</url>
+</source>
+
+
+
+<source type="gen_xmltv" channels="http://epg.vuplus-community.net/rytec.channels.xml.xz">
+	<description>Kens</description>
+	<url>https://raw.githubusercontent.com/kens13/EPG/master/guide_ks.xml</url>
+</source>
+
+<source type="gen_xmltv" channels="http://epg.vuplus-community.net/rytec.channels.xml.xz">
+	<description>Romania - Baza (xz)</description>
+	<url>http://epg.vuplus-community.net/rytecRO_Basic.xz</url>
+</source>
+<source type="gen_xmltv" channels="http://epg.vuplus-community.net/rytec.channels.xml.xz">
+	<description>Romania - Sport/Film (xz)</description>
+	<url>http://epg.vuplus-community.net/rytecRO_SportMovies.xz</url>
+</source>
+
+
+</sources>
+
