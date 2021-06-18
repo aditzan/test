@@ -1,0 +1,149 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/p87vnrxxwpue7v8n41jm"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="✦●✦ GENERAL ✦●✦" tvg-logo="http://logo.megaott.net/ROMANIA/ROMANIA.png" group-title="EU | ROMANIA HD",✦●✦ GENERAL ✦●✦
+http://ip354.cx:80/live/519165277711209/781066389400834/116028.ts
+#EXTINF:-1 tvg-id="TVR1(src01).ro" tvg-name="TVR 1" tvg-logo="https://logo.megaott.net/ROMANIA/tvr1.png" group-title="EU | ROMANIA HD",TVR 1
+http://ip354.cx:80/live/519165277711209/781066389400834/17337.ts
+#EXTINF:-1 tvg-id="TVR2(src01).ro" tvg-name="TVR 2" tvg-logo="http://logo.megaott.net/ROMANIA/tvr2.png" group-title="EU | ROMANIA HD",TVR 2
+http://ip354.cx:80/live/519165277711209/781066389400834/17336.ts
+#EXTINF:-1 tvg-id="PROTV(src01).ro" tvg-name="PRO TV HD" tvg-logo="https://logo.megaott.net/ROMANIA/protv.png" group-title="EU | ROMANIA HD",PRO TV HD
+http://ip354.cx:80/live/519165277711209/781066389400834/166363.ts
+#EXTINF:-1 tvg-id="RealitateaPlus(src01).ro" tvg-name="REALITATEA TV" tvg-logo="http://logo.megaott.net/ROMANIA/realitatea.png" group-title="EU | ROMANIA HD",REALITATEA TV
+http://ip354.cx:80/live/519165277711209/781066389400834/17340.ts
+#EXTINF:-1 tvg-id="Antena1(src01).ro" tvg-name="ANTENA 1" tvg-logo="http://logo.megaott.net/ROMANIA/antena1hd.png" group-title="EU | ROMANIA HD",ANTENA 1
+http://ip354.cx:80/live/519165277711209/781066389400834/17379.ts
+#EXTINF:-1 tvg-id="PrimaTV(src01).ro" tvg-name="PRIMA TV" tvg-logo="https://logo.megaott.net/ROMANIA/primatvro.png" group-title="EU | ROMANIA HD",PRIMA TV
+http://ip354.cx:80/live/519165277711209/781066389400834/17343.ts
+#EXTINF:-1 tvg-id="PROTV(src01).ro" tvg-name="PRO TV NEWS" tvg-logo="https://logo.megaott.net/ROMANIA/protv.png" group-title="EU | ROMANIA HD",PRO TV NEWS
+http://ip354.cx:80/live/519165277711209/781066389400834/17326.ts
+#EXTINF:-1 tvg-id="Antena3(src01).ro" tvg-name="ANTENA 3" tvg-logo="http://logo.megaott.net/ROMANIA/antena3.png" group-title="EU | ROMANIA HD",ANTENA 3
+http://ip354.cx:80/live/519165277711209/781066389400834/17378.ts
+#EXTINF:-1 tvg-id="Digi24(src01).ro" tvg-name="DIGI 24 HD" tvg-logo="http://logo.megaott.net/ROMANIA/digi24.png" group-title="EU | ROMANIA HD",DIGI 24 HD
+http://ip354.cx:80/live/519165277711209/781066389400834/17364.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="✦●✦ SPORTS ✦●✦" tvg-logo="http://logo.megaott.net/ROMANIA/ROMANIA.png" group-title="EU | ROMANIA HD",✦●✦ SPORTS ✦●✦
+http://ip354.cx:80/live/519165277711209/781066389400834/116029.ts
+#EXTINF:-1 tvg-id="DigiSport1(src01).ro" tvg-name="DIGI SPORT 1" tvg-logo="https://logo.megaott.net/ROMANIA/digisport1.png" group-title="EU | ROMANIA HD",DIGI SPORT 1
+http://ip354.cx:80/live/519165277711209/781066389400834/17311.ts
+#EXTINF:-1 tvg-id="DigiSport2(src01).ro" tvg-name="DIGI SPORT 2" tvg-logo="https://logo.megaott.net/ROMANIA/digisport2.png" group-title="EU | ROMANIA HD",DIGI SPORT 2
+http://ip354.cx:80/live/519165277711209/781066389400834/17310.ts
+#EXTINF:-1 tvg-id="DigiSport3(src01).ro" tvg-name="DIGI SPORT 3" tvg-logo="https://logo.megaott.net/ROMANIA/digisport3.png" group-title="EU | ROMANIA HD",DIGI SPORT 3
+http://ip354.cx:80/live/519165277711209/781066389400834/17309.ts
+#EXTINF:-1 tvg-id="DigiSport4(src01).ro" tvg-name="DIGI SPORT 4" tvg-logo="https://logo.megaott.net/ROMANIA/digisport4.png" group-title="EU | ROMANIA HD",DIGI SPORT 4
+http://ip354.cx:80/live/519165277711209/781066389400834/17308.ts
+#EXTINF:-1 tvg-id="Eurosport1(src02).ro" tvg-name="EUROSPORT 1" tvg-logo="http://logo.megaott.net/ROMANIA/eurosport1.png" group-title="EU | ROMANIA HD",EUROSPORT 1
+http://ip354.cx:80/live/519165277711209/781066389400834/17307.ts
+#EXTINF:-1 tvg-id="Eurosport2(src02).ro" tvg-name="EUROSPORT 2" tvg-logo="http://logo.megaott.net/ROMANIA/eurosport2.png" group-title="EU | ROMANIA HD",EUROSPORT 2
+http://ip354.cx:80/live/519165277711209/781066389400834/17306.ts
+#EXTINF:-1 tvg-id="LookSport(src01).ro" tvg-name="LOOK SPORT" tvg-logo="https://logo.megaott.net/ROMANIA/looksport.png" group-title="EU | ROMANIA HD",LOOK SPORT
+http://ip354.cx:80/live/519165277711209/781066389400834/17329.ts
+#EXTINF:-1 tvg-id="LookPlus(src01).ro" tvg-name="LOOK SPORT PLUS" tvg-logo="http://logo.megaott.net/ROMANIA/looksportplus.png" group-title="EU | ROMANIA HD",LOOK SPORT PLUS
+http://ip354.cx:80/live/519165277711209/781066389400834/17330.ts
+#EXTINF:-1 tvg-id="PROX(src01).ro" tvg-name="PRO X" tvg-logo="http://logo.megaott.net/ROMANIA/prox.png" group-title="EU | ROMANIA HD",PRO X
+http://ip354.cx:80/live/519165277711209/781066389400834/17325.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEKOM SPORT 1 HD" tvg-logo="https://logo.megaott.net/ROMANIA/telekomsport1.png" group-title="EU | ROMANIA HD",TELEKOM SPORT 1 HD
+http://ip354.cx:80/live/519165277711209/781066389400834/17305.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEKOM SPORT 2 HD" tvg-logo="https://logo.megaott.net/ROMANIA/telekomsport2.png" group-title="EU | ROMANIA HD",TELEKOM SPORT 2 HD
+http://ip354.cx:80/live/519165277711209/781066389400834/17304.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEKOM SPORT 3 HD" tvg-logo="https://logo.megaott.net/ROMANIA/telekomsport3.png" group-title="EU | ROMANIA HD",TELEKOM SPORT 3 HD
+http://ip354.cx:80/live/519165277711209/781066389400834/17303.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEKOM SPORT 4 HD" tvg-logo="https://logo.megaott.net/ROMANIA/telekomsport4.png" group-title="EU | ROMANIA HD",TELEKOM SPORT 4 HD
+http://ip354.cx:80/live/519165277711209/781066389400834/17302.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEKOM SPORT 6  [LIVE DURING EVENTS ONLY]" tvg-logo="https://logo.megaott.net/ROMANIA/telekomsport6.png" group-title="EU | ROMANIA HD",TELEKOM SPORT 6  [LIVE DURING EVENTS ONLY]
+http://ip354.cx:80/live/519165277711209/781066389400834/376138.ts
+#EXTINF:-1 tvg-id="ExtremeSportsChannel(English).de" tvg-name="EXTREME SPORTS CHANNEL" tvg-logo="https://logo.megaott.net/ROMANIA/extremesportschannel.png" group-title="EU | ROMANIA HD",EXTREME SPORTS CHANNEL
+http://ip354.cx:80/live/519165277711209/781066389400834/171440.ts
+#EXTINF:-1 tvg-id="FightBox(English).mx" tvg-name="FIGHT BOX HD" tvg-logo="http://logo.megaott.net/ROMANIA/fightbox.png" group-title="EU | ROMANIA HD",FIGHT BOX HD
+http://ip354.cx:80/live/519165277711209/781066389400834/171441.ts
+#EXTINF:-1 tvg-id="TheFishingandHuntingChannel(src01).ro" tvg-name="FISHING AND HUNTING" tvg-logo="http://logo.megaott.net/ROMANIA/fishandhuntinghd.png" group-title="EU | ROMANIA HD",FISHING AND HUNTING
+http://ip354.cx:80/live/519165277711209/781066389400834/17355.ts
+#EXTINF:-1 tvg-id="AutoMotorSport.de" tvg-name="AUTO MOTOR SPORT" tvg-logo="http://logo.megaott.net/ROMANIA/automotorsport.png" group-title="EU | ROMANIA HD",AUTO MOTOR SPORT
+http://ip354.cx:80/live/519165277711209/781066389400834/171420.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="✦●✦ MUSIC✦●✦" tvg-logo="http://logo.megaott.net/ROMANIA/ROMANIA.png" group-title="EU | ROMANIA HD",✦●✦ MUSIC✦●✦
+http://ip354.cx:80/live/519165277711209/781066389400834/171495.ts
+#EXTINF:-1 tvg-id="MusicChannel(src01).ro" tvg-name="1 MUSIC CHANNEL" tvg-logo="http://logo.megaott.net/ROMANIA/musicchannel.png" group-title="EU | ROMANIA HD",1 MUSIC CHANNEL
+http://ip354.cx:80/live/519165277711209/781066389400834/17347.ts
+#EXTINF:-1 tvg-id="UTV(src01).ro" tvg-name="UTV" tvg-logo="https://logo.megaott.net/ROMANIA/tvutv.png" group-title="EU | ROMANIA HD",UTV
+http://ip354.cx:80/live/519165277711209/781066389400834/376130.ts
+#EXTINF:-1 tvg-id="IneditTV(src01).ro" tvg-name="INEDIT TV" tvg-logo="https://logo.megaott.net/ROMANIA/inedittv.png" group-title="EU | ROMANIA HD",INEDIT TV
+http://ip354.cx:80/live/519165277711209/781066389400834/166353.ts
+#EXTINF:-1 tvg-id="KissTV(src01).ro" tvg-name="KISS TV HD" tvg-logo="http://logo.megaott.net/ROMANIA/kisstv.png" group-title="EU | ROMANIA HD",KISS TV HD
+http://ip354.cx:80/live/519165277711209/781066389400834/171452.ts
+#EXTINF:-1 tvg-id="MezzoTV(src01).ro" tvg-name="MEZZO" tvg-logo="https://logo.megaott.net/ROMANIA/mezzo.png" group-title="EU | ROMANIA HD",MEZZO
+http://ip354.cx:80/live/519165277711209/781066389400834/171456.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAGIC TV HD" tvg-logo="http://logo.megaott.net/ROMANIA/magictv.png" group-title="EU | ROMANIA HD",MAGIC TV HD
+http://ip354.cx:80/live/519165277711209/781066389400834/171454.ts
+#EXTINF:-1 tvg-id="ZUTV(src01).ro" tvg-name="ZU TV HD" tvg-logo="https://logo.megaott.net/ROMANIA/zutv.png" group-title="EU | ROMANIA HD",ZU TV HD
+http://ip354.cx:80/live/519165277711209/781066389400834/170054.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="✦●✦ DOCUMENTARY✦●✦" tvg-logo="http://logo.megaott.net/ROMANIA/ROMANIA.png" group-title="EU | ROMANIA HD",✦●✦ DOCUMENTARY✦●✦
+http://ip354.cx:80/live/519165277711209/781066389400834/116030.ts
+#EXTINF:-1 tvg-id="NatGeoWild(src02).ro" tvg-name="NATIONAL GEO WILD" tvg-logo="http://logo.megaott.net/ROMANIA/natgeowild.png" group-title="EU | ROMANIA HD",NATIONAL GEO WILD
+http://ip354.cx:80/live/519165277711209/781066389400834/17346.ts
+#EXTINF:-1 tvg-id="NationalGeographic(src01).ro" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://logo.megaott.net/ROMANIA/nationalgeographic.png" group-title="EU | ROMANIA HD",NATIONAL GEOGRAPHIC
+http://ip354.cx:80/live/519165277711209/781066389400834/17327.ts
+#EXTINF:-1 tvg-id="History(src01).ro" tvg-name="HISTORY CHANNEL" tvg-logo="http://logo.megaott.net/ROMANIA/HISTORYCHANNEL.png" group-title="EU | ROMANIA HD",HISTORY CHANNEL
+http://ip354.cx:80/live/519165277711209/781066389400834/17332.ts
+#EXTINF:-1 tvg-id="DigiWorld(src01).ro" tvg-name="DIGI WORLD" tvg-logo="http://logo.megaott.net/ROMANIA/digiworld.png" group-title="EU | ROMANIA HD",DIGI WORLD
+http://ip354.cx:80/live/519165277711209/781066389400834/17359.ts
+#EXTINF:-1 tvg-id="Digi24(src01).ro" tvg-name="DIGI 24 CRAIOVA" tvg-logo="http://logo.megaott.net/ROMANIA/digi24.png" group-title="EU | ROMANIA HD",DIGI 24 CRAIOVA
+http://ip354.cx:80/live/519165277711209/781066389400834/17360.ts
+#EXTINF:-1 tvg-id="DigiLife(src01).ro" tvg-name="DIGI LIFE" tvg-logo="http://logo.megaott.net/ROMANIA/digilife.png" group-title="EU | ROMANIA HD",DIGI LIFE
+http://ip354.cx:80/live/519165277711209/781066389400834/17361.ts
+#EXTINF:-1 tvg-id="DIGIAnimalWorld(src01).ro" tvg-name="DIGI ANIMAL WORLD" tvg-logo="http://logo.megaott.net/ROMANIA/digianimalworld.png" group-title="EU | ROMANIA HD",DIGI ANIMAL WORLD
+http://ip354.cx:80/live/519165277711209/781066389400834/17363.ts
+#EXTINF:-1 tvg-id="DivaUniversal(src01).ro" tvg-name="DIVA" tvg-logo="https://logo.megaott.net/ROMANIA/diva.png" group-title="EU | ROMANIA HD",DIVA
+http://ip354.cx:80/live/519165277711209/781066389400834/166348.ts
+#EXTINF:-1 tvg-id="DTX(src01).si" tvg-name="DTX HD" tvg-logo="https://logo.megaott.net/ROMANIA/dtx.png" group-title="EU | ROMANIA HD",DTX HD
+http://ip354.cx:80/live/519165277711209/781066389400834/171438.ts
+#EXTINF:-1 tvg-id="EEntertainment(src01).ro" tvg-name="E! HD" tvg-logo="https://logo.megaott.net/ROMANIA/eentertainment.png" group-title="EU | ROMANIA HD",E! HD
+http://ip354.cx:80/live/519165277711209/781066389400834/166350.ts
+#EXTINF:-1 tvg-id="CBSReality(src01).ro" tvg-name="CBS REALITY" tvg-logo="http://logo.megaott.net/ROMANIA/cbsreality.png" group-title="EU | ROMANIA HD",CBS REALITY
+http://ip354.cx:80/live/519165277711209/781066389400834/171430.ts
+#EXTINF:-1 tvg-id="FineLivingNetwork(src01).hr" tvg-name="FINE LIVING HD" tvg-logo="http://logo.megaott.net/ROMANIA/fineliving.png" group-title="EU | ROMANIA HD",FINE LIVING HD
+http://ip354.cx:80/live/519165277711209/781066389400834/170035.ts
+#EXTINF:-1 tvg-id="DiscoveryScience(src01).ro" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://logo.megaott.net/ROMANIA/discoveryscience.png" group-title="EU | ROMANIA HD",DISCOVERY SCIENCE HD
+http://ip354.cx:80/live/519165277711209/781066389400834/376125.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel(src01).ro" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://logo.megaott.net/ROMANIA/discovery.png" group-title="EU | ROMANIA HD",DISCOVERY CHANNEL
+http://ip354.cx:80/live/519165277711209/781066389400834/166347.ts
+#EXTINF:-1 tvg-id="CrimeplusInvestigation(src01).ro" tvg-name="CRIME+ INVESTIGATION" tvg-logo="https://logo.megaott.net/ROMANIA/crimeandinvest.png" group-title="EU | ROMANIA HD",CRIME+ INVESTIGATION
+http://ip354.cx:80/live/519165277711209/781066389400834/171434.ts
+#EXTINF:-1 tvg-id="DocuBox(src01).ro" tvg-name="DOCUBOX" tvg-logo="https://logo.megaott.net/ROMANIA/docubox.png" group-title="EU | ROMANIA HD",DOCUBOX
+http://ip354.cx:80/live/519165277711209/781066389400834/171437.ts
+#EXTINF:-1 tvg-id="TVPaprika(src01).ro" tvg-name="TV PAPRIKA" tvg-logo="https://logo.megaott.net/ROMANIA/tvpaprika.png" group-title="EU | ROMANIA HD",TV PAPRIKA
+http://ip354.cx:80/live/519165277711209/781066389400834/17318.ts
+#EXTINF:-1 tvg-id="ViasatNature(src01).ro" tvg-name="VIASAT NATURE" tvg-logo="https://logo.megaott.net/ROMANIA/viasatnature.png" group-title="EU | ROMANIA HD",VIASAT NATURE
+http://ip354.cx:80/live/519165277711209/781066389400834/17312.ts
+#EXTINF:-1 tvg-id="ViasatHistory(src01).ro" tvg-name="VIASAT HISTORY" tvg-logo="https://logo.megaott.net/ROMANIA/viasathistory.png" group-title="EU | ROMANIA HD",VIASAT HISTORY
+http://ip354.cx:80/live/519165277711209/781066389400834/17313.ts
+#EXTINF:-1 tvg-id="ViasatExplorer(src01).ro" tvg-name="VIASAT EXPLORE" tvg-logo="https://logo.megaott.net/ROMANIA/viasatexplore.png" group-title="EU | ROMANIA HD",VIASAT EXPLORE
+http://ip354.cx:80/live/519165277711209/781066389400834/17314.ts
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="FOOD NETWORK HD" tvg-logo="https://logo.megaott.net/ROMANIA/foodnetwork.png" group-title="EU | ROMANIA HD",FOOD NETWORK HD
+http://ip354.cx:80/live/519165277711209/781066389400834/171446.ts
+#EXTINF:-1 tvg-id="TLC(src01).ro" tvg-name="TLC" tvg-logo="http://logo.megaott.net/ROMANIA/tlc.png" group-title="EU | ROMANIA HD",TLC
+http://ip354.cx:80/live/519165277711209/781066389400834/166367.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="✦●✦ CINEMA✦●✦" tvg-logo="http://logo.megaott.net/ROMANIA/flagromania.png" group-title="EU | ROMANIA HD",✦●✦ CINEMA✦●✦
+http://ip354.cx:80/live/519165277711209/781066389400834/171496.ts
+#EXTINF:-1 tvg-id="PROCinema(src01).ro" tvg-name="PRO CINEMA" tvg-logo="http://logo.megaott.net/ROMANIA/procinema.png" group-title="EU | ROMANIA HD",PRO CINEMA
+http://ip354.cx:80/live/519165277711209/781066389400834/17342.ts
+#EXTINF:-1 tvg-id="AXNWhite(src01).ro" tvg-name="AXN WHITE HD" tvg-logo="http://logo.megaott.net/ROMANIA/axnwhite.png" group-title="EU | ROMANIA HD",AXN WHITE HD
+http://ip354.cx:80/live/519165277711209/781066389400834/17371.ts
+#EXTINF:-1 tvg-id="AXNBlack(src01).ro" tvg-name="AXN BLACK" tvg-logo="http://logo.megaott.net/ROMANIA/axnblack.png" group-title="EU | ROMANIA HD",AXN BLACK
+http://ip354.cx:80/live/519165277711209/781066389400834/17372.ts
+#EXTINF:-1 tvg-id="AXNSpin(src01).ro" tvg-name="AXN SPIN ADRIA" tvg-logo="http://logo.megaott.net/ROMANIA/axnspin.png" group-title="EU | ROMANIA HD",AXN SPIN ADRIA
+http://ip354.cx:80/live/519165277711209/781066389400834/166302.ts
+#EXTINF:-1 tvg-id="AXN(src01).ro" tvg-name="AXN RO" tvg-logo="http://logo.megaott.net/ROMANIA/axnromania.png" group-title="EU | ROMANIA HD",AXN RO
+http://ip354.cx:80/live/519165277711209/781066389400834/17375.ts
+#EXTINF:-1 tvg-id="Cinemax2(src01).ro" tvg-name="CINEMAX 2" tvg-logo="http://logo.megaott.net/ROMANIA/cinemax2.png" group-title="EU | ROMANIA HD",CINEMAX 2
+http://ip354.cx:80/live/519165277711209/781066389400834/17366.ts
+#EXTINF:-1 tvg-id="CineMAX(src01).ro" tvg-name="CINEMAX" tvg-logo="http://logo.megaott.net/ROMANIA/cinemax.png" group-title="EU | ROMANIA HD",CINEMAX
+http://ip354.cx:80/live/519165277711209/781066389400834/17367.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMARATON HD" tvg-logo="https://logo.megaott.net/ROMANIA/cinemaraton.png" group-title="EU | ROMANIA HD",CINEMARATON HD
+http://ip354.cx:80/live/519165277711209/781066389400834/169990.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO MANIA" tvg-logo="https://logo.megaott.net/ROMANIA/hbo.png" group-title="EU | ROMANIA HD",HBO MANIA
+http://ip354.cx:80/live/519165277711209/781066389400834/171448.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ACTUALITATEA TV" tvg-logo="" group-title="EU | ROMANIA HD",ACTUALITATEA TV
+http://ip354.cx:80/live/519165277711209/781066389400834/166339.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANTENA COMEDY" tvg-logo="http://logo.megaott.net/ROMANIA/antena1hd.png" group-title="EU | ROMANIA HD",ANTENA COMEDY
+http://ip354.cx:80/live/519165277711209/781066389400834/171417.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PROFIT" tvg-logo="https://logo.megaott.net/ROMANIA/profitro.png" group-title="EU | ROMANIA HD",PROFIT
+http://ip354.cx:80/live/519165277711209/781066389400834/171469.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELESTAR1 HD" tvg-logo="http://logo.megaott.net/ROMANIA/telestar.png" group-title="EU | ROMANIA HD",TELESTAR1 HD
+http://ip354.cx:80/live/519165277711209/781066389400834/171476.ts
